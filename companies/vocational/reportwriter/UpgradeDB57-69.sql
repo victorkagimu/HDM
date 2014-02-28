@@ -1,0 +1,16 @@
+UPDATE config SET confvalue = '4.0' WHERE confname='VersionNumber';
+UPDATE prices SET enddate = '2030-01-01' WHERE enddate = '0000-00-00';
+ALTER TABLE prices ALTER COLUMN enddate SET DEFAULT '2030-01-01';
+ALTER TABLE recurrsalesorderdetails ADD CONSTRAINT recurrsalesorderdetails_ibfk_1 FOREIGN KEY (recurrorderno) REFERENCES recurringsalesorders (recurrorderno);
+INSERT INTO pagesecurity (script,security) VALUES ('SupplierTenders.php','9');
+UPDATE securitytokens SET tokenname='Supplier tendering' WHERE tokenid=9;
+UPDATE securitytokens SET tokenname='Prices security' WHERE tokenid=6;
+UPDATE config SET confvalue = '4.0' WHERE confname='VersionNumber';
+UPDATE config SET confvalue = '4.0.1' WHERE confname='VersionNumber';
+INSERT INTO pagesecurity (script,security) VALUES ('PDFQuotationPortrait.php','2');
+INSERT INTO securitytokens (tokenid, tokenname) VALUES ('0','Main Index Page');
+UPDATE pagesecurity SET security='0' WHERE script='Index.php';
+ALTER TABLE `banktrans` ADD COLUMN `chequeno` int(11) NOT NULL DEFAULT '0' AFTER `ref`;
+ALTER TABLE `paymentmethods` ADD COLUMN `forpreprint` tinyint(1) NOT NULL DEFAULT '0' AFTER `receipttype`;
+INSERT INTO pagesecurity (script,security) VALUES ('SecurityTokens.php','15');
+ALTER TABLE `grns` ADD COLUMN `orderno` int(11) NOT NULL DEFAULT '0' AFTER `grnno`;

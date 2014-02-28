@@ -1,0 +1,52 @@
+203053 - 0 for period 36 to 47
+203053, 36, Brought Forward Balance,,,,269499409.25054
+203053,36, Journal - GL,1134,20/01/2012,12437368,,	Correction of wrong posting doctors off pay 2010,
+203053,36, Journal - GL,1135,20/01/2012,,12437368,Correction of wrong posting doctors off pay 2010 - supposed to be in 2011,
+203053,36, Payment - GL,11266,28/01/2012,167259529,,Part of Staff salary (HLH, Government and Wazee) f,None
+203053,36, Payment - GL,11267,28/01/2012,62977193,,Part of Staff cash salary (HLH, Government and Waz,None
+203053,36, Receipt,9545,28/01/2012,,5000000,Loan to support salary from HSN rv280693,None
+203053,36, Journal - GL,1278,28/01/2012,5000000,,Correction from A/c 203053 to 203039/2012,
+203053,36, Journal - GL,1105,31/01/2012,68350,,Corection rv268414/268413/2011,
+203053,36, Journal - GL,1108,31/01/2012,11140623.28,,Corection pv64064/2011 for Sept 2011,
+203053,36, Journal - GL,1109,31/01/2012,,11140623.28,Corection to 2011,
+203053,36, Journal - GL,1114,31/01/2012,,68350,correction from 2012 to 2011,
+203053,36, Journal - GL,1198,31/01/2012,,62977193,Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203053,36, Journal - GL,1200,31/01/2012,,167259529, Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203053, 36, Period Total,,,0
+203053,37, Receipt,10080,13/02/2012,,1190951.65,HSN fee deposited to HLH a/c rv 280471,None
+203053,37, Payment - GL,13171,13/02/2012,0.09,,Correction for amount overstated in HSN fee to HLH,None
+203053,37, Receipt,10078,28/02/2012,,2025528.65,NMB head office-hlh payable rv 280469,None
+203053,37, Receipt,10082,28/02/2012,2025528.65,,NMB head office-hlh payable rv 280469 corr,None
+203053,37, Journal - GL,1199,29/02/2012,,167259529, Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203053,37, Journal - GL,1201,29/02/2012,167259529,, Being correction of wrong booking to wrong period now corrected,
+203053, 37, Period Total,,,,1190951.56
+203053,39, Payment - GL,14325,12/04/2012,,1163386.2,correction payment lohay,
+203053,39, Receipt,10647,13/04/2012,,2048672.88,Mama Kari -cash deposite to HLH A/C rv 280497,None
+203053,39, Receipt,10244,16/04/2012,,750000,Paskali Zakayo - MAF payable rv286923,None
+203053,39, Receipt,10648,27/04/2012,,2554761.9,Dr.Olav-cash for reverent Lohay rv 280498,None
+203053, 39, Period Total,,,,6516820.98
+203053,40, Payment - GL,12988,11/05/2012,1190951.56,,Kitindi Sayori-tuition fee deposited in hlh A/C  r,None
+203053,40, Receipt,10813,16/05/2012,,311348,recvd from Sven Gudm Hinderaker for Michael Sulema,
+203053,40, Journal - GL,1368,21/05/2012,311348,,Sulema Michael - Paid for cash deposited to bank A/C (paid to foreign bank A/C),None
+203053,40, Payment - GL,13121,29/05/2012,3718148.1,,Haydom Lutheran Church-HLH payable pv 67782,None
+203053, 40, Period Total,,,4909099.66
+203053,41, Payment - GL,13183,01/06/2012,50000,,Mrs Espegren-pesa kwa ajili ya watoto walemavu pv ,None
+203053, 41, Period Total,,,50000
+203053,42, Receipt,11879,04/07/2012,,176475,NMB-salary for Paulo Sixbert to HLH rv 285434,None
+203053,42, Receipt,11213,17/07/2012,,180000,Paulo William FMS seh.ya malipo Ndege288324,
+203053,42, Receipt,11287,24/07/2012,,900000,Gabriel Joseph - malipo ya ndege rv288659,
+203053, 42, Period Total,,,,1256475
+203053,43, Receipt,11882,10/08/2012,,29275,NMB-salary for Paulo Sixbert to HLH rv 285437,None
+203053,43, Receipt,11883,31/08/2012,,179275,NMB-salary for Paulo Sixbert to HLH rv 285438,None
+203053, 43, Period Total,,,,208550
+203053,45, Payment - GL,15211,11/10/2012,385025,,Paulo  Sixbert-salary for June to August pv 69521,None
+203053,45, Receipt,12182,12/10/2012,,109281,NMB-salary for Paulo Sixbert to HLH rv 285441,None
+203053, 45, Period Total,,,275744
+203053,46, Receipt,12552,03/11/2012,,951000,NMB-Bank the amount wrongly credited rv 294406,
+203053,46, Payment - GL,15887,20/11/2012,109281,,Paulo  Sixbert- salary for Sept 2012 pv 70718,
+203053,46, Receipt,12478,21/11/2012,,851000,Malkiadi L/ Rozina  - malipo ya ndege FMS rv292916,None
+203053, 46, Period Total,,,,1692719
+203053,47, Receipt,12899,13/12/2012,,135135135.13514,Advance payment from Block Grant 2013 Nok 500000,None
+203053,47, Receipt,12796,21/12/2012,,996736,NBC-refund salary for Theodota Malisa  rv 294417,
+203053, 47, Period Total,,,,136131871.13514
+203053,47, Balance C/Fwd,,,,411261953.26568

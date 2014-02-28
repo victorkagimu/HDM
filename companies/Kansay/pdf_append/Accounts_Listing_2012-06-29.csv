@@ -1,0 +1,75 @@
+401011 - 1 for period 24 to 35
+401011,27, Journal - GL,740,30/04/2011,,2412143.4,NHIF Employer Contibution April 2011,
+401011,27, Journal - GL,1107,30/04/2011,,2383646,nhif for April 2011 corection GL 735/2011,
+401011, 27, Period Total,,,,4795789.4
+401011,28, Journal - GL,745,31/05/2011,2305583.4,,Salary for May for HSN &amp; HLH Staff and all deductions &amp; payables net pay,
+401011,28, Journal - GL,748,31/05/2011,12982.8,,NHIF Wazee Contribution for May 2011,
+401011, 28, Period Total,,,2318566.2
+401011,29, Payment - GL,8807,03/06/2011,2291844,,Employer,None
+401011,29, Payment - GL,8807,03/06/2011,2291844,,Employees,None
+401011,29, Journal - GL,1026,03/06/2011,,2291844,Correction of GL 8807 - NHIF contr. April 2011  pv 63322  ,
+401011,29, Journal - GL,778,30/06/2011,2309960.1,,Salary Analysis for the Month of June 2011and Receivables for other Project,
+401011,29, Journal - GL,785,30/06/2011,12982.8,,Wazee salary June &amp;deductions Ney Pay 2011,
+401011, 29, Period Total,,,4614786.9
+401011,30, Payment - GL,9514,16/07/2011,4611166.8,,NHIF- May 2011 pv63612,None
+401011,30, Journal - GL,1020,16/07/2011,,2305583.4,Correction of GL 9514 - NHIF contribution for HLH staff May 2011 pv63612,
+401011,30, Journal - GL,1028,16/07/2011,,2305583.4,Correction of GL 9514 - NHIF contribution for HLH staff May 2011 pv63612,
+401011,30, Journal - GL,787,31/07/2011,2275107.6,,Salary Analysis for Month of July 2011Allowance &amp; all deductions Receivable HSN,
+401011,30, Journal - GL,790,31/07/2011,12982.8,,Wazee - salary  Allowance &amp; deductions for July 2011,
+401011, 30, Period Total,,,2288090.4
+401011,31, Payment - GL,9569,12/08/2011,2275107.6,,Members,None
+401011,31, Payment - GL,9569,12/08/2011,2275107.6,,Employer,None
+401011,31, Journal - GL,1019,12/08/2011,,4550215,Correction of GL 9569 - NHIF contribution for HLH staff July 2011,
+401011,31, Journal - GL,835,30/08/2011,4321.5,,HLH staff wazee NHIF contribution for August 2011,
+401011,31, Journal - GL,835,30/08/2011,8661.3,,HLH staff wazee NHIF contribution for August 2011,Engineering Section ( Garage)
+401011,31, Journal - GL,834,31/08/2011,61038.7,,Garage staffs HHIFcontribution for August 2011,Engineering Section ( Garage)
+401011,31, Journal - GL,834,31/08/2011,1985381.6,,HLH staffs NHIF contribution for August 2011,
+401011, 31, Period Total,,,2059403.3
+401011,32, Payment - GL,9561,12/09/2011,2275107.6,,Members contribution,None
+401011,32, Payment - GL,9561,12/09/2011,2275107.6,,Employer contribution,None
+401011,32, Payment - GL,10406,12/09/2011,,4550215.2,Correction of amount already booked in August 12,None
+401011,32, Payment - GL,9589,16/09/2011,2309960.1,,NHIF contribution for June 2011 pv 64159,None
+401011,32, Journal - GL,844,30/09/2011,79152.3,,HLH Garage staff NHIF contribution -Sept.2011,Engineering Section ( Garage)
+401011,32, Journal - GL,844,30/09/2011,23460,,HLH New canteen staffs NHIF   Sept.2011,New Canteen
+401011,32, Journal - GL,844,30/09/2011,34143,,HLH Guest house staffs NHIF   Sept.2011,Guest House 
+401011,32, Journal - GL,844,30/09/2011,2151965.7,,HLH medical departments and Admin staff NHIF Sept.2011,None
+401011,32, Journal - GL,845,30/09/2011,8661.3,,NHIF contribution for Sept 2011 ,Engineering Section ( Garage)
+401011,32, Journal - GL,845,30/09/2011,4321.5,,Wazee - salary  NHIF Sept 2011,
+401011, 32, Period Total,,,4611663.9
+401011,33, Journal - GL,919,31/10/2011,34143,,Guest House staffs NHIF contribution for Oct 2011,Guest House 
+401011,33, Journal - GL,919,31/10/2011,20810,,New Canteen staffs NHIF contribution for Oct 2011,New Canteen
+401011,33, Journal - GL,919,31/10/2011,79152.3,,Garage staffs HHIFcontribution for Oct 2011,Engineering Section ( Garage)
+401011,33, Journal - GL,919,31/10/2011,2158473.7,,HLH medical departments and Admin staff NHIF Oct.2011,None
+401011,33, Journal - GL,920,31/10/2011,8661.3,,Wazee - garage NHIF contribution for Oct 2011 ,Engineering Section ( Garage)
+401011,33, Journal - GL,920,31/10/2011,4321.5,,Wazee - Medical and admini staff  NHIF contribution for Oct 2011 ,
+401011, 33, Period Total,,,2305561.8
+401011,34, Payment - GL,10311,17/11/2011,19926,,Anjelina Gishingde - NHIF contribution wrongly did,None
+401011,34, Payment - GL,10341,18/11/2011,9800,,Esta Nachan - Refund of NHIF wrong deduction, 6489,None
+401011,34, Payment - GL,10352,21/11/2011,2440090.8,,NHIF- employees contribution Oct 2011 pv64916,None
+401011,34, Payment - GL,10352,21/11/2011,2440090.8,,NHIF- employers contribution Oct 2011 pv64916,None
+401011,34, Payment - GL,10353,21/11/2011,,2440090.8,Correction NHIF- employers contribution Oct 2011 p,None
+401011,34, Payment - GL,10353,21/11/2011,,2440090.8,Correction NHIF- employees contribution Oct 2011 p,None
+401011,34, Payment - GL,10354,21/11/2011,4880181.6,,NHIF- contribution Oct 2011 pv64916,None
+401011,34, Payment - GL,10708,21/11/2011,4880181.6,,NHIF correction for wrong correction pv 64916,None
+401011,34, Journal - GL,1023,21/11/2011,,2440090.8,Corection GL 10354/2011 Oct2011,
+401011,34, Journal - GL,1024,21/11/2011,,2440090.8,Correction of Journal - GL 1021 Oct.2011,
+401011,34, Receipt,9289,21/11/2011,,4880181.6,Correction of GL 10352 - Oct. 2011 NHIF pv64916,None
+401011,34, Journal - GL,925,30/11/2011,12982.8,,Wazee -  NHIF contribution for Nov 2011,
+401011,34, Journal - GL,934,30/11/2011,70491,,HLH Garage staff NHIF contribution -Nov.2011,Engineering Section ( Garage)
+401011,34, Journal - GL,934,30/11/2011,20810,,HLH New canteen staffs NHIF   Nov.2011,New Canteen
+401011,34, Journal - GL,934,30/11/2011,34143,,Guest House staffs NHIF contribution for Nov 2011,Guest House 
+401011,34, Journal - GL,934,30/11/2011,2046495.4,,HLH medical departments and Admin staff NHIF Nov.2011,
+401011,34, Journal - GL,1133,30/11/2011,,2092989.3,Correction of NHIF wrongly posted 2011,
+401011, 34, Period Total,,,121658.9
+401011,35, Payment - GL,10546,07/12/2011,4658678.4,,NHIF - HLH Contribution, Nov. 2011, pv65111,None
+401011,35, Journal - GL,949,31/12/2011,8661.3,,Wazee - garage NHIF contribution for Dec 2011 ,Engineering Section ( Garage)
+401011,35, Journal - GL,949,31/12/2011,4321.5,,Wazee - Medical and admini staff NHIF contribution for Dec 2011 ,
+401011,35, Journal - GL,949,31/12/2011,,25965.6,Wazee NHIF contribution for Dec. 2011,
+401011,35, Journal - GL,963,31/12/2011,79152.3,,HLH Garage staff NHIF contribution -Dec.2011,Engineering Section ( Garage)
+401011,35, Journal - GL,963,31/12/2011,20810,, HLH New canteen staffs NHIF Dec.2011,New Canteen
+401011,35, Journal - GL,963,31/12/2011,34143,,Guest House staffs NHIF contribution for Dec 2011,Guest House 
+401011,35, Journal - GL,963,31/12/2011,2043436.3,,HLH medical departments and Admin staff NHIF Dec.2011,
+401011,35, Journal - GL,963,31/12/2011,,4643917.2,HLH staff NHIF contribution Dec.2011,
+401011,35, Journal - GL,1025,31/12/2011,4643917.2,,Correction of Journal - GL 963 NHIF for Dec.2011,
+401011, 35, Period Total,,,6823237.2
+401011,35, Total Period Movement,,,20347179.2

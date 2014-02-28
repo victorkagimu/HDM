@@ -1,0 +1,44 @@
+203068 - 0 for period 54 to 59
+203068, 54, Brought Forward Balance,,,0
+203068,54, Payment - GL,18394,30/07/2013,20041198,,NBC Bank-staff loan repayment July 2013 pv 73554,
+203068,54, Journal - GL,2224,31/07/2013,,405627,Loan from NBC to HSN Staff July Salary 2013,
+203068,54, Journal - GL,2229,31/07/2013,,4862384,NBC staff loan deductions for July 2013,
+203068,54, Journal - GL,2230,31/07/2013,,14773187,NBC staff loan deductions from HLH staff for July 2013,
+203068,54, Journal - GL,2395,31/07/2013,,405627,HLH paid on behaf of HSN Loan bank &amp;Tughe5% &amp;Umeme&amp; maji&amp; Rambix2 for July 2013,
+203068,54, Journal - GL,2396,31/07/2013,405627,,Corection wrong posting x2 see JE 2224 and 2395/July 2013 ,
+203068, 54, Period Total,,,0
+203068,55, Journal - GL,2369,29/08/2013,24236643,,Corr for amount posted to wrong bank account,
+203068,55, Journal - GL,2372,31/08/2013,,5751044,NBC staff loan deductions from government staff for August 2013,
+203068,55, Journal - GL,2374,31/08/2013,,18131213,NBC staff loan deductions from HLH staff for August 2013,
+203068, 55, Period Total,,,354386
+203068,56, Payment - GL,18949,28/09/2013,26692127,,NBC Bank-staff loan repayment Sept 2013 pv 73949,
+203068,56, Journal - GL,2428,30/09/2013,,6062853,NBC staff loan deductions from government staff for Sept. 2013,
+203068,56, Journal - GL,2431,30/09/2013,,20629274,NBC staff loan deductions from HLH staff for Sept. 2013,
+203068,56, Journal - GL,2515,30/09/2013,,179359,HGHI - J E (Rambi*2, school fund, TUGHE 5%, NBC Loan &amp; Adv salary) Ref. Sept. payroll,None
+203068, 56, Period Total,,,,179359
+203068,57, Journal - GL,2420,09/10/2013,,110375,NBC loan for Emanuela Tarmo for Aug 13 pv74458,
+203068,57, Payment - GL,19244,28/10/2013,32223409,,NBC-bank -staff loan  repayment October 2013 pv 74,
+203068,57, Journal - GL,2447,31/10/2013,,24902324,NBC staff loan deductions from HLH staff for Oct. 2013,
+203068,57, Journal - GL,2454,31/10/2013,,6606449,Staff Loan deduction for October 2013,
+203068,57, Journal - GL,2511,31/10/2013,,110375,4CCP - JE (Rambi*2, TUGHE 5%, Staff loan &amp; Adv.salary Ref. Oct. 2013 Payroll,None
+203068,57, Journal - GL,2516,31/10/2013,,289734,HGHI - J E (Rambi*2, school fund, TUGHE 5%, NBC Loan &amp; Adv salary) Ref. Oct. payroll,None
+203068, 57, Period Total,,,204152
+203068,58, Payment - GL,19490,29/11/2013,36166548,,NBC bank-staff loan repayment Nov 2013 pv 74796,
+203068,58, Payment - GL,19554,29/11/2013,,11,NBC Bank-staff loan repayment Nov 2013 overstated ,
+203068,58, Journal - GL,2491,30/11/2013,,6827199,NBC staff loan deductions from government staff for Nov. 2013,
+203068,58, Journal - GL,2496,30/11/2013,,28519857,NBC staff loan deductions from HLH staff for Nov. 2013,
+203068,58, Journal - GL,2512,30/11/2013,,110375,	4CCP - JE (Rambi*2, TUGHE 5%, Staff loan &amp; Adv.salary Ref. Nov. 2013 Payroll,None
+203068,58, Journal - GL,2517,30/11/2013,,110375,	HGHI - J E (Rambi*2, school fund, TUGHE 5%, NBC Loan &amp; Adv salary) Ref. Nov. payroll,None
+203068,58, Journal - GL,2542,30/11/2013,,405627,HSN Staff NBC Loan November 2013,
+203068,58, Journal - GL,2552,30/11/2013,,405627,HSN  Staff Tughe branch 5 % rambix2 loan bank for hlh paid on behaif December 2013 ,
+203068, 58, Period Total,,,,212523
+203068,59, Payment - GL,19642,19/12/2013,91059,,Simon Ibrahimu - Refund of the Loan overdeducted p,None
+203068,59, Payment - GL,19710,26/12/2013,36759912,,NBC Bank-staff loan repayment Dec 2013 pv 74179,
+203068,59, Payment - GL,19949,26/12/2013,11,,NBC Bank-staff loan repayment Dec 2013 pv 74179 un,
+203068,59, Journal - GL,2550,31/12/2013,,405627,HSN Bank loan for DedemberbHLH paid on behaf 2013,
+203068,59, Journal - GL,2585,31/12/2013,,29030453,NBC staff loan deductions from HLH staff for Dec. 2013,
+203068,59, Journal - GL,2586,31/12/2013,,7103136,NBC staff loan deductions from government staff for Dec. 2013,
+203068,59, Journal - GL,2602,31/12/2013,,110375,HGHI - Dec.203 salary (Cash salary, School fund, Rambi*2, TUGHE &amp; Loan) Ref. Pv 74289 Dec. Payroll,None
+203068,59, Journal - GL,2604,31/12/2013,,110375,H4CCP - Dec.2013 salary (Rambi*2, TUGHE &amp; NBC Loan) Ref. Payroll,None
+203068, 59, Period Total,,,91016
+203068,59, Balance C/Fwd,,,257672

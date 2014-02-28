@@ -1,0 +1,27 @@
+103107 - 0 for period 145 to 156
+103107, 145, Brought Forward Balance,,,266476.08000001
+103107,148, Receipt,38,20/04/2012,68777722.8,,NCA Grant - 1st Instalment for 2012,
+103107, 148, Period Total,,,68777722.8
+103107,149, Payment - GL,504,09/05/2012,,20000000,Cash drawing for project activities,
+103107,149, Payment - GL,516,31/05/2012,,15063740,HLH Salary refund for 4CCP staff Jan. - May 2012 chq160,
+103107,149, Payment - GL,521,31/05/2012,,100500,NBC - Bank charges for Jan. - May 2012,
+103107, 149, Period Total,,,,35164240
+103107,150, Payment - GL,614,06/06/2012,,20000000,Cash drawing from NBC bank pv00887,
+103107,150, Payment - GL,613,20/06/2012,,1615000,VA Business Asurance Service -Audit fee for 2011, pv 00738,
+103107, 150, Period Total,,,,21615000
+103107,152, Receipt,52,22/08/2012,1000000,,ENSOL - Participation fee, Rv00308,
+103107,152, Payment - GL,615,27/08/2012,,5000000,Cash drawing from NBC bank pv00888,
+103107,152, Receipt,46,31/08/2012,500000,,Tarangire N. Park - Participation fees, rv00302,
+103107, 152, Period Total,,,,3500000
+103107,153, Payment - GL,540,27/09/2012,,6419351,HLH - NCA staff salary reinbursement for June &amp; July, pv00768,
+103107,153, Payment - GL,610,27/09/2012,6419351,,HLH - NCA staff salary reinbursement for June &amp; July, pv00768 (Correction),
+103107, 153, Period Total,,,0
+103107,154, Receipt,40,17/10/2012,34190000,,NCA - 2nd instalment for 2012, Rv00264,
+103107,154, Payment - GL,556,26/10/2012,,42400000,Cahs drawing from NBC bank, Pv00785,
+103107, 154, Period Total,,,,8210000
+103107,155, Receipt,39,23/11/2012,27285119.4,,NCA - Grant 4 climatic Change mitigation, Rv00265,
+103107, 155, Period Total,,,27285119.4
+103107,156, Payment - GL,580,03/12/2012,,27000000,Cash drawing from NBC bank pv00860,
+103107,156, Payment - GL,632,31/12/2012,,226400,Bank charges (NBC Bank) Pv00896,
+103107, 156, Period Total,,,,27226400
+103107,156, Balance C/Fwd,,,613678.28000001

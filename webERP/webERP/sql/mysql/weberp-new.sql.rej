@@ -1,0 +1,13 @@
+***************
+*** 2029,2033 ****
+    `blocked` tinyint(4) NOT NULL default '0',
+    `displayrecordsmax` int(11) NOT NULL default '0',
+!   `theme` varchar(30) NOT NULL default 'fresh',
+    `language` varchar(5) NOT NULL default 'en_GB',
+    PRIMARY KEY  (`userid`),
+--- 2029,2033 ----
+    `blocked` tinyint(4) NOT NULL default '0',
+    `displayrecordsmax` int(11) NOT NULL default '0',
+!   `theme` varchar(30) NOT NULL default 'jelly',
+    `language` varchar(5) NOT NULL default 'en_GB',
+    PRIMARY KEY  (`userid`),

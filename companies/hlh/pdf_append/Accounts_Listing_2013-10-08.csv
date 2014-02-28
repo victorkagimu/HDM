@@ -1,0 +1,65 @@
+302010 - 1 for period 48 to 50
+302010,48, Receipt,12877,02/01/2013,,206000,New Canteen Income - rv295853,New Canteen
+302010,48, Receipt,12882,03/01/2013,,221000,New Canteen Income - rv295858,New Canteen
+302010,48, Receipt,13038,04/01/2013,,223400,New Canteen Income - rv295875,New Canteen
+302010,48, Receipt,13049,06/01/2013,,321000,New Canteen Income - rv295886,New Canteen
+302010,48, Receipt,13055,08/01/2013,,201400,New Canteen Income - rv295892,New Canteen
+302010,48, Receipt,12823,10/01/2013,,429450,New Canteen Income - rv296158,New Canteen
+302010,48, Receipt,12851,14/01/2013,,720600,New Canteen Income - rv296178,New Canteen
+302010,48, Receipt,12860,16/01/2013,,238400,New Canteen Income - rv296186,New Canteen
+302010,48, Receipt,12868,16/01/2013,,263100,New Canteen Income - rv296194,New Canteen
+302010,48, Receipt,12900,18/01/2013,,274400,New Canteen Income - rv296551/2013,New Canteen
+302010,48, Receipt,12913,21/01/2013,,349700,New Canteen Income - rv296566/2013,New Canteen
+302010,48, Receipt,12921,22/01/2013,,291900,New Canteen Income - rv296574/2013,New Canteen
+302010,48, Receipt,12927,23/01/2013,,247900,New Canteen Sale food/drinksIncome 296582/2013,New Canteen
+302010,48, Receipt,12931,23/01/2013,,279400,New Canteen Income - rv296586/2013,New Canteen
+302010,48, Receipt,12961,25/01/2013,,242500,New Canteen Income - rv296301/2013,New Canteen
+302010,48, Receipt,12979,27/01/2013,,365000,New canteen income rv 296309,New Canteen
+302010,48, Receipt,12989,29/01/2013,,242300,New canteen income rv 296317,New Canteen
+302010,48, Receipt,13006,30/01/2013,,213300,New canteen income rv 296326,New Canteen
+302010,48, Receipt,13015,31/01/2013,,280900,New canteen income rv 296334,New Canteen
+302010, 48, Period Total,,,,5611650
+302010,49, Receipt,13019,01/02/2013,,219400,New canteen income rv 296338,New Canteen
+302010,49, Receipt,13119,05/02/2013,,620500,New Canteen Income - rv297205/2013,New Canteen
+302010,49, Receipt,13124,06/02/2013,,335800,New Canteen Income - rv297210/2013,New Canteen
+302010,49, Receipt,13133,07/02/2013,,367900,New Canteen Income - rv297219/2013,New Canteen
+302010,49, Receipt,13139,08/02/2013,,317500,New Canteen Income - rv297225/2013,New Canteen
+302010,49, Receipt,13148,08/02/2013,,403000,New Canteen Income - rv297234/2013,New Canteen
+302010,49, Receipt,13112,12/02/2013,,934000,Dispensary -  cash register- rv297122/2013,OP department
+302010,49, Receipt,13153,12/02/2013,,259900,New Canteen Income - rv297239/2013,New Canteen
+302010,49, Journal - GL,2260,12/02/2013,934000,,correction of booking to wrong ledger rv297122/2013,OP department
+302010,49, Receipt,13158,13/02/2013,,285300,New Canteen Income - rv297244/2013,New Canteen
+302010,49, Receipt,13173,14/02/2013,,272300,New Canteen Income - rv297558/2013,New Canteen
+302010,49, Receipt,13190,15/02/2013,,246500,New Canteen Income - rv297576/2013,New Canteen
+302010,49, Receipt,13300,17/02/2013,,345800,New Canteen Income - rv297591/2013,New Canteen
+302010,49, Receipt,13306,18/02/2013,,307500,New Canteen Income - rv297597/2013,New Canteen
+302010,49, Receipt,13227,20/02/2013,,273400,New Canteen Income - rv297751/2013,
+302010,49, Receipt,13233,20/02/2013,,262400,New Canteen Income - rv297757/2013,New Canteen
+302010,49, Receipt,13238,22/02/2013,,285300,New Canteen Income - rv297762/2013,
+302010,49, Receipt,13250,24/02/2013,,400400,New Canteen Income - rv297775/2013,New Canteen
+302010,49, Receipt,13256,26/02/2013,,338200,New Canteen Income - rv297782/2013,New Canteen
+302010,49, Receipt,13267,27/02/2013,,229500,New Canteen Income - rv297793/2013,New Canteen
+302010,49, Receipt,13273,28/02/2013,,250300,New Canteen Income - rv297799/2013,New Canteen
+302010, 49, Period Total,,,,6020900
+302010,50, Receipt,13317,01/03/2013,,329600,New Canteen Income - rv298158/2013,New Canteen
+302010,50, Receipt,13328,04/03/2013,,510700,New Canteen Income - rv298169/2013,New Canteen
+302010,50, Receipt,13337,05/03/2013,,271000,New Canteen Income - rv298180/2013,New Canteen
+302010,50, Receipt,13349,06/03/2013,,285700,New Canteen Income - rv298192/2013,New Canteen
+302010,50, Receipt,13669,07/03/2013,,236100,New Canteen Income - rv298351/2013,New Canteen
+302010,50, Receipt,13681,08/03/2013,,276800,New Canteen Income - rv298359/2013,New Canteen
+302010,50, Receipt,13695,11/03/2013,,398200,New Canteen Income - rv298369/2013,New Canteen
+302010,50, Receipt,13699,12/03/2013,,277800,New Canteen Income - rv298374/2013,New Canteen
+302010,50, Receipt,13709,13/03/2013,,289200,New Canteen Income - rv298384/2013,New Canteen
+302010,50, Receipt,13715,14/03/2013,,274000,New Canteen Income - rv298390/2013,New Canteen
+302010,50, Receipt,13724,15/03/2013,,250000,New Canteen Income - rv298399/2013,New Canteen
+302010,50, Receipt,13726,18/03/2013,,460400,New Canteen - sale of food items rv298753,New Canteen
+302010,50, Receipt,13734,19/03/2013,,325100,New Canteen - sale of food items rv298761,New Canteen
+302010,50, Receipt,13742,20/03/2013,,264500,New Canteen - sale of food items rv298769,New Canteen
+302010,50, Receipt,13750,21/03/2013,,291300,New Canteen - sale of food items rv298778,New Canteen
+302010,50, Receipt,13763,22/03/2013,,297400,New Canteen - sale of food items rv298794,New Canteen
+302010,50, Receipt,13422,25/03/2013,,441300,New Canteen Income - rv298908/2013,New Canteen
+302010,50, Receipt,13432,26/03/2013,,307800,New Canteen Income - rv298918/2013,New Canteen
+302010,50, Receipt,13413,27/03/2013,,250100,New Canteen Income - rv298930/2013,New Canteen
+302010,50, Receipt,13454,28/03/2013,,260300,New Canteen Income - rv298940/2013,New Canteen
+302010, 50, Period Total,,,,6297300
+302010,50, Total Period Movement,,,,17929850

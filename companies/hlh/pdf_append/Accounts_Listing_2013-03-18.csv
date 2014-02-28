@@ -1,0 +1,528 @@
+302001 - 1 for period 36 to 47
+302001,36, Receipt,9051,02/01/2012,,790400,Engedat - meals and accom charges in gues rv279753,Guest House 
+302001,36, Receipt,9078,03/01/2012,,651200,Ernst - meals and accomm. rv279766,Guest House 
+302001,36, Receipt,9105,05/01/2012,,30000.300003,Guest  House  income rv279773,Guest House 
+302001,36, Receipt,9106,05/01/2012,,2000,Guest House income - rv279774,Guest House 
+302001,36, Receipt,9128,06/01/2012,,360000,Ranveig Jisievoll - meals in Guest house rv279796,Guest House 
+302001,36, Receipt,9129,06/01/2012,,139501.395014,Elin - meals at guest house rv279797,Guest House 
+302001,36, Receipt,9132,09/01/2012,,1000,Guest House income - rv279800,Guest House 
+302001,36, Receipt,9463,09/01/2012,,1050000,Joyce Nicholaus-accommadtion in G/ house 279905,Guest House 
+302001,36, Receipt,9493,12/01/2012,,1040000,Bibelakolen Fjellhang-accomodation rv 279928,Guest House 
+302001,36, Receipt,9497,13/01/2012,,1000,Eliya Eskel - bought scones  G/house rv279932,Guest House 
+302001,36, Receipt,9499,13/01/2012,,75000,Margunn-accom. payment in G/house rv 279934,Guest House 
+302001,36, Receipt,9500,13/01/2012,,112500,Svensen-accomodation G/house rv 279935,None
+302001,36, Receipt,9503,13/01/2012,,57000,Irene-acomodation in G/house rv 279938,Guest House 
+302001,36, Receipt,9508,14/01/2012,,37500,Peter-accommodation i G/house rv 279943,Guest House 
+302001,36, Receipt,9510,14/01/2012,,407200,New canteen income -rv 279945,New Canteen
+302001,36, Journal - GL,1317,14/01/2012,407200,,Correction of wrong booking to guest house income instead of new canteen rv279945,New Canteen
+302001,36, Receipt,9191,18/01/2012,,1200,Eliya - bought scones from guest house rv280410,Guest House 
+302001,36, Receipt,9194,18/01/2012,,1000,Mansweta Agustino - scones from G/house rv280412,Guest House 
+302001,36, Receipt,10081,18/01/2012,,1427807.486631,Kenneth Chiu,
+302001,36, Receipt,10081,18/01/2012,,1729946.5240642,Inge Beate Torvnes ,
+302001,36, Receipt,9199,19/01/2012,,225000,Marelyn - accom in G/house rv280417,Guest House 
+302001,36, Receipt,9200,19/01/2012,,1050010.50011,Martin Lande - accom. in G/house rv280418,Guest House 
+302001,36, Receipt,9201,19/01/2012,,1000,Eliya - bought scones from guest house rv280410,Guest House 
+302001,36, Receipt,9552,19/01/2012,225000,,Marslyn-accom.payment corr.,Guest House 
+302001,36, Receipt,9553,19/01/2012,,225022.50225,Marslyn-accom.payment rv 280417,Guest House 
+302001,36, Receipt,9207,20/01/2012,,1200,Eliya - bought scones from guest house rv280425,Guest House 
+302001,36, Receipt,9270,20/01/2012,,1200,Eliya - bought scones from guest house rv280681,Guest House 
+302001,36, Receipt,9246,23/01/2012,,1000,Eliya - bought scones from guest house rv280656,Guest House 
+302001,36, Receipt,9255,24/01/2012,,1000,Eliya - bought scones from guest house rv280666,Guest House 
+302001,36, Receipt,9259,25/01/2012,,1200,Eliya - bought scones from guest house rv280670,Guest House 
+302001,36, Receipt,9267,25/01/2012,,705007.050071,Maryke Loosman -accom in g/house rv280678,Guest House 
+302001,36, Receipt,9268,25/01/2012,,814508.145081,Pien Van Vierssen -accom in g/house rv280679,Guest House 
+302001,36, Receipt,9273,26/01/2012,,48000,Guest  House  income rv280684,Guest House 
+302001,36, Receipt,10075,26/01/2012,,907111.75,G/house income rv 280458,Guest House 
+302001,36, Receipt,9275,27/01/2012,,1200,Eliya - bought scones from guest house rv280686,Guest House 
+302001,36, Receipt,9280,27/01/2012,,72000,Wageni toka Katesh - lunch at G/House rv280691,Guest House 
+302001,36, Receipt,9517,30/01/2012,,1200,Eliya Eskel - bought scones  G/house rv280695,Guest House 
+302001,36, Receipt,9521,30/01/2012,,31500,Kurt Hansen - meals in Guest house rv280699,Guest House 
+302001,36, Receipt,9531,31/01/2012,,1000,Eliya Eskel - bought scones  G/house rv281005,Guest House 
+302001,36, Receipt,9541,31/01/2012,,1000,Eliya Eskel - bought scones  G/house rv281014,Guest House 
+302001, 36, Period Total,,,,11371215.653224
+302001,37, Receipt,10102,01/02/2012,,2121212.1212121,Van -Meals and accommodation rv 280478,Guest House 
+302001,37, Receipt,9575,02/02/2012,,1000,Income from guest house rv281022,None
+302001,37, Receipt,9584,03/02/2012,,1000,Eliya Eskel - bought scones  G/house rv281031,Guest House 
+302001,37, Receipt,9604,03/02/2012,,15000,Dr Savage meals at G/house rv 281042,Guest House 
+302001,37, Receipt,9737,03/02/2012,,1350000,Teft-accomodation in guest house rv281116,Guest House 
+302001,37, Receipt,9746,06/02/2012,,729072.907291,Victoria Moore accommodation rv 281125,Guest House 
+302001,37, Receipt,9747,06/02/2012,,500,Rehema Girgis sconces form G/house rv 281126,Guest House 
+302001,37, Receipt,9749,06/02/2012,,1000,Elibariki Fissoo - scones from G/House rv281128,Guest House 
+302001,37, Receipt,9759,06/02/2012,,1000,Eliya Eskel - bought scones  G/house rv281138,Guest House 
+302001,37, Receipt,9763,08/02/2012,,500,Rehema Girgis sconces form G/house rv 281143,Guest House 
+302001,37, Receipt,9765,08/02/2012,,9000,Jonathan Masuja-G/house income rv 281145,Guest House 
+302001,37, Receipt,9364,09/02/2012,,1200,Eliya Eskel - bought scones from G/house rv281304,Guest House 
+302001,37, Receipt,9372,09/02/2012,,37500,Geofrey Sigal - accom. G/house rv281314,Guest House 
+302001,37, Receipt,10103,09/02/2012,,648064.80648065,Hilde Meals and accommodation rv 280479,Guest House 
+302001,37, Receipt,9373,10/02/2012,,1000,Elibariki Fissoo - scones from G/House rv281315,Guest House 
+302001,37, Receipt,9374,10/02/2012,,81000,Johanna Johnson -meals  in G/house rv281316,Guest House 
+302001,37, Receipt,9377,10/02/2012,,192000,Karen March - accom. at G/house rv281319,Guest House 
+302001,37, Receipt,9378,10/02/2012,192000,,Karen March - accom. at G/house rv281319 Correctio,Guest House 
+302001,37, Receipt,9379,10/02/2012,,180018.0018,Karen March - accom. at G/house rv281319,Guest House 
+302001,37, Receipt,9380,10/02/2012,,7500,Karen March - accom. at G/house rv281320,Guest House 
+302001,37, Receipt,9774,13/02/2012,,75007.5007501,Janeth-accommodation G/house rv 281329,Guest House 
+302001,37, Receipt,9777,13/02/2012,,171000,Ingeborg-accommodation rv 281333,Guest House 
+302001,37, Receipt,9778,13/02/2012,,279000,Anette accommodation rv 281334,Guest House 
+302001,37, Receipt,9786,15/02/2012,,500,Rehema Girgis sconces form G/house rv 281343,Guest House 
+302001,37, Receipt,9789,15/02/2012,,60000,Guest house income rv 281346,Guest House 
+302001,37, Receipt,9523,17/02/2012,,39.00390039,Guests - laundry charges in Guest house rv281753,Guest House 
+302001,37, Receipt,9524,17/02/2012,,58505.8505851,Guests - laundry charges in Guest house rv281753,Guest House 
+302001,37, Receipt,9525,17/02/2012,39.00390039,,Guests - laundry charges  rv281753 correction,Guest House 
+302001,37, Receipt,9526,17/02/2012,,225000,Den Bjorte - Guest house charges rv281754,Guest House 
+302001,37, Receipt,9685,20/02/2012,,7500,Helene Lie - meals at guest house rv281762,Guest House 
+302001,37, Receipt,9686,20/02/2012,,7500,Kai Birgit Nymoer - meals at guest house rv281763,Guest House 
+302001,37, Receipt,9687,20/02/2012,,7500,Wibeke Van Megen - meals at guest house rv281764,Guest House 
+302001,37, Receipt,10079,22/02/2012,,1331002.05,G/house income rv 280470,Guest House 
+302001,37, Receipt,9588,27/02/2012,,600060.006001,Ellen Johanne - accomm. and meals rv282252,Guest House 
+302001,37, Receipt,10094,27/02/2012,,2330635.8381503,Marianne Tonnessen Guesthouse RV286802,
+302001,37, Receipt,9605,28/02/2012,,1000,Elibariki Fissoo - scones from guest hous rv282260,Guest House 
+302001,37, Receipt,9607,28/02/2012,,44000,Guest  House  income rv282262,Guest House 
+302001,37, Receipt,9611,28/02/2012,,1743174.31743,Martin - accomm. and meals for Mulbadaw g rv282264,Guest House 
+302001,37, Receipt,9614,28/02/2012,,37500,Mehjabeen Alarakhia - accom.Guest house rv282265,Guest House 
+302001,37, Receipt,9615,28/02/2012,,12000,Mehjabeen Alarakhia - meals. Guest house rv282266,Guest House 
+302001,37, Receipt,9619,28/02/2012,,37500,Morten accomodation in G/house rv282267,Guest House 
+302001,37, Receipt,9620,28/02/2012,,37500,Nina-accommodation G/house rv 282268,Guest House 
+302001,37, Receipt,9625,28/02/2012,,1000,Elibariki Fissoo - scones from G/House rv282273,Guest House 
+302001, 37, Period Total,,,,12252453.3997
+302001,38, Receipt,9639,01/03/2012,,19500,Katharina Hhando G/house income rv 282282,Guest House 
+302001,38, Receipt,9644,01/03/2012,,1000,Emanuel Fabiano sconces from G/house rv 282285,Guest House 
+302001,38, Receipt,10104,01/03/2012,,1755175.5175518,Sigrid-Meals and accommodation rv 280480,Guest House 
+302001,38, Receipt,10121,01/03/2012,,808556.14973262,Marianne Tonnessen ,Guest House 
+302001,38, Journal - GL,1261,01/03/2012,1645989,,visa fee Marian Tonessen and Maria Slyngstad,
+302001,38, Receipt,9655,02/03/2012,,1000,Barikiel sconces fro G/HOUSE RV 282293,Guest House 
+302001,38, Receipt,9656,05/03/2012,,80000,Jonathan Masuja POST CARDS G/house rv 282294,Guest House 
+302001,38, Receipt,9658,05/03/2012,,40500,Jonathan Masuja - meal at Guest hause rv 282295 ,Guest House 
+302001,38, Receipt,9977,06/03/2012,,1500,Jackson Tarimo - scones from guest hous rv282403,Guest House 
+302001,38, Receipt,9978,06/03/2012,,1455145.51455,Magne Johannessen - accomm. rv282404,Guest House 
+302001,38, Receipt,9979,06/03/2012,,30003.0003,Magne Johannessen - laundry charges. rv282405,Guest House 
+302001,38, Receipt,9980,06/03/2012,,706570.657066,Mr. Kristen - accomm. rv282407,Guest House 
+302001,38, Receipt,9984,06/03/2012,,375037.50375,John Kittelstad - accomm. rv282411,Guest House 
+302001,38, Receipt,9997,07/03/2012,,1000,Barikiel samwel-scones from g/house rv 282424,Guest House 
+302001,38, Receipt,10000,08/03/2012,,330033.0033,Vgdis Landsverk-accommodation rv 282427,Guest House 
+302001,38, Receipt,10006,08/03/2012,,1000,Elibariki Fissoo - scones from G/House rv282433,Guest House 
+302001,38, Receipt,10105,09/03/2012,,2325232.5232523,Ellen-Meals and accommodation rv 280481,Guest House 
+302001,38, Receipt,10124,09/03/2012,,2100556.1497326,Victoria Olsen,Guest House 
+302001,38, Receipt,10015,12/03/2012,,108000,Chrisc-meals in guest house rv 282442,Guest House 
+302001,38, Receipt,9870,13/03/2012,,1500,Barikiel Sulle - guest house rv282627,Guest House 
+302001,38, Receipt,9889,14/03/2012,,1500,Timotheo Dakay - malipo ya scones rv282637,Guest House 
+302001,38, Receipt,9891,14/03/2012,,120000,Ana, Eliya, Mganyizi - accommod. rv282639,Guest House 
+302001,38, Receipt,9896,15/03/2012,,1500.150015,Elibariki Fissoo - scones from guest hous rv282648,Guest House 
+302001,38, Receipt,10125,15/03/2012,,1408288.7700535,Nina Madeleine Waage USD 918,Guest House 
+302001,38, Receipt,10107,16/03/2012,,3210321.0321032,Sorlan-Meals and accommodation rv 280483,Guest House 
+302001,38, Receipt,9917,19/03/2012,,1000,Emanuel Fabiano - scones from guest house rv282858,Guest House 
+302001,38, Receipt,9936,19/03/2012,,1000,Eliya Eskel scons from guest house rv282869,Guest House 
+302001,38, Receipt,9937,19/03/2012,,2000,Bertha Christian - bread from G/house rv282871,Guest House 
+302001,38, Receipt,9938,19/03/2012,,13500,Thea  Skaans - meals at  guest house rv282872,Guest House 
+302001,38, Receipt,10074,19/03/2012,,454545.454545,Birthe Christian accom. rv 282870,Guest House 
+302001,38, Receipt,9941,20/03/2012,,13500,Thea  Skaans - meals at  guest house rv282875,Guest House 
+302001,38, Receipt,10096,20/03/2012,,1314784.48,G/house income rv 280473,Guest House 
+302001,38, Receipt,10097,20/03/2012,,233878.82,G/house income rv 280474,Guest House 
+302001,38, Receipt,10133,20/03/2012,,599605.26315789,Guro Enggrav Guesthouse FH4,Guest House 
+302001,38, Receipt,10133,20/03/2012,,615855.26315789,Esther Hansen Guesthouse FH4,Guest House 
+302001,38, Receipt,9952,21/03/2012,,231000,Inger - meals at guest house rv282886,Guest House 
+302001,38, Receipt,10128,21/03/2012,,2941176.4705882,Johan Bjornstad October-March,Guest House 
+302001,38, Receipt,9955,22/03/2012,,72000,Njokati Foundation - accom. at G/house rv282889,Guest House 
+302001,38, Receipt,9956,22/03/2012,,1500,Dikla Paulo - bought scones from G/house rv282890,Guest House 
+302001,38, Receipt,9960,22/03/2012,,45000,Guest House receipts - laundry charges rv282894,Guest House 
+302001,38, Receipt,10108,22/03/2012,,1383138.3138314,Ingvil-Meals and accommodation rv 280484,Guest House 
+302001,38, Receipt,9965,23/03/2012,,24000,Dr. Savage - meals at Guest House rv282899,Guest House 
+302001,38, Receipt,9973,27/03/2012,,1000,Rehema Girgis guest house rv283123/2012,Guest House 
+302001,38, Receipt,10027,27/03/2012,,18000,Guest house income rv 283126,Guest House 
+302001,38, Receipt,10030,27/03/2012,,40000,Gibert Mworia-accomodation rv 283129,Guest House 
+302001,38, Receipt,10031,27/03/2012,,40000,Emanuel Ngali-accomodation rv 283130,Guest House 
+302001,38, Receipt,10032,27/03/2012,,80000,Trine Hveem-accomodation rv 283131,Guest House 
+302001,38, Receipt,10039,28/03/2012,,29000,Guest house income rv 283138,Guest House 
+302001,38, Receipt,10042,28/03/2012,,2000,yeremia Lohay-sconnes from G/house rv 283141,Guest House 
+302001,38, Receipt,10098,28/03/2012,,887815.14,G/house income rv 280475,Guest House 
+302001,38, Receipt,10129,28/03/2012,,671122.99465241,Ingeborg Ribe 1-28/3,Guest House 
+302001,38, Receipt,10130,28/03/2012,,1696673.7967914,Sijpkens 200 Euro/Heijnen 400 Euro/Snoek 300 Euro,Guest House 
+302001,38, Journal - GL,1691,28/03/2012,,2613847.37,Correction of wrong booking rv282603/5/9 and rv283112/121-2/2012,Guest House 
+302001,38, Payment - GL,12066,29/03/2012,313500,,Ranvag-Accommodation in guest house rv 283144,Guest House 
+302001,38, Receipt,10072,29/03/2012,,313500,ranvag Accmodation G/house rv 283144,Guest House 
+302001,38, Payment - GL,12075,29/03/2012,,313500,Ranvag-Accommodation in guest house corr.,Guest House 
+302001,38, Receipt,10053,30/03/2012,,2000,Barikiel -scones from g/house rv 283147,Guest House 
+302001,38, Receipt,10134,30/03/2012,,605263.15789474,Vidar Strand accom and meals USD 392,Guest House 
+302001, 38, Period Total,,,,28184637.496026
+302001,39, Receipt,10142,02/04/2012,,2000,Barikiel samwel-scones from g/house rv 283356,Guest House 
+302001,39, Receipt,10404,02/04/2012,,2083708.3708371,Erik-meals and accommodation rv 280489,Guest House 
+302001,39, Receipt,10147,03/04/2012,,500,Rehema Girgis sconces form G/house rv 283362,Guest House 
+302001,39, Receipt,10412,03/04/2012,,1640374.3315508,Kjelfrid Vidjelund og Emma Ronnberg,
+302001,39, Receipt,11454,03/04/2012,1640374.33,,visa kjelfrid vidgeland and emma ronnberg,
+302001,39, Receipt,12183,03/04/2012,1644691.0519225,,visa kjellfrid vidjelund and emma ronnbjerg,
+302001,39, Receipt,10155,04/04/2012,,1000,Eliya Eskel - bought scones  G/house rv283369,Guest House 
+302001,39, Receipt,10163,04/04/2012,,1500,Eliya Eskel - bought scones  G/house rv283377,Guest House 
+302001,39, Receipt,10406,04/04/2012,,241524.15241524,Irene-acomodation in G/house rv 280491,Guest House 
+302001,39, Receipt,10168,05/04/2012,,16000,G/house income rv 283385,Guest House 
+302001,39, Receipt,10178,05/04/2012,,2250000,15-people from Norway accommodation rv 283395,Guest House 
+302001,39, Receipt,10183,07/04/2012,,24002.400240024,Jacob Wess-g/house income rv 283397,Guest House 
+302001,39, Receipt,10185,10/04/2012,,1500,Eliya Eskel - bought scones  G/house rv286853,None
+302001,39, Receipt,10414,10/04/2012,,351604.27807487,Phil and Irene Matthews,
+302001,39, Receipt,10226,11/04/2012,,306000,Rode-accommodation rv 286878,Guest House 
+302001,39, Receipt,10227,11/04/2012,306000,,Rode-accommodation rv 286878 corr,Guest House 
+302001,39, Receipt,10229,11/04/2012,,306030.60306031,Rode-accommodation rv 286878,Guest House 
+302001,39, Receipt,10231,11/04/2012,,306030.60306031,Lars-accommodation rv 286879,Guest House 
+302001,39, Receipt,10233,11/04/2012,,1566000,Gunuar G/house income rv 286880,Guest House 
+302001,39, Receipt,10254,11/04/2012,,529552.95529553,Hege-g/house income rv 283364,Guest House 
+302001,39, Receipt,10259,11/04/2012,,24000,G/house income rv 286897,Guest House 
+302001,39, Receipt,10260,11/04/2012,,3000,G/house income rv 286898,Guest House 
+302001,39, Receipt,10262,11/04/2012,,562556.25562556,Stubberud G/house income rv 286899,Guest House 
+302001,39, Receipt,10264,11/04/2012,,54005.400540054,,Guest House 
+302001,39, Receipt,10266,11/04/2012,,45004.500450045,Lars G/house income rv 286894,Guest House 
+302001,39, Receipt,10267,11/04/2012,,15000,G/house income rv 286894,Guest House 
+302001,39, Receipt,10298,11/04/2012,,163200,Fredrick-accommodation rv 287202,Guest House 
+302001,39, Receipt,10300,11/04/2012,,20000,G/house income rv 287204,Guest House 
+302001,39, Receipt,10415,11/04/2012,,557230.33938006,Sile Beate Nilsen USD 368,
+302001,39, Receipt,10201,12/04/2012,,1500,Jackson Tarimo - scones from guest hous rv286905,Guest House 
+302001,39, Receipt,10416,12/04/2012,,549615.03313971,Johannesen Stine USD 363,Guest House 
+302001,39, Receipt,10417,12/04/2012,,883890.21354369,Anita Ogreid USD 594,Guest House 
+302001,39, Receipt,10200,13/04/2012,,75007.500750075,Momser Ron and Ronnie - guest house rv286904,Guest House 
+302001,39, Receipt,10247,16/04/2012,,495049.5049505,Pien Van Vrerssen - accom and meals rv286926,Guest House 
+302001,39, Receipt,10261,16/04/2012,,530880,Clas Brodtkorb - meals at guest house rv286930,Guest House 
+302001,39, Receipt,10263,16/04/2012,,1000,Jackson Tarmo scones guest house 286931,Guest House 
+302001,39, Receipt,10276,17/04/2012,,16000,HLH guest house income - rv286941,Guest House 
+302001,39, Receipt,10277,17/04/2012,,9000,Jonathan Masuja - lunch at G/house rv286942,Guest House 
+302001,39, Receipt,10278,18/04/2012,,1000,Eliya - scones guest house 286943,Guest House 
+302001,39, Receipt,10407,19/04/2012,,963000,Weiss Jak-meals &amp;accommodation rv 280492,Guest House 
+302001,39, Receipt,10319,20/04/2012,,729072.90729073,Aarseth-accommadation rv 287223,Guest House 
+302001,39, Receipt,10419,20/04/2012,,898233.24895224,Martine Brovig USD 605,Guest House 
+302001,39, Receipt,10317,23/04/2012,,14000,G/house income rv 287221,Guest House 
+302001,39, Receipt,10321,23/04/2012,,528000,Linn-meals and accommodation rv 287225,Guest House 
+302001,39, Receipt,10322,23/04/2012,,520500,Ingvild-meals and accommodation rv 287226,Guest House 
+302001,39, Receipt,10420,24/04/2012,,376432.46536349,Aage Anderson,Guest House 
+302001,39, Receipt,10420,24/04/2012,,1408679.3483399,Aage Anderson,Guest House 
+302001,39, Receipt,12557,24/04/2012,,1000,Emanuel Fabiano - scones from guest house rv287228,Guest House 
+302001,39, Receipt,10364,25/04/2012,,580558.05580558,Mark-meals &amp;accommodation rv 287241,Guest House 
+302001,39, Receipt,10367,25/04/2012,,714000,Brien Sven -accommodation rv 287242,Guest House 
+302001,39, Receipt,10371,27/04/2012,,1500,Eliya Eskel-scone from G/house rv 287244,Guest House 
+302001,39, Receipt,10409,27/04/2012,,1125000,Norval-meals and accommdation rv280494,Guest House 
+302001,39, Payment - GL,13294,27/04/2012,261383.20209974,,Stine Graub Katrine Osterga Guesthouse,
+302001,39, Receipt,10378,30/04/2012,,1000,Eliya Eskel - bought scones  G/house rv287249,Guest House 
+302001,39, Receipt,10379,30/04/2012,,39000,G/house income rv 287250,Guest House 
+302001,39, Receipt,10384,30/04/2012,,45004.500450045,Rode-Meals in G/house rv 284601,None
+302001,39, Receipt,10385,30/04/2012,,690000,Mr Gunna-meal and accommodation rv 284602,Guest House 
+302001, 39, Period Total,,,,18416798.385094
+302001,40, Receipt,10543,01/05/2012,,1000,Eliya Eskel scons from guest house rv284611/201,Guest House 
+302001,40, Receipt,10545,02/05/2012,,1000,Elibariki Fissoo - scones from guest hou rv284613,Guest House 
+302001,40, Receipt,10546,02/05/2012,,1000,Rehema Girgis guest house rv284614/2012,Guest House 
+302001,40, Receipt,10557,02/05/2012,,11500,Jonathan M guest house rv284622/2012,Guest House 
+302001,40, Receipt,10567,03/05/2012,,1500,Emanuel Fabiano - scones from guest rv284628,Guest House 
+302001,40, Receipt,10818,03/05/2012,,307086.61417323,elin mari skorstad meals guesthouse,
+302001,40, Receipt,10579,04/05/2012,,500,Rehema Girgis guest house rv284636/2012,Guest House 
+302001,40, Receipt,10582,04/05/2012,,522000,Andrus guest house rv284639/2012,Guest House 
+302001,40, Receipt,10421,07/05/2012,,150015.00150015,Anders Lillehein guest house USD 100X1500 RV283951/2012,Guest House 
+302001,40, Receipt,10422,07/05/2012,,1000,Marthini Aplonary amerudisha sehemu ya pv67231,Guest House 
+302001,40, Receipt,10424,07/05/2012,,489048.90489049,Jean Cratz guest house rv283954/2012,Guest House 
+302001,40, Receipt,10719,07/05/2012,150015.00150015,,Anders Lillehein corr.tsh not usd ,Guest House 
+302001,40, Receipt,10720,07/05/2012,,150000,Anders Lillehein/meals/acc.payment ,Guest House 
+302001,40, Receipt,10721,07/05/2012,489048.90489049,,Jean Gratz/G/house payment corr.,Guest House 
+302001,40, Receipt,10722,07/05/2012,,489000,Jean Gratz/G/house payment ,Guest House 
+302001,40, Receipt,10427,08/05/2012,,1000,Elibariki Fissoo - scones from guest hous rv28395,Guest House 
+302001,40, Receipt,10438,09/05/2012,,1000,Elibariki Fissoo - scones from guest hous rv283969,Guest House 
+302001,40, Receipt,10447,10/05/2012,,1000,Emanuel Fabiano - scones from guest house rv283979,Guest House 
+302001,40, Receipt,10723,10/05/2012,,486000,Lars G/house income rv 285401,Guest House 
+302001,40, Receipt,10453,11/05/2012,,1500,Jackson Tarimo - scones from guest hous rv283985,Guest House 
+302001,40, Receipt,10418,14/05/2012,,892829.00748926,Randi D Aamodt Espegren USD 582,Guest House 
+302001,40, Receipt,10500,14/05/2012,,1500,Elibariki Fissoo - scones from guest hous rv284185,Guest House 
+302001,40, Receipt,10513,14/05/2012,,1241880,Lillebq Guest house rv284198/2012,Guest House 
+302001,40, Receipt,10515,15/05/2012,,1500,Eliya Eskel scons from guest house rv284200/12,Guest House 
+302001,40, Payment - GL,13303,15/05/2012,1626771.6535433,,Maria Slyngstad,
+302001,40, Payment - GL,13304,15/05/2012,1503937.007874,,marianne tonnessen,
+302001,40, Receipt,10610,17/05/2012,,1500,Timothe - skonsi guest house 284259,Guest House 
+302001,40, Receipt,10613,17/05/2012,,228022.80228023,Knut Evjen Olsen - meals and accom rv284262,Guest House 
+302001,40, Receipt,10615,17/05/2012,,75000,Sara and Lin - accommodation rv284265,Guest House 
+302001,40, Receipt,10616,18/05/2012,,1500,Elibariki - skonsi guest house 284266,Guest House 
+302001,40, Receipt,10621,21/05/2012,,1500,Eliya Eskel - skonsi guest house 284271,Guest House 
+302001,40, Receipt,10628,22/05/2012,,1500,Barikiel Samwel - skonsi guest house 284278,Guest House 
+302001,40, Receipt,10633,22/05/2012,,262500,vAN Styvenberg Guest house rv284283/2012,Guest House 
+302001,40, Receipt,10635,23/05/2012,,1500,Elibariki Fissoo - scones from guest hou rv284285,Guest House 
+302001,40, Receipt,10637,23/05/2012,,90000,Juu Guest House rv284287/2012,Guest House 
+302001,40, Receipt,10821,23/05/2012,,323391.07611549,sorlandet sykehus inv 17560 FK expert,
+302001,40, Receipt,10822,23/05/2012,,478695.53805774,meertien sijpkens accommodation,
+302001,40, Receipt,10709,24/05/2012,,1500,Jackson Tarimo-sconnes rv 284292,Guest House 
+302001,40, Receipt,10649,25/05/2012,,424500,Thea  accomodation  guest house rv285201/2012,Guest House 
+302001,40, Receipt,10715,25/05/2012,,1500,Emanueli Fabiano-sconnes rv 284298,Guest House 
+302001,40, Receipt,10654,28/05/2012,,1500,Yeremia Lohay - bought Scones  rv285206/12,Guest House 
+302001,40, Receipt,10656,28/05/2012,,399000,Andrews guest house rv285208/2012,Guest House 
+302001,40, Receipt,10673,29/05/2012,,1000,Barikieli  Sulle scoce rv285213/2012,Guest House 
+302001,40, Receipt,10675,29/05/2012,,500,Rehema Girgis guest house rv285215/2012,Guest House 
+302001,40, Receipt,10676,29/05/2012,,42000,INGAR  Guest house house rv285216/201,Guest House 
+302001,40, Receipt,10681,30/05/2012,,1500,Elibarieli Fisoo scones rv285223/2012,Guest House 
+302001,40, Receipt,10683,30/05/2012,,567056.70567057,Sil Helene guest house rv285227/2012,Guest House 
+302001,40, Receipt,10684,30/05/2012,,648064.80648065,Brede guest house rv285228/2012,Guest House 
+302001,40, Receipt,10689,31/05/2012,,1500,Jackson Tarimo - scones from guest h rv285232,Guest House 
+302001,40, Receipt,10691,31/05/2012,,500,Rehema Girgis guest house rv285234/2012,Guest House 
+302001,40, Receipt,10847,31/05/2012,,1500,Dikla Paulo - bought scones from G/house rv285237,Guest House 
+302001, 40, Period Total,,,,4539817.8888499
+302001,41, Receipt,10851,01/06/2012,,12000,Guest  House  income rv285242,Guest House 
+302001,41, Receipt,10852,01/06/2012,,216000,Marianne - meals at G/ House Rv.285243,Guest House 
+302001,41, Receipt,10858,01/06/2012,,202500,Maria - mealsa and accom at G/house rv285249,Guest House 
+302001,41, Receipt,11230,01/06/2012,,154277.63,irene werner steinsted,
+302001,41, Receipt,10860,04/06/2012,,1500,Barikiel Samwel - scones from guest house rv285601,Guest House 
+302001,41, Receipt,11231,04/06/2012,,156555.27,elin mari skorstad,
+302001,41, Receipt,10874,05/06/2012,,1000,Emanuel Fabiano - scones from guest house rv285615,Guest House 
+302001,41, Receipt,10876,05/06/2012,,1000,Rehema Girgis - guest house rv285617,Guest House 
+302001,41, Receipt,10743,06/06/2012,,1000,Timotheo Dakay - scones from guest rv285759,Guest House 
+302001,41, Receipt,10906,06/06/2012,,1700490,Malrid Ogandri - accommodation at g/house rv285647,Guest House 
+302001,41, Receipt,10760,07/06/2012,,1000,Dikla Paulo - bought scones from G/house rv285777,Guest House 
+302001,41, Receipt,10897,07/06/2012,,1500,Elibariki Fissoo - scones from guest hous rv285638,Guest House 
+302001,41, Journal - GL,1692,07/06/2012,,1600,Correction of wrong booking rv285779/279948/2012,Guest House 
+302001,41, Receipt,10773,11/06/2012,,1500,Elibariki Fissoo - scones from guest hou rv285790,Guest House 
+302001,41, Receipt,10774,11/06/2012,,500,Rehema Girgis - guest house rv285791,Guest House 
+302001,41, Receipt,10791,12/06/2012,,1500,Emanuel Fabiano - scones from guest house rv286059,Guest House 
+302001,41, Receipt,10793,12/06/2012,,500,Rehema Girgis - guest house rv286061,Guest House 
+302001,41, Receipt,10801,13/06/2012,,1500,Barikiel Samwel - guest house rv286069,Guest House 
+302001,41, Receipt,10803,13/06/2012,,500,Rehema Girgis - guest house rv286071,Guest House 
+302001,41, Receipt,10827,14/06/2012,,1500,Dikla Paulo - bought scones from G/house rv286081,Guest House 
+302001,41, Receipt,10828,14/06/2012,,150000,Emanuel Ngulu - accomm. guest house rv286082 ,Guest House 
+302001,41, Receipt,10829,14/06/2012,,150000,Gilbert Mworia- accom guest house rv286083,Guest House 
+302001,41, Receipt,10836,14/06/2012,,1500,Rehema Girgis - guest house rv286090,Guest House 
+302001,41, Receipt,11200,14/06/2012,,1035000,Guest house income rv 285413,Guest House 
+302001,41, Receipt,10843,15/06/2012,,1500,Dikla Paulo - bought scones from G/house rv286097,Guest House 
+302001,41, Receipt,10938,18/06/2012,,500,Rehema Girgis sconcer rv286402,Guest House 
+302001,41, Receipt,10960,18/06/2012,,1500,Jackson Tarimo - scones from guest hous rv286256,Guest House 
+302001,41, Receipt,10965,19/06/2012,,1500,Timotheo Dakay - malipo ya scones rv286261,Guest House 
+302001,41, Receipt,10966,19/06/2012,,500,Rehema Girgis - guest house rv286262,Guest House 
+302001,41, Receipt,10973,20/06/2012,,1500,Elibariki Fissoo - scones from guest hous rv286269,Guest House 
+302001,41, Receipt,10974,20/06/2012,,500,Neema Daniel *- scones from G/house rv286270,Guest House 
+302001,41, Receipt,10982,21/06/2012,,1500,Emanuel Fabiano - scones from guest house rv286279,Guest House 
+302001,41, Receipt,10983,21/06/2012,,500,Rehema Girgis guest house rv286280,Guest House 
+302001,41, Receipt,10988,22/06/2012,,1500,Elibariki Fissoo - scones from guest hou rv286285,Guest House 
+302001,41, Receipt,10990,22/06/2012,,500,Neema Daniel *- scones from G/house rv286287,Guest House 
+302001,41, Receipt,10997,25/06/2012,,1500,Dikla Paulo - bought scones from G/house rv286294,Guest House 
+302001,41, Receipt,11001,25/06/2012,,500,Neema Daniel *- scones from G/house rv286299,Guest House 
+302001,41, Receipt,11017,26/06/2012,,1500,Timotheo Dakay - malipo ya scones rv286708,Guest House 
+302001,41, Receipt,11020,26/06/2012,,400,Neema Daniel *- scones from G/house rv286711,Guest House 
+302001,41, Receipt,11027,26/06/2012,,1500,Emanuel Fabiano - scones from guest rv286718,Guest House 
+302001,41, Receipt,11233,27/06/2012,,720848.33,m prosman and e van st,
+302001,41, Receipt,11032,28/06/2012,,1500,Yeremia Lohay - bought Scones  rv286723,Guest House 
+302001,41, Receipt,11235,28/06/2012,,457069.41,c lovestad naess ,
+302001,41, Receipt,11037,29/06/2012,,1500,Barikiel Samwel - scones from guest house rv286728,Guest House 
+302001,41, Receipt,11053,30/06/2012,,1500,Jackson Tarimo - scones from guest h rv286733,Guest House 
+302001, 41, Period Total,,,,4993740.64
+302001,42, Receipt,11133,03/07/2012,,1500,Elibariki Fissoo - scones from guest hou rv286744,Guest House 
+302001,42, Receipt,11072,04/07/2012,,1500,Yeremia Lohay - scones rv287751/2012,Guest House 
+302001,42, Receipt,11093,05/07/2012,,500,Rehema Girgis sconcer rv287768/2012,Guest House 
+302001,42, Receipt,11098,05/07/2012,,174000,Niemi Ritra guest house rv287773/2012,Guest House 
+302001,42, Receipt,11099,06/07/2012,,1500,Elibariki - skonsi guest house 287774/2012,Guest House 
+302001,42, Receipt,11110,09/07/2012,,1500,Emanueli Fabiano scones rv287785/2012,Guest House 
+302001,42, Receipt,11119,10/07/2012,,1500,Timothe - skonsi guest house 287794/2012,Guest House 
+302001,42, Receipt,11151,10/07/2012,,1500,Jackson Tarimo - scones from guest h rv288005,Guest House 
+302001,42, Receipt,11435,10/07/2012,,532133.67609255,per myrseth, usd 345,
+302001,42, Receipt,11153,11/07/2012,,18000,Guest House receipts - 4 lunches rv288007,Guest House 
+302001,42, Receipt,11155,11/07/2012,,330033.00330033,Nelissen Annie - accommodation rv288009,Guest House 
+302001,42, Receipt,11163,12/07/2012,,330000,Ellen Nellisen - accomm. G/house rv288017,Guest House 
+302001,42, Receipt,11165,12/07/2012,,1500,Dikla Paulo - bought scones from G/house rv288019,Guest House 
+302001,42, Receipt,11167,13/07/2012,,600,Rehema Girgis guest house rv288021,Guest House 
+302001,42, Receipt,11271,16/07/2012,,1500,Elibariki Fissoo - scones from guest hous rv288040,Guest House 
+302001,42, Receipt,11274,16/07/2012,,18000,Alexandra Ernst - accommod rv288043,Guest House 
+302001,42, Receipt,11275,16/07/2012,,300030.0030003,Alexandra Ernst - accommod rv288043,Guest House 
+302001,42, Receipt,11276,16/07/2012,,500,Rehema Girgis - guest house rv288044,Guest House 
+302001,42, Receipt,11195,17/07/2012,,1500,Rehema Girgis - scones  guest house rv288318,Guest House 
+302001,42, Receipt,11196,17/07/2012,,1500,Jackson Tarimo - scones from guest h rv288317,Guest House 
+302001,42, Receipt,11569,18/07/2012,,1474500,And- accomodation and meals rv 285428,Guest House 
+302001,42, Receipt,11570,18/07/2012,,1474500,Ann- accomodation and meals rv 285429,Guest House 
+302001,42, Receipt,11892,18/07/2012,1474500,,anders working permit payment,Guest House 
+302001,42, Receipt,11892,18/07/2012,1474500,,anne working permit payment,Guest House 
+302001,42, Receipt,11437,19/07/2012,,313624.67866324,camilla sjokvist,
+302001,42, Receipt,11243,20/07/2012,,1500,Fissoo scosi guest house 288339/2012,Guest House 
+302001,42, Receipt,11263,23/07/2012,,507000,Vincent Stray - meals and accomm rv288654,Guest House 
+302001,42, Receipt,11296,26/07/2012,,9000,Felix Hongo - breakfast at G/house rv288668,Guest House 
+302001,42, Receipt,11302,27/07/2012,,1500,Timotheo Dakay - malipo ya scones rv288674,Guest House 
+302001,42, Receipt,11306,27/07/2012,,320000,Joyce - accommodation at G/house rv288678,Guest House 
+302001,42, Receipt,11315,30/07/2012,,211500,Miss Camila - Breakfast and lunch rv288688,Guest House 
+302001,42, Receipt,11318,30/07/2012,,1500,Emanuel Fabiano - scones from guest house rv288691,Guest House 
+302001,42, Receipt,11321,31/07/2012,,120012.00120012,Brendon Roselyne - accomm. rv288694,Guest House 
+302001, 42, Period Total,,,,3204433.3622565
+302001,43, Receipt,11540,02/08/2012,,361538.46153846,guesthouse chris,
+302001,43, Receipt,11783,02/08/2012,,1500,Emanueli Fabiano scones rv289003,Guest House 
+302001,43, Receipt,11788,02/08/2012,,500,Rehema Girgis scones rv289005/2012,Guest House 
+302001,43, Receipt,11792,02/08/2012,,81000,Scovel Christopher guest house 289009/2012,Guest House 
+302001,43, Receipt,11794,02/08/2012,,204020.4020402,Gard Stedsund meals guest house 289011/2012,Guest House 
+302001,43, Receipt,11799,03/08/2012,,1500,Dikla Paulo sconce 289013/2012,Guest House 
+302001,43, Receipt,11803,03/08/2012,,500,Neema Danieli sconce rv289015/2012,Guest House 
+302001,43, Receipt,11809,04/08/2012,,150015.00150015,Nouhou Diallo guest house rv289020/2012,Guest House 
+302001,43, Receipt,11811,06/08/2012,,1500,Jackson Tarmo sconce rv289022/2012,Guest House 
+302001,43, Receipt,11839,07/08/2012,,30000,Sajida Kimambo guest house rv289033/2012,Guest House 
+302001,43, Receipt,11840,07/08/2012,,30000,Alfred Kangolle guest house rv289034/2012,Guest House 
+302001,43, Receipt,11841,07/08/2012,,19500,Alfred Kangolle guest house rv289035/2012,Guest House 
+302001,43, Receipt,11850,09/08/2012,,500,Rehema Girgis - guest house rv289041/2012,Guest House 
+302001,43, Receipt,11860,09/08/2012,,3000,Sesilia  sconce rv289045/2012,Guest House 
+302001,43, Receipt,11864,10/08/2012,,3000,Timotheo Dakay - malipo ya scones rv289048,Guest House 
+302001,43, Receipt,11402,13/08/2012,,1500,Dikla Paulo - bought scones from G/house rv289581,Guest House 
+302001,43, Receipt,11405,13/08/2012,,500,Rehema Girgis - guest house rv289584,Guest House 
+302001,43, Receipt,11419,14/08/2012,,1500,Jackson Tarimo - scones from guest h rv289594,Guest House 
+302001,43, Receipt,11420,14/08/2012,,500,Rehema Girgis - guest house rv289595,Guest House 
+302001,43, Receipt,11358,15/08/2012,,1500,Elibariki Fissoo - scones from guest hou rv289753,Guest House 
+302001,43, Receipt,11371,16/08/2012,,2500,Hanna - bread and scones from guest rv289766,Guest House 
+302001,43, Receipt,11546,16/08/2012,,3077.3076923077,nina blindheim guesthouse,
+302001,43, Receipt,11551,16/08/2012,,804615,nina blendheim guesthouse,
+302001,43, Receipt,11416,17/08/2012,,30000,Godwin Ndeki guest house rv289904/2012,Guest House 
+302001,43, Receipt,11444,20/08/2012,,1500,Elibariki - skonsi guest house 289772/2012,Guest House 
+302001,43, Receipt,11431,21/08/2012,,1500,Elibariki - skonsi guest house 289910/2012,Guest House 
+302001,43, Receipt,11456,22/08/2012,,1500,Timothe - skonsi guest house 289782/2012,Guest House 
+302001,43, Receipt,11461,23/08/2012,,1500,Emanuel Fabiano - sconsis at guest  rv289788,Guest House 
+302001,43, Receipt,11466,23/08/2012,,80000,Wageni toka ELCT-Accomodation rv289793,Guest House 
+302001,43, Receipt,11467,23/08/2012,,1500,Eliya Guest house-rv289794,Guest House 
+302001,43, Receipt,11474,23/08/2012,,511551.15511551,Family Rincle - Accommodation rv289786,Guest House 
+302001,43, Receipt,11548,23/08/2012,,897435.8974359,guesthouse karsten kandstad loberg,
+302001,43, Receipt,11470,24/08/2012,,40000,Guest  House  income rv289797,Guest House 
+302001,43, Receipt,11479,27/08/2012,,2000,Eliya Eskel-Guest House-rv289913,Guest House 
+302001,43, Receipt,11484,28/08/2012,,1500,Yeremia lohay-Guest house rv289918,Guest House 
+302001,43, Receipt,11490,28/08/2012,,700,Sissil sconsi at Guest House-rv289924,Guest House 
+302001,43, Receipt,11496,29/08/2012,,1500,Fisoo -Guest House-rv289930,Guest House 
+302001, 43, Period Total,,,,3275953.2253225
+302001,44, Receipt,11524,03/09/2012,,1500,Barikiel Sulle Guest house Skonsi-rv289944,Guest House 
+302001,44, Receipt,12184,03/09/2012,,641025.64102564,sissel egge guesthouse,
+302001,44, Receipt,11526,04/09/2012,,1500,Barikiel Samwel - guest house rv289946,Guest House 
+302001,44, Receipt,11508,05/09/2012,,1500,Barikieli Samwel  sconsi at Guest house rv290603,Guest House 
+302001,44, Receipt,11510,06/09/2012,,1500,Elibariki fissoo Sconsi at Guest house rv290606,Guest House 
+302001,44, Receipt,11518,07/09/2012,,1500,Jackson Tarmo sconsi at Guest house-rv290615,Guest House 
+302001,44, Receipt,11629,10/09/2012,,1500,Jackson Tarimo - scones from guest h rv290620,Guest House 
+302001,44, Receipt,11638,11/09/2012,,1500,Barikiel Samwel - scones from guest house rv290632,Guest House 
+302001,44, Receipt,11573,12/09/2012,,30000,Guest  House  income rv291101,Guest House 
+302001,44, Receipt,11655,12/09/2012,,1500,Elibariki Fissoo - scones from guest hou rv290649,Guest House 
+302001,44, Receipt,11582,13/09/2012,,1500,Yeremia Lohay - bought Scones  rv291110,Guest House 
+302001,44, Receipt,11591,14/09/2012,,2000,Barikiel Samwel - scones from guest house rv291119,Guest House 
+302001,44, Receipt,11603,14/09/2012,,226500,Maria Nydal - accom in G/house rv291131,Guest House 
+302001,44, Receipt,12186,14/09/2012,,591538.46153846,maria nyrdall walmsness,
+302001,44, Receipt,12187,14/09/2012,,823846.15384615,carina trydal guesthouse,
+302001,44, Receipt,12188,14/09/2012,,823846.15384615,kristin tanes guesthouse,
+302001,44, Receipt,11610,17/09/2012,,1500,Barikiel Samwel - guest house rv291138,Guest House 
+302001,44, Receipt,11617,18/09/2012,,500,Eliwaza Joseph - sconce from G/house rv291146 ,Guest House 
+302001,44, Receipt,11618,18/09/2012,,1500,Wilfred - sconce from G/house rv291147,Guest House 
+302001,44, Receipt,12203,18/09/2012,,343333.33333333,martine brovig and ramdi espegren guesthouse,
+302001,44, Receipt,11679,19/09/2012,,8000,Guest  House  income rv291320,Guest House 
+302001,44, Receipt,12190,19/09/2012,,1866666.6666667,ida macfadzean guesthouse 43 nights,
+302001,44, Receipt,12559,19/09/2012,,1500,Dikla Paulo - bought scones from G/house rv291315,Guest House 
+302001,44, Receipt,11685,20/09/2012,,1500,Barikiel Samwel - guest house rv291326,Guest House 
+302001,44, Receipt,11691,20/09/2012,,408000,Sigejasen Spikkegand - meals and accom rv291332,Guest House 
+302001,44, Receipt,11693,21/09/2012,,1500,Jackson Tarimo - scones from guest h rv291334,Guest House 
+302001,44, Receipt,11698,21/09/2012,,66000,Karsten - meals at g/house rv291340,Guest House 
+302001,44, Receipt,12192,21/09/2012,,551282.05128205,guesthouse martin lie,
+302001,44, Receipt,12839,21/09/2012,,14925.373134328,Martin R. Accommodation at guest  house rv291339,Guest House 
+302001,44, Receipt,12840,21/09/2012,,142857.14285714,Martin R. Accommodation at guest  house rv291339,Guest House 
+302001,44, Receipt,12841,21/09/2012,14285.714285714,,Martin R. Accomm at guest  house rv291339correctio,Guest House 
+302001,44, Receipt,12842,21/09/2012,,681428.57142857,Hans Alexander. Accomm at guest  house rv291341,Guest House 
+302001,44, Receipt,12843,21/09/2012,,280,Siri - Accomm at guest  house rv291342,Guest House 
+302001,44, Receipt,12844,21/09/2012,,400000,Siri - Accomm at guest  house rv291342,Guest House 
+302001,44, Receipt,12845,21/09/2012,,280,Siri - Accomm at guest  house rv291342 correction,Guest House 
+302001,44, Receipt,12846,21/09/2012,560,,Siri - Accomm at guest  house rv291342 correction,Guest House 
+302001,44, Receipt,11699,24/09/2012,,1500,Barikiel Samwel - guest house rv291343,Guest House 
+302001,44, Receipt,11700,24/09/2012,,69000,Guest  House  income rv291344,Guest House 
+302001,44, Receipt,12194,24/09/2012,,887466.66666667,usd640 guesthouse marius ostner dollner 32 days,
+302001,44, Journal - GL,1690,24/09/2012,451383.43,,Corr for wrong GL-guest house income but booked as revenue from patient fee ,
+302001,44, Journal - GL,1729,24/09/2012,,902766.86,Corr for wrong GL-guest house income but booked as revenue from patient fee and GL 1690,
+302001,44, Receipt,11761,26/09/2012,,1500,Elibariki Fissoo - scones from guest hous rv291556,Guest House 
+302001,44, Receipt,11768,27/09/2012,,1500,Eli Eskel - scones from G/house rv291563,Guest House 
+302001,44, Receipt,11899,28/09/2012,,1500,Emanueli Fabiano scones rv 291569,Guest House 
+302001,44, Receipt,11902,28/09/2012,,30000,Lynn Maerry-accomodation in G house rv 291572,Guest House 
+302001,44, Receipt,12195,28/09/2012,,824102.56410256,ingvild hagerop kolas bo og mat utgifter,
+302001,44, Receipt,11904,29/09/2012,,1500,Elia Eskel-sconnes from guest house rv 291575,Guest House 
+302001, 44, Period Total,,,,9897916.495442
+302001,45, Receipt,11912,02/10/2012,,1500,Elia Eskel-sconnes from guest house rv 291583,Guest House 
+302001,45, Receipt,11927,03/10/2012,,1500,Elibariki fissoo Sconsi at Guest house rv291598,Guest House 
+302001,45, Receipt,11935,05/10/2012,,1500,Eliya Eskel - skonsi guest house 291856,Guest House 
+302001,45, Receipt,11936,05/10/2012,,175500,Gunnar Halse-meals and accom in Guest rv 291857,Guest House 
+302001,45, Receipt,11944,08/10/2012,,1500,Yeremia Lohay - scones rv291865,Guest House 
+302001,45, Receipt,11954,08/10/2012,,228300,New canteen income R/V 291875,New Canteen
+302001,45, Receipt,12537,08/10/2012,228300,,New Canteen Income - rv291875,New Canteen
+302001,45, Receipt,11948,09/10/2012,,500,Rehema Girgis sconcer rv291869,Guest House 
+302001,45, Receipt,11949,09/10/2012,,1500,Emanueli Fabiano scones rv 291870,Guest House 
+302001,45, Receipt,11952,09/10/2012,,20000,Yohani samo-old tyre rv 291873,Engineering Section ( Garage)
+302001,45, Receipt,11959,10/10/2012,,84000,Peter-accomodation and meals rv 291880,Guest House 
+302001,45, Receipt,11967,10/10/2012,,2000,Rehema Girgis sconce rv291888,Guest House 
+302001,45, Receipt,12029,11/10/2012,,222000,Guest house Income  rv 292153,Guest House 
+302001,45, Receipt,12030,11/10/2012,,63000,Jane-Meals and acco rv 292154,Guest House 
+302001,45, Receipt,12036,12/10/2012,,109500,Agneth-meals an acco-in guest house rv 292159,Guest House 
+302001,45, Receipt,12037,12/10/2012,,70500,Marthe Drange-meals and acc. rv 292160,Guest House 
+302001,45, Receipt,12038,12/10/2012,,127500,Sandra-meals and acco.rv 292161,Guest House 
+302001,45, Receipt,11984,17/10/2012,,77100,Jon Olav-meals and accomodation rv 293505,Guest House 
+302001,45, Receipt,11985,17/10/2012,,2500,Emanueli Fabiano scones rv 293506,Guest House 
+302001,45, Receipt,11987,17/10/2012,,364500,Class-meals and accomodation rv 293508,Guest House 
+302001,45, Receipt,12201,17/10/2012,,623243.24324324,anna bjaaberg guesthouse,
+302001,45, Receipt,12202,19/10/2012,,281629.72972973,siri heravsteit guesthouse,
+302001,45, Receipt,12022,22/10/2012,,66000,Ellen and Win-meals and accomodation rv 293546,Guest House 
+302001,45, Receipt,12024,22/10/2012,,1500,Jackson Tarmo sconsi at Guest house-rv293547,Guest House 
+302001,45, Receipt,12090,23/10/2012,,11000,Guest house Income  rv 293754,Guest House 
+302001,45, Receipt,11950,25/10/2012,,172500,Ida,Vyone and Eline -meals rv 291871,Guest House 
+302001,45, Receipt,12151,29/10/2012,,145000,Geetruida Bleekrode - meals and accomm. rv293770,Guest House 
+302001,45, Receipt,12152,29/10/2012,,963000,Bruce Cameron - meals and accomm. rv293771,Guest House 
+302001,45, Receipt,12153,29/10/2012,,2500,guest house income rv293772,Guest House 
+302001,45, Receipt,12167,31/10/2012,,432043.20432043,Girth/Marit- accom and meals at G/house rv293787,Guest House 
+302001,45, Receipt,12168,31/10/2012,,259525.95259526,Marius - accom and meals at G/house rv293788,Guest House 
+302001,45, Receipt,12170,31/10/2012,,364536.45364536,Kari Irene - meals and acc. at g/house rv293790,Guest House 
+302001,45, Receipt,12171,31/10/2012,,390039.00390039,Birthe - meals and acc. at g/house rv293791,Guest House 
+302001, 45, Period Total,,,,5038617.5874344
+302001,46, Receipt,12178,01/11/2012,,648064.80648065,Miwiva - meals and accomm. rv293798,Guest House 
+302001,46, Receipt,12218,01/11/2012,,1500,Elibariki Fissoo - scones from guest hou rv294254,Guest House 
+302001,46, Receipt,12515,01/11/2012,,981324.32432432,berit seim jorgensen guesthouse debbie lee clark c,
+302001,46, Receipt,12220,02/11/2012,,40820,INGAR  Guest house rv2994256/2012,Guest House 
+302001,46, Receipt,12225,02/11/2012,,2500,ELIA Eskel sconsi 294261/2012,Guest House 
+302001,46, Receipt,12250,06/11/2012,,1500,Elibarieli Fisoo scones rv294277/2012,Guest House 
+302001,46, Receipt,12290,09/11/2012,,1000,Elibariki Fissoo - scones from guest hou rv292464,Guest House 
+302001,46, Receipt,12302,12/11/2012,,1000,Elibariki Fissoo - scones from guest hou rv292477,
+302001,46, Receipt,12310,12/11/2012,,192000,Bull Andrea accomodation  292485/2012,Guest House 
+302001,46, Receipt,12313,13/11/2012,,1000,Dikla Paulo - bought scones from G/house rv292488,Guest House 
+302001,46, Receipt,12339,14/11/2012,,1000,Jackson Tarimo - scones from guest h rv292710/12,Guest House 
+302001,46, Receipt,12345,14/11/2012,,40000,Marius O Dallus guest house usd 28 rv292714/12,Guest House 
+302001,46, Receipt,12348,15/11/2012,,1500,Elibarieli Fisoo scones rv292716/2012,Guest House 
+302001,46, Receipt,12316,16/11/2012,,1145040,MAL_ED-G/Income Sept 2012 rv 285444,Guest House 
+302001,46, Receipt,12364,16/11/2012,,1000,ELIA Eskel sconsi 292726/2012,Guest House 
+302001,46, Receipt,12458,19/11/2012,,128571.42857143,Hanna and Ingrid - meals and accomm. rv292746,Guest House 
+302001,46, Receipt,12465,20/11/2012,,78571.428571429,Kenny Blacklaw - meals and accomm. rv292903,Guest House 
+302001,46, Receipt,12520,20/11/2012,,1155405.4054054,anja spikkelland hauge,
+302001,46, Receipt,12475,21/11/2012,,1000,Dikla Paulo - bought scones from G/house rv292913,Guest House 
+302001,46, Receipt,12521,21/11/2012,,2007610.8108108,kjelfrid vidjelund guesth usd 1293,
+302001,46, Receipt,12482,22/11/2012,,36000,Aste - meals and accomm. rv292921,Guest House 
+302001,46, Receipt,12522,22/11/2012,,1945945.9459459,emma ronnbjerg guesthouse,
+302001,46, Receipt,12523,22/11/2012,,1723564.8648649,marie ekonrod guesthouse,
+302001,46, Receipt,12524,22/11/2012,,138378.37837838,emma ronbjerg anja sp, kjelfrid vidjelund guesth,
+302001,46, Receipt,12542,22/11/2012,,31425.428885683,Mathias -meals and accommodation rv 292920,Guest House 
+302001,46, Receipt,12491,23/11/2012,,1000,Barikiel Sulle Guest house Skonsi-rv292930,Guest House 
+302001,46, Receipt,12525,26/11/2012,,1720540.5405405,stine voll guesth usd 1107,
+302001,46, Receipt,12226,27/11/2012,,22500,Bertha lunches for 5 peoples 294262/2012,Guest House 
+302001,46, Receipt,12412,27/11/2012,,60000,Robert O. - accommodation and meals rv294353,Guest House 
+302001,46, Receipt,12529,28/11/2012,,195945.94594595,marte j tangeraas hansen guesthouse,
+302001,46, Receipt,12432,29/11/2012,,105000,Signe - meals and accommodation at G/houserv294373,Guest House 
+302001,46, Receipt,12530,29/11/2012,,1442589.1891892,sebastian and caroline guetshouse,
+302001, 46, Period Total,,,,13853298.497915
+302001,47, Receipt,12719,01/12/2012,,109500,Scalta - meals and accommodation rv294388,Guest House 
+302001,47, Receipt,13035,03/12/2012,,1000,Lucy - scones from guest house rv295872,Guest House 
+302001,47, Receipt,12568,04/12/2012,,6500,Guest House receipts - rv294707,Guest House 
+302001,47, Receipt,12572,04/12/2012,,1500,Barikiel Samwel - guest house rv294711,Guest House 
+302001,47, Receipt,12587,06/12/2012,,255000,Stephano Francis - meals at G/h rv294728,Guest House 
+302001,47, Receipt,12718,06/12/2012,,47142.857142857,Ida Mcfazen - meals at Guest House rv294735,Guest House 
+302001,47, Receipt,12590,07/12/2012,,1500,Jackson Tarimo - scones from guest h rv294732,Guest House 
+302001,47, Receipt,12599,10/12/2012,,1500,ELIA Eskel sconsi 294740,Guest House 
+302001,47, Receipt,12734,11/12/2012,,1500,Jackson Tarimo - scones from guest h rv294953,Guest House 
+302001,47, Receipt,12739,12/12/2012,,1500,Elibariki Fissoo - scones from guest hou rv294959,Guest House 
+302001,47, Receipt,13025,12/12/2012,,81081.081081081,Gunnstein Norheim,Guest House 
+302001,47, Receipt,12752,13/12/2012,,1500,Yeremia Lohay - scones from guest house rv294972,Guest House 
+302001,47, Receipt,12766,14/12/2012,,1500,Jackson Tarimo - scones from guest h rv294986,Guest House 
+302001,47, Receipt,12768,14/12/2012,,318000,Thea - meals and accommodation rv294989,Guest House 
+302001,47, Receipt,12771,14/12/2012,,28571.428571429,Veronika - accommodation at Guest House rv294992,Guest House 
+302001,47, Receipt,12772,14/12/2012,,630000,Veronika - accommodation at Guest House rv294993,Guest House 
+302001,47, Receipt,12773,14/12/2012,,190500,Veronika - meals at HLH Guest House rv294994,Guest House 
+302001,47, Receipt,12779,14/12/2012,,1326000,Scott and Tania - meals and accomm. rv295000,Guest House 
+302001,47, Receipt,12703,17/12/2012,,1500,Elibariki Gabriel - scones from G/house rv295660,Guest House 
+302001,47, Receipt,12966,17/12/2012,,651351.35135135,Maren Fauskange- Guest house income Nok 2410,Guest House 
+302001,47, Receipt,12968,17/12/2012,,775135.13513514,Anne Katrine and Anders - Guest H. Income Nok 2868,Guest House 
+302001,47, Receipt,12661,18/12/2012,,1500,Timothe  Dakay sconsi 295414/2012,Guest House 
+302001,47, Receipt,12970,18/12/2012,,1619678.3783784,Kaitlin Cook and Brother- Guest H. Income Nok 5992,Guest House 
+302001,47, Receipt,12672,19/12/2012,,1500,Dikla Paulo - bought scones from G/h rv295426,Guest House 
+302001,47, Receipt,12717,19/12/2012,,214285.71428571,Thoke Oustorp - meals and accomm. rv295427,Guest House 
+302001,47, Receipt,12678,20/12/2012,,1500,Timotheo Dakay - malipo ya scones rv295433,Guest House 
+302001,47, Receipt,12683,20/12/2012,,40000,Guest House receipts - rv295438,Guest House 
+302001,47, Receipt,12972,20/12/2012,,4864864.8648649,Johan &amp; Berit Bjornstad - Guest H. Income Nok18000,Guest House 
+302001,47, Receipt,12978,20/12/2012,,1515916.2162162,Ellen Nellissen - Guest House Income Nok 5608.89,Guest House 
+302001,47, Receipt,12688,21/12/2012,,1500,Emanuel Fabiano - scones from guest house rv295443,Guest House 
+302001,47, Receipt,12693,21/12/2012,,9000,Guest House receipts - 2 lunches rv295449,Guest House 
+302001,47, Receipt,12702,24/12/2012,,150000,Bjorg Holm - accomm at G/house rv295659,Guest House 
+302001,47, Receipt,12704,27/12/2012,,540000,Olav Ausel - meals and accomm. rv295661,Guest House 
+302001,47, Receipt,12714,28/12/2012,,1500,Elibariki Gabriel - scones from guest hou rv295669,Guest House 
+302001,47, Receipt,12807,29/12/2012,,1000,Elia Eskel -scones from G/house rv295676 ,Guest House 
+302001,47, Receipt,12808,31/12/2012,,1500,Jackson Tarimo -scones from G/house rv295677,Guest House 
+302001,47, Receipt,12981,31/12/2012,,378378.37837838,Kjetil Apeland - Guest House income Nok 1400,Guest House 
+302001,47, Journal - GL,1843,31/12/2012,,20588235.3,Living expensese, sala rent etc Medical Ass Course (Partly for guest house),Guest House 
+302001, 47, Period Total,,,,34362140.705405
+302001,47, Total Period Movement,,,,149391023.33667

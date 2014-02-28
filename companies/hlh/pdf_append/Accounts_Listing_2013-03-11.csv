@@ -1,0 +1,39 @@
+203055 - 0 for period 36 to 47
+203055, 36, Brought Forward Balance,,,,1449670.98
+203055,36, Journal - GL,1164,31/01/2012,,105358.2,HLH Tughe Office 3%,
+203055, 36, Period Total,,,,105358.2
+203055,37, Journal - GL,1194,29/02/2012,,105953.7,HLH Tughe Branch 3% Febr.2012,
+203055, 37, Period Total,,,,105953.7
+203055,38, Journal - GL,1212,31/03/2012,,105638,HLH Tughe Branch 3% March.2012,
+203055, 38, Period Total,,,,105638
+203055,39, Payment - GL,12227,12/04/2012,100000,,Athanasio Tippe_matumizi ya Ofisi ya Tughe pv 6686,None
+203055,39, Payment - GL,12566,27/04/2012,76000,,Athanasio Tippe - BBT safari ( for TUGHE ocation),,None
+203055,39, Payment - GL,12571,28/04/2012,230000,,Michael Qerangu - Tanga safari all. Pv67239,None
+203055,39, Journal - GL,1262,30/04/2012,,104459.65,HLH Tughe Branch 3% April.2012,
+203055, 39, Period Total,,,301540.35
+203055,40, Journal - GL,1290,31/05/2012,,104206.17,HLH Tughe Branch 3% May.2012,
+203055, 40, Period Total,,,,104206.17
+203055,41, Journal - GL,1308,30/06/2012,,103344.4,HLH Tughe brach office %3 for June 2012,
+203055, 41, Period Total,,,,103344.4
+203055,42, Journal - GL,1345,31/07/2012,,102451.17,HLH Tughe Branch 3% July 2012,
+203055, 42, Period Total,,,,102451.17
+203055,43, Journal - GL,1379,31/08/2012,,102797.66,HLH Tughe Branch 3% Aug. 2012,
+203055, 43, Period Total,,,,102797.66
+203055,44, Payment - GL,14545,07/09/2012,100000,,Tughe-mchango wa ofisi ya Tughe kwa HSN (FUND RAIS,None
+203055,44, Payment - GL,14546,07/09/2012,100000,,Tughe-matumizi ya ofisi ya tughe pv 69280,None
+203055,44, Payment - GL,14677,17/09/2012,60000,,Atnasio Tippe-safari ya BLHC na GLHC kazi ya Tughe,None
+203055,44, Payment - GL,14883,24/09/2012,60000,,Michaeli,Atnasio and Yekonia-Safari Ya Kansay Tugh,None
+203055,44, Journal - GL,1384,30/09/2012,393400,,Katibu wa Tughe safari Kansay  T553AFR ,
+203055,44, Journal - GL,1399,30/09/2012,,121623,HLH Tughe Office %3 for Sept.2012,
+203055, 44, Period Total,,,591777
+203055,45, Journal - GL,1424,29/10/2012,393400,,Correction for wrong A/C,
+203055,45, Journal - GL,1798,29/10/2012,,393400,Corr for journal No 1424 booked twice 29/10 and 30/09,
+203055,45, Journal - GL,1435,31/10/2012,,199597.82,HLH Tughe Office %5 for Oct.2012,
+203055, 45, Period Total,,,,199597.82
+203055,46, Payment - GL,15495,02/11/2012,90000,,TUGHE - Matumizi ya ofisi ya Tawi pv 70317,None
+203055,46, Payment - GL,15777,15/11/2012,65000,,Atnasio Tipe matum tughe pv 70504,
+203055,46, Journal - GL,1797,30/11/2012,,199118.02,Correction of wrong booking of tughe branch contribution for NOV.2012 Journal 1683,
+203055, 46, Period Total,,,,44118.02
+203055,47, Journal - GL,1813,31/12/2012,,236382.42,HLH Tughe office asilimia 5,
+203055, 47, Period Total,,,,236382.42
+203055,47, Balance C/Fwd,,,,1766201.19

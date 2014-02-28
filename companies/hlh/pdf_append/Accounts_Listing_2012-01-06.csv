@@ -1,0 +1,141 @@
+102101 - 0 for period 0 to 11
+102101, 0, Brought Forward Balance,,,0
+102101,0, Journal - GL,286,30/01/2009,,116400,Reclassify milk expenses,
+102101, 0, Period Total,,,,116400
+102101,1, Payment - GL,22,16/01/2009,950000,,Venance MOshi safari imprest,
+102101,1, Payment - GL,34,30/01/2009,2106890,,Venance MOshi safari imprest,
+102101,1, Payment - GL,35,30/01/2009,3490000,,Venance MOshi safari imprest,
+102101,1, Payment - GL,35,30/01/2009,116400,,Watu wa HAPO -maziwa,
+102101,1, Journal - GL,2,31/01/2009,,200000,Safari imprest pv 52607,
+102101,1, Payment - GL,37,03/02/2009,1017000,,Safari ya Babati na DSM,
+102101,1, Journal - GL,5,19/02/2009,,950000,  Safari imprest pv 52750,
+102101, 1, Period Total,,,6530290
+102101,2, Receipt,113,05/03/2009,,157600,241433rv,
+102101,2, Payment - GL,201,13/03/2009,1280000,,Venance Moshi safari ya Arusha,
+102101,2, Payment - GL,261,20/03/2009,150000,,Fanueli sappa safari Dodoma,
+102101,2, Payment - GL,4298,20/03/2009,620000,,Ezekieli Tahhani Imprest Safari Arusha,Guest House 
+102101,2, Payment - GL,290,25/03/2009,150000,,Elihuruma A. Frank S.safari ya DSM,
+102101,2, Payment - GL,291,25/03/2009,2750000,,Venance Moshi safari ya DSM,
+102101,2, Payment - GL,292,25/03/2009,358000,,Wilson Jackson safari ya DSM,
+102101,2, Payment - GL,313,27/03/2009,235000,,Anjella Baynit Fredcopset seminar,
+102101,2, Receipt,173,30/03/2009,,87500,242272 rv,
+102101, 2, Period Total,,,5297900
+102101,3, Receipt,188,09/04/2009,,160000,242667rv,
+102101,3, Payment - GL,561,20/04/2009,768000,,Venance Moshi safari expenses,
+102101, 3, Period Total,,,608000
+102101,4, Payment - GL,668,03/05/2009,989400,,Venance Moshi safari expenses,
+102101,4, Journal - GL,32,06/05/2009,,150000,Yeconia Deles pv 52917,
+102101,4, Receipt,274,07/05/2009,,16000,243803rv,
+102101,4, Journal - GL,67,08/05/2009,4240000,,Reclassify dr. Malleyeck safari imprest,
+102101,4, Payment - GL,1216,13/05/2009,250000,,Victoria Bayda Advance Salary May,None
+102101,4, Payment - GL,1219,13/05/2009,150000,,Wilson Jackson Advance Salary,None
+102101,4, Journal - GL,69,13/05/2009,,250000,Reclassify advance salary Victoria Bayda ,
+102101,4, Journal - GL,69,13/05/2009,,150000,Reclassify advance salary Wilson Jackson ,
+102101, 4, Period Total,,,5063400
+102101,5, Payment - GL,954,02/06/2009,1500000,,Fanueli Sappa safari imprest,
+102101,5, Payment - GL,962,03/06/2009,680000,,Penford Magara safari imprest,
+102101,5, Receipt,441,05/06/2009,,200000,244842rv,
+102101,5, Payment - GL,1299,09/06/2009,385000,,Philipo Sayyo safari imprest,None
+102101,5, Payment - GL,986,10/06/2009,955000,,Venance Moshi safari expenses,None
+102101,5, Payment - GL,1295,18/06/2009,1295000,,Venas Moshi -safari ya Arisha,None
+102101,5, Payment - GL,1024,19/06/2009,220000,,Dr. Naftali Naman imprest expenses,None
+102101,5, Payment - GL,1034,22/06/2009,905000,,Venance Moshi safari expenses,None
+102101,5, Payment - GL,1080,29/06/2009,162000,,Fanuel Sappa - safari imprest,None
+102101, 5, Period Total,,,5902000
+102101,6, Payment - GL,1358,09/07/2009,1210000,,William Shauri - safari imprest,None
+102101,6, Journal - GL,68,13/07/2009,746000,,Reclassify Ezra Naman safari S/Africa,
+102101,6, Payment - GL,1383,14/07/2009,415000,,Fanueli Sappa - safari imprest,None
+102101,6, Payment - GL,1384,14/07/2009,780000,,Dr.Isaack Malleyeck - safari imprest,None
+102101,6, Payment - GL,1387,14/07/2009,965000,,Venance Moshi - safari imprest,None
+102101,6, Payment - GL,1382,17/07/2009,780000,,Justine Masuja - safari imprest,None
+102101,6, Journal - GL,55,20/07/2009,,780000,Dr.Isaack Malleyeck - reimbursement of pv.55097,
+102101,6, Payment - GL,1512,22/07/2009,825000,,Barikieli Herson - safari imprest,None
+102101,6, Payment - GL,1544,27/07/2009,810000,,Venance Moshi -imprest,None
+102101,6, Payment - GL,3274,28/07/2009,350000,,Bartholomayo Madangi - safari imprest (singida),None
+102101,6, Payment - GL,3290,30/07/2009,500000,,Israel Emanuel - posho ya safari,None
+102101, 6, Period Total,,,6601000
+102101,7, Payment - GL,1668,17/08/2009,92000,,Ezra Naman - safari,None
+102101,7, Payment - GL,1675,17/08/2009,215000,,Samweli Naman - safari Moshi (Posho),None
+102101,7, Payment - GL,1691,18/08/2009,325000,,Enock Herson safari ya Arusha,None
+102101,7, Payment - GL,1694,18/08/2009,20000,,Michael Jackson - posho ya safari,None
+102101,7, Payment - GL,1712,21/08/2009,273000,,Justine Masuja - posho ya safari,None
+102101,7, Payment - GL,1713,21/08/2009,150000,,Gabriel Gabriel  - shopping,None
+102101,7, Payment - GL,1720,22/08/2009,660000,,Venance Moshi - safari imprest,None
+102101,7, Payment - GL,1721,22/08/2009,660000,,William Shauri - safari imprest,None
+102101,7, Payment - GL,1722,22/08/2009,660000,,Fanuel Sappa - safari imprest,None
+102101,7, Payment - GL,1723,22/08/2009,660000,,Yekonia Deles - safari imprest,None
+102101, 7, Period Total,,,3715000
+102101,8, Payment - GL,1807,04/09/2009,1236000,,Dr.Isaack Malleyeck -  posho ya safari ya DSM,None
+102101,8, Payment - GL,1872,10/09/2009,622500,,Marko Elia - safari (posho),None
+102101,8, Payment - GL,2033,17/09/2009,2975000,,Venance Moshi - safari imprest,None
+102101,8, Receipt,1290,17/09/2009,,101400,RV248972,MAL- ED. project
+102101,8, Payment - GL,2134,23/09/2009,136500136.5,,Dr.I.Malleyeck posho ya safari Arusha (kwenda Indi,None
+102101,8, Payment - GL,2134,23/09/2009,1430001.43,,Dr.Malleyeck - safari ya India $1100,None
+102101,8, Receipt,1257,23/09/2009,,137930137.93,Corr.of Pv.55911 $106100,
+102101,8, Payment - GL,2135,23/09/2009,105000,,Dr.Isaack Malleyeck - safari India (posho),None
+102101,8, Payment - GL,2136,23/09/2009,1430001.43,,Dr.Isaack Malleyeck - safari ya India ,None
+102101,8, Payment - GL,2146,25/09/2009,225000,,Raymond Suluo - posho &amp; diesel safari ya Arusha,None
+102101,8, Payment - GL,2548,26/09/2009,250000,,Fanuel Sappa - safari ya Arusha,None
+102101, 8, Period Total,,,6742101.43
+102101,9, Payment - GL,2208,02/10/2009,1050000,,Venance Moshi William &amp; Elihuruma posho and diesel,None
+102101,9, Payment - GL,2328,06/10/2009,1200000,,Venance/Elihuruma/William - diesel &amp; posho safari,None
+102101,9, Payment - GL,2343,08/10/2009,199000,,Samweli Mussa - safari ya Singida (kukamua alzeti),None
+102101,9, Payment - GL,2267,14/10/2009,725000,,Yekonia Deles - safari ya Arusha ,None
+102101,9, Payment - GL,2268,14/10/2009,1505000,,Venance Moshi - safari imprest,None
+102101,9, Payment - GL,2278,15/10/2009,364000,,Samwel Naman - safari ya Arusha,None
+102101,9, Payment - GL,2391,19/10/2009,225000,,Yekonia Deles - safari imprest,None
+102101,9, Payment - GL,2544,26/10/2009,2105000,,Dr.Malleyeck - safari imprest,None
+102101,9, Receipt,1582,26/10/2009,,504400.504401,rv27201,
+102101,9, Receipt,1609,26/10/2009,,13000,RV27205,
+102101,9, Payment - GL,2564,28/10/2009,18000,,Estomih Mduma - refund of imprest pv.55908,MAL- ED. project
+102101,9, Journal - GL,332,30/10/2009,3230000,,Correction- Kinto Arusha misposting Je 209/09,
+102101,9, Journal - GL,158,31/10/2009,,4240000,Imprest retired ,
+102101,9, Journal - GL,175,31/10/2009,,3490000,Imprest retirement,
+102101,9, Journal - GL,176,31/10/2009,,950000,Imprest retired by staff,
+102101,9, Journal - GL,177,31/10/2009,,680000,Imprest retirement,
+102101,9, Journal - GL,178,31/10/2009,,358000,safari imprest retired,
+102101,9, Journal - GL,179,31/10/2009,,800000,Imprest retirement for 2008,
+102101,9, Journal - GL,180,31/10/2009,,1030600,Dr.Isaack Malleyeck - reimbursement of safari imprest pv.55911,None
+102101,9, Journal - GL,181,31/10/2009,,825000,safari imprest retired,
+102101,9, Journal - GL,182,31/10/2009,,1222700,Dr.Isaack Malleyeck - reimbursement of safari imprest (DSM TCMA Meeting),None
+102101,9, Journal - GL,209,31/10/2009,,3230000,Kinto Arusha - retire safari imprest pv.49439/2008 (purchases of printers &amp; office supplies),None
+102101, 9, Period Total,,,,6722700.5044
+102101,10, Payment - GL,2588,02/11/2009,45720,,Bartholomayo Madangi - safari DSM (overspent),None
+102101,10, Payment - GL,2610,04/11/2009,1016500,,Barikieli Herson - safari imprest  (Arusha),None
+102101,10, Payment - GL,2645,10/11/2009,225000,,Fanueli Sappa - safari ya Arusha (posho),None
+102101,10, Payment - GL,2773,25/11/2009,250000,,Samweli Thomas - safari imprest to Arusha,None
+102101,10, Journal - GL,288,25/11/2009,400000,,Reclassify safari imprest Elizabeth Ayubu ,
+102101,10, Journal - GL,208,26/11/2009,,2485000,Kinto Arusha - retire safari imprest pv.46212/2007 (purchases of printers &amp; office supplies),None
+102101,10, Journal - GL,333,26/11/2009,2485000,,Correction- Kinto Arusha misposting Je 208/09,
+102101,10, Payment - GL,2809,27/11/2009,554000,,Josephat&amp;Japhet - safari imprest ,MAL- ED. project
+102101, 10, Period Total,,,2491220
+102101,11, Payment - GL,2828,01/12/2009,650000,,Fanueli Sappa - safari ya Arusha (imprest),None
+102101,11, Payment - GL,2833,01/12/2009,1535000,,Vennace Amma - safari ya DSM,None
+102101,11, Payment - GL,2834,01/12/2009,335000,,William Shauri - safari ya DSM,None
+102101,11, Payment - GL,2842,04/12/2009,855000,,Marko Elias - posho ya safari,None
+102101,11, Payment - GL,2835,07/12/2009,335000,,Elihuruma Anania - safari ya DSM ,None
+102101,11, Payment - GL,2860,10/12/2009,630000,,Jacob,Joel &amp; Samweli Mussa - safari imprest,None
+102101,11, Payment - GL,2873,10/12/2009,3445000,,Yekonia Deles - posho &amp; safari imprest,None
+102101,11, Payment - GL,2938,14/12/2009,42000,,Azaria Simon - adv.salary Dec.2009,None
+102101,11, Payment - GL,3084,18/12/2009,4500000,,Ayubu Daniel - safari ya Arusha ,None
+102101,11, Receipt,2035,18/12/2009,,160000,Rv252002,
+102101,11, Payment - GL,3114,21/12/2009,75000,,Samweli Thomas - safari imprest to Arusha,None
+102101,11, Payment - GL,3126,21/12/2009,495000,,Yekonia Deles - safari ya Arusha,None
+102101,11, Payment - GL,3135,22/12/2009,330000,,Azaria Simon - safari ya DSM,None
+102101,11, Payment - GL,3137,22/12/2009,181950,,Samweli Thomas - imprest,None
+102101,11, Receipt,2093,28/12/2009,,46850,Selina Sanka - hesabu ya pv.56842,None
+102101,11, Payment - GL,3171,30/12/2009,240000,,William Shauri - safari ya DSM,None
+102101,11, Payment - GL,3172,30/12/2009,240000,,Elihuruma Anania - safari ya DSM,None
+102101,11, Payment - GL,3169,31/12/2009,3140000,,Venance Moshi - safari ya DSM ,None
+102101,11, Payment - GL,3209,31/12/2009,550000,,Venance Moshi - safari ya DSM ,None
+102101,11, Receipt,2130,31/12/2009,,106138,Yekonia Deles - return imprest of pv.56777,55485,55388,53740,53153 &amp; 55949 of 2009,None
+102101,11, Journal - GL,243,31/12/2009,,3371663,Yekonia Deles pv.56777,None
+102101,11, Journal - GL,244,31/12/2009,,723000,Yekonia Deles - hesabu ya pv.55485,None
+102101,11, Journal - GL,253,31/12/2009,,4500000,Ayubu Daniel - imprest retirement of pv.57009,None
+102101,11, Journal - GL,254,31/12/2009,,305000,Ayubu Daniel - retirement of pv.57386,
+102101,11, Journal - GL,254,31/12/2009,,1575000,Ayubu Daniel - retirement of pv.57386,None
+102101,11, Journal - GL,259,31/12/2009,,5938897,,None
+102101,11, Journal - GL,265,31/12/2009,,5225000,Imprest safari Venance Amma PV5600/56026/55798/2009,
+102101,11, Journal - GL,266,31/12/2009,,4645000,Venance Moshi - retirement of pv 59090 &amp; pv 57097 of 2009,
+102101, 11, Period Total,,,,9017598
+102101,11, Balance C/Fwd,,,27094212.9256

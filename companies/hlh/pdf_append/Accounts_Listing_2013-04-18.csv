@@ -1,0 +1,266 @@
+401001 - 1 for period 36 to 47
+401001,36, Payment - GL,10854,09/01/2012,523020,,Barikiel Samwel-offs pay 2011 pv 65362,None
+401001,36, Payment - GL,10857,09/01/2012,387700,,Elibariki Fissoo-offs pay 2011 pv 65365,None
+401001,36, Payment - GL,10859,10/01/2012,856140,,Dicla Paulo Offs pay 2011 pv 65367,None
+401001,36, Payment - GL,10921,11/01/2012,1198248.9,,Yeremia Lohay - off pay for 2011 pv65371,None
+401001,36, Journal - GL,998,11/01/2012,365678.1,,PAYE deduction  - Offs 2011 for Yeremia Lohay pv65371,
+401001,36, Journal - GL,999,11/01/2012,354289.2,,PAYE deduction  - Offs 2011 for Timotheo Dakay pv65372,
+401001,36, Payment - GL,10923,11/01/2012,1171674.8,,Timotheo Dakay - off pay for 2011 pv65372,None
+401001,36, Payment - GL,10876,17/01/2012,330600,,Yotham Tsingay - mshahara Dec-Jan2012 pv65618,None
+401001,36, Journal - GL,996,17/01/2012,29400,,Yotham Tsingay - PAYE deductions Dec-Jan2012 pv65618,
+401001,36, Payment - GL,10974,18/01/2012,338060,,Emanuel Fabiano - off pay for 2011  Pv65662,None
+401001,36, Journal - GL,1002,18/01/2012,33940,,Emanuel Fabiano - PAYE deductions for off pay for 2011  Pv65662,
+401001,36, Payment - GL,10978,18/01/2012,496750,,Dr. Hayte Madotay - off pay for 2011 pv65666 ,None
+401001,36, Journal - GL,1003,18/01/2012,75583,,Dr. Hayte MAdotay - PAYE deductions for off pay for 2011  Pv65666,
+401001,36, Journal - GL,1134,20/01/2012,,8254378,Correction of wrong posting doctors off pay 2010,
+401001,36, Journal - GL,1135,20/01/2012,8254378,,Correction of wrong posting doctors off pay 2010 - supposed to be in 2011,
+401001,36, Payment - GL,11773,28/01/2012,,270,Salary overstatement correction for JANUARY ,None
+401001,36, Journal - GL,1854,30/01/2012,2494389.8,,Correction  posting twice 2011and 2012,
+401001,36, Journal - GL,1164,31/01/2012,198538216.6,,Basic salary HLH staff medical departments and Admni. Jan.2012,
+401001,36, Journal - GL,1164,31/01/2012,1470300,,Basic salary for New Canteen staff for Jan.2012,New Canteen
+401001,36, Journal - GL,1164,31/01/2012,195500,,Basic Salary for Hospital garden staff for Jan.2012,Hospital Garden
+401001,36, Journal - GL,1164,31/01/2012,1867200,,Basic Salary HLH staff for Guest House staff Jan.2012,Guest House 
+401001,36, Journal - GL,1164,31/01/2012,14654500,,Basic Salary for HLH garage staff Jan.2012,Engineering Section ( Garage)
+401001,36, Journal - GL,1165,31/01/2012,7228516.1,,Basic salary Wazee staff medical departments Jan.2012,
+401001,36, Journal - GL,1165,31/01/2012,866130,,Garage staff basic salary Jan.2012,Engineering Section ( Garage)
+401001,36, Journal - GL,1166,31/01/2012,43714000,,HLH - Government staff salary for Jan.2012,
+401001,36, Journal - GL,1166,31/01/2012,639982,,Basic salary for Funuel M. Axwesso Jan.2012,
+401001,36, Journal - GL,1309,31/01/2012,,7151567,Reclasification of wrong salary booking now corrected,None
+401001, 36, Period Total,,,270677981.5
+401001,37, Journal - GL,1302,01/02/2012,,145620,Correction of refunded salary by Johanson Gwaatema wrongly posted to operating fund rv281018,
+401001,37, Payment - GL,11371,07/02/2012,30771,,Kinto Arusha -refund for salary underdeduct pv 659,None
+401001,37, Journal - GL,1311,22/02/2012,,26594350,Reclasification of wrong salary booking now corrected,None
+401001,37, Journal - GL,1313,24/02/2012,,7151567,Reclasification of wrong salary booking now corrected,None
+401001,37, Payment - GL,11789,27/02/2012,600000,,Thomas Ammi - Buger Dispensary Oct - Dec 2011 Wali,Bugir Dispensary
+401001,37, Payment - GL,11768,29/02/2012,62490228,,salary for february cash payment pv 66423,None
+401001,37, Payment - GL,11769,29/02/2012,553082,,Payment for back pay 2008 por five staffs pv 66424,None
+401001,37, Journal - GL,1187,29/02/2012,7228488.3,,Basic salary Wazee staff medical departments February.2012,
+401001,37, Journal - GL,1187,29/02/2012,866130,,Basic salary Wazee staff Garage  February.2012,Engineering Section ( Garage)
+401001,37, Journal - GL,1193,29/02/2012,43484000,,HLH - Government staff salary for Febr. 2012,
+401001,37, Journal - GL,1193,29/02/2012,639982,,Basic Salary for Fanuel Axwesso paid by HLH Febr.2012,
+401001,37, Journal - GL,1194,29/02/2012,200406378.1,,Basic salary for HLH Staff - medical and admin. depart. Febr.  2012,
+401001,37, Journal - GL,1194,29/02/2012,1470300,,Basic salary - HLH staffs for New Canteen Febr.2012,New Canteen
+401001,37, Journal - GL,1194,29/02/2012,195500,,Basic salary - HLH staffs for Hospital Garden Febr.2012,Hospital Garden
+401001,37, Journal - GL,1194,29/02/2012,1867200,,Basic salary - HLH staffs for Guest House Febr.2012,Guest House 
+401001,37, Journal - GL,1194,29/02/2012,14654500,,Basic salary - HLH staffs for Garage Febr.2012  	,Engineering Section ( Garage)
+401001,37, Journal - GL,1202,29/02/2012,,62490228,  Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+401001, 37, Period Total,,,238104794.4
+401001,38, Payment - GL,11855,02/03/2012,156374812,,HLH staff - Salary for Febr. 2012, Pv66443,None
+401001,38, Journal - GL,1203,02/03/2012,,156374812,  Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+401001,38, Payment - GL,11823,06/03/2012,41000,,Victoria Sarwat - Understated part of her salary f,None
+401001,38, Payment - GL,11825,06/03/2012,87000,,Daniel Hhatsinay - Mshahara wa mlinzi shamba la wa,None
+401001,38, Payment - GL,11832,07/03/2012,90000,,Jacob Samwel - Back pay for Deducted salary Jan. 2,None
+401001,38, Payment - GL,13567,13/03/2012,472500,,Salary payment for Feb. 2012,None
+401001,38, Journal - GL,1326,26/03/2012,,48405650,Correction of wrong booking,None
+401001,38, Journal - GL,1212,31/03/2012,201214220.6,,HLH Staff Medical departiments  &amp; Admin.for March 2012,
+401001,38, Journal - GL,1212,31/03/2012,1470300,,Basic salary - HLH staffs for New Canteen March.2012,New Canteen
+401001,38, Journal - GL,1212,31/03/2012,195500,,Basic salary - HLH staffs for Hospital Garden March.2012,
+401001,38, Journal - GL,1212,31/03/2012,1867200,,Basic salary - HLH staffs for Guest House March.2012,
+401001,38, Journal - GL,1212,31/03/2012,14453000,,Basic salary - HLH staffs for Garage March.2012  	,Engineering Section ( Garage)
+401001,38, Journal - GL,1213,31/03/2012,42303800,,HLH - Government staff salary for March. 2012,
+401001,38, Journal - GL,1213,31/03/2012,639982,,Basic Salary for Fanuel Axwesso paid by HLH March.2012,
+401001,38, Journal - GL,1214,31/03/2012,8656679.8,,Basic salary Wazee staff medical departments March.2012,
+401001,38, Journal - GL,1214,31/03/2012,866130,,Garage staff basic salary for March.2012,Engineering Section ( Garage)
+401001,38, Journal - GL,1966,31/03/2012,117275,,	Pension for two addition employees March 2012,
+401001, 38, Period Total,,,224068937.4
+401001,39, Journal - GL,1327,01/04/2012,,26574350,Correction of wrong booking,None
+401001,39, Payment - GL,12131,05/04/2012,180600,,Nikodemu Qoryo-salary underpayment pv 66803,None
+401001,39, Payment - GL,12207,05/04/2012,777996,,Catherine Massay - Salary areas from Oct. 2011 - M,None
+401001,39, Journal - GL,1698,05/04/2012,,180000,Nikodemu Qoryo - salary underpayment pv 66803 Correction (Refund of Adv. Salary),None
+401001,39, Payment - GL,12163,09/04/2012,150319879,,Salary for March 2012 pv 66822,None
+401001,39, Payment - GL,12164,09/04/2012,64881324,,Salary for March cash payment pv 66823,None
+401001,39, Journal - GL,1256,09/04/2012,,150319879,Reclasification of wrong salary booking now corrected,
+401001,39, Journal - GL,1257,09/04/2012,,64881324,Reclasification of wrong salary booking now corrected,
+401001,39, Payment - GL,12169,10/04/2012,276641,,Victoria Mathiya-salary  for March pv 66831,None
+401001,39, Payment - GL,12174,10/04/2012,159743,,Ami Bura -wage for March 2012 pv 66836,Daily Workers
+401001,39, Payment - GL,12175,10/04/2012,104390,,Fanueli Baynit-salary for March 66837,
+401001,39, Payment - GL,12177,10/04/2012,565669,,Daudi Lory salary for March pv 66840,None
+401001,39, Receipt,10215,11/04/2012,,276640,Victoria Samo-refund for salary rv286873,None
+401001,39, Payment - GL,12220,12/04/2012,36700,,Emanueli Dawite_Amerudishiwa salary iliyokatwa kim,None
+401001,39, Journal - GL,1262,30/04/2012,199707560,,Basic salary for HLH Staff - medical and admin. depart. April  2012,
+401001,39, Journal - GL,1262,30/04/2012,1470300,,Basic salary - HLH staffs for New Canteen April.2012,New Canteen
+401001,39, Journal - GL,1262,30/04/2012,195500,,Basic salary - HLH staffs for Hospital Garden April 2012,Hospital Garden
+401001,39, Journal - GL,1262,30/04/2012,1867200,,Basic salary - HLH staffs for Guest House April 2012,Guest House 
+401001,39, Journal - GL,1262,30/04/2012,14453000,,Basic salary - HLH staffs for Garage April.2012  	,Engineering Section ( Garage)
+401001,39, Journal - GL,1263,30/04/2012,42303800,,HLH - Government staff salary  net pay for April 2012,
+401001,39, Journal - GL,1263,30/04/2012,639982,,Fanueli M Axwesso salary April 2012,
+401001,39, Journal - GL,1264,30/04/2012,8656530,,Basic salary Wazee staff Garage April .2012,
+401001,39, Journal - GL,1264,30/04/2012,866130,,Garage staff basic salary for April.2012,Engineering Section ( Garage)
+401001, 39, Period Total,,,245230751
+401001,40, Payment - GL,13048,09/05/2012,17682,,Peter Mnyaw - underpayment for PH pv 67336,None
+401001,40, Journal - GL,1290,31/05/2012,170110813,,Basic salary for HLH Staff - medical and admin. depart. May  2012,
+401001,40, Journal - GL,1290,31/05/2012,1470300,,Basic salary - HLH staffs for New Canteen May.2012,New Canteen
+401001,40, Journal - GL,1290,31/05/2012,195500,,Basic salary - HLH staffs for Hospital Garden May.2012,Hospital Garden
+401001,40, Journal - GL,1290,31/05/2012,1867200,,Basic salary - HLH staffs for Guest House May.2012,Guest House 
+401001,40, Journal - GL,1290,31/05/2012,15135000,,Basic salary - HLH staffs for Garage May.2012  	,Engineering Section ( Garage)
+401001,40, Journal - GL,1291,31/05/2012,42031700,,HLH staff net pay for government staff May 2012,
+401001,40, Journal - GL,1291,31/05/2012,639982,,Fanueli M Axwesso salary paid by HLH May 2012,
+401001,40, Journal - GL,1291,31/05/2012,271400,,Zacharia Thomas part of salary paid by HLH May 2012,
+401001,40, Journal - GL,1291,31/05/2012,228800,,Catherine Massay part of salary paid by HLH May 2012,
+401001,40, Journal - GL,1292,31/05/2012,8656530,,Basic salary - Wazee staff medical departments May 2012,
+401001,40, Journal - GL,1292,31/05/2012,866130,,Basic salary HLH Staff (wazee) Garage May 2012 ,Engineering Section ( Garage)
+401001, 40, Period Total,,,241491037
+401001,41, Payment - GL,13180,01/06/2012,198503.9,,Wilbard Siima-salary for May 2012 pv 67818,None
+401001,41, Payment - GL,13193,04/06/2012,13090418,,Government Employees-Back pay 2008 pv 67833,None
+401001,41, Receipt,10737,06/06/2012,,570000,Emeliana John -amerudisha mshahara wa May rv285753,
+401001,41, Payment - GL,13254,08/06/2012,1800000,,Dr.Theresa -salary for march pv 67898,None
+401001,41, Payment - GL,13542,29/06/2012,221232,,Zacharia Gurti/Mohamedi Ahmed-back pay 2008 pv 682,None
+401001,41, Receipt,11206,29/06/2012,,12019392,4CCP-salaryb Jan-May rv 285408,None
+401001,41, Journal - GL,1303,30/06/2012,42031700,,HLH Staff net pay Govarment for June 2012,
+401001,41, Journal - GL,1303,30/06/2012,639982,,Fanueli M Axwesso net salary paid by HLH June 2012,
+401001,41, Journal - GL,1303,30/06/2012,271400,,Zacharia Thomas Net salary paid  by HLH June 2012,
+401001,41, Journal - GL,1303,30/06/2012,114400,,Catharine Masay net salary paid by HLH June 2012,
+401001,41, Journal - GL,1304,30/06/2012,8722410,,Basic salary wazee staff Medical departments for June 2012,
+401001,41, Journal - GL,1304,30/06/2012,996300,,Garage staff Basic salary  TAG ,Engineering Section ( Garage)
+401001,41, Journal - GL,1304,30/06/2012,961530,,Basic salary Back pay from Febr. to June 2012,
+401001,41, Journal - GL,1308,30/06/2012,182374250,,Back salary HLH Staff medical departmens&amp;Admin June 2012,
+401001,41, Journal - GL,1308,30/06/2012,1470300,,Basic New canteen staff TAG June 2012,New Canteen
+401001,41, Journal - GL,1308,30/06/2012,195500,,Basic Salary  Garden staff June 2012,Hospital Garden
+401001,41, Journal - GL,1308,30/06/2012,1867200,,Basic salary HLH Staff guest house TAG June 2012,Guest House 
+401001,41, Journal - GL,1308,30/06/2012,15135000,,Basic salary HLH Staff Garage TAG June 2012,Engineering Section ( Garage)
+401001,41, Journal - GL,1308,30/06/2012,,153363.8,Return of basic salary from Ayubu Danieli June 2012,
+401001, 41, Period Total,,,257347370.1
+401001,42, Receipt,11112,09/07/2012,,153780,Ayubu Danieli refund of overstated basic sal 787/2,
+401001,42, Payment - GL,13647,11/07/2012,425285,,Elineema Marco-salary for June pv 68324,None
+401001,42, Receipt,11259,18/07/2012,,30194576,Aids relief-salary refund March-April rv 285420,HAPO Department
+401001,42, Receipt,11249,20/07/2012,,100320,Tiodisia Julius refund salary rv288345/2012,
+401001,42, Journal - GL,1343,31/07/2012,8784610,,Basic salary wazee staff Medical departments for July 2012,
+401001,42, Journal - GL,1343,31/07/2012,996300,,Garage staff Basic salary  TAG July 2012,Engineering Section ( Garage)
+401001,42, Journal - GL,1343,31/07/2012,542200,,Basic salary Back pay from January. to July 2012,
+401001,42, Journal - GL,1344,31/07/2012,42031700,,HLH - Government staff salary for July  2012,
+401001,42, Journal - GL,1344,31/07/2012,639982,,Fanueli M Axwesso salary paid by HLH July 2012,
+401001,42, Journal - GL,1344,31/07/2012,271400,,Zacharia Thomas part of salary paid by HLH July 2012,
+401001,42, Journal - GL,1344,31/07/2012,114400,,Catherine Massay part of salary paid by HLH July  2012,
+401001,42, Journal - GL,1345,31/07/2012,180894030,,Basic salary for HLH Staff - medical and admin. depart. July  2012,
+401001,42, Journal - GL,1345,31/07/2012,1470300,,Basic salary - HLH staffs for New Canteen July .2012,New Canteen
+401001,42, Journal - GL,1345,31/07/2012,195500,,Basic salary - HLH staffs for Hospital Garden July 2012,Hospital Garden
+401001,42, Journal - GL,1345,31/07/2012,1867200,,Basic salary - HLH staffs for Guest House July 2012,Guest House 
+401001,42, Journal - GL,1345,31/07/2012,15135000,,Basic salary - HLH staffs for Garage July 2012  	,Engineering Section ( Garage)
+401001,42, Journal - GL,1345,31/07/2012,,241683.8,Return of salary Ayubu D &amp;Siblina A July 2012,
+401001, 42, Period Total,,,222677547.2
+401001,43, Payment - GL,14015,01/08/2012,1602581.5,,Dr.Paschal Mdoe-  salary for July 2012 pv 68701,None
+401001,43, Payment - GL,14019,01/08/2012,1602581.5,,Dr. Paschal Mdoe - July 2012 salary, Pv68701,None
+401001,43, Payment - GL,14020,01/08/2012,,1602581.5,Dr. Paschal Mdoe - July 2012 salary, Pv68701 corre,None
+401001,43, Journal - GL,1351,01/08/2012,531963.5,,PAYE  for Dr. Paschal Mdoe - July 2012 salary, Pv68701,None
+401001,43, Payment - GL,14057,16/08/2012,118657148,,HLH Staff - July 2012  salary paid through NBC PV6,None
+401001,43, Payment - GL,14308,16/08/2012,78750,,Restituta Ammo - Termination benefits, Pv68870,None
+401001,43, Payment - GL,14440,16/08/2012,,118657148,Salary for July booked in August wrongly and to be,None
+401001,43, Payment - GL,14338,17/08/2012,520600,,Dr. Sadikieli Kaay - Part of July 2012 salary Pv68,None
+401001,43, Journal - GL,1378,31/08/2012,47223500,,HLH - Government staff salary for Aug. 2012,
+401001,43, Journal - GL,1378,31/08/2012,639982,,Fanueli M Axwesso salary paid by HLH Aug. 2012,
+401001,43, Journal - GL,1378,31/08/2012,5408000,,Salary Backpay for July 2012 paid in Aug. 2012,
+401001,43, Journal - GL,1378,31/08/2012,114400,,Catherine Massay part of salary paid by HLH Aug.  2012,
+401001,43, Journal - GL,1378,31/08/2012,,36576,Yeremia Hotay - refund of Bayport loan,
+401001,43, Journal - GL,1378,31/08/2012,,270000,Zacharia Thomas refund of Bayport loan Aug. 2012,
+401001,43, Journal - GL,1379,31/08/2012,181195030,,Basic salary for HLH Staff - medical and admin. depart. Aug.  2012,
+401001,43, Journal - GL,1379,31/08/2012,1470300,,Basic salary - HLH staffs for New Canteen Aug.2012,New Canteen
+401001,43, Journal - GL,1379,31/08/2012,195500,,Basic salary - HLH staffs for Hospital Garden Aug.2012,Hospital Garden
+401001,43, Journal - GL,1379,31/08/2012,1867200,,Basic salary - HLH staffs for Hospital Guest house Aug.2012,Guest House 
+401001,43, Journal - GL,1379,31/08/2012,15135000,,Basic salary - HLH staffs for Hospital Garage staff Aug.2012,Engineering Section ( Garage)
+401001,43, Journal - GL,1379,31/08/2012,,330003,Daniel Ayubu/Magrita Baha/Tiofili Basso - return of basic salary Aug.2012,
+401001,43, Journal - GL,1433,31/08/2012,8784610,,Basic salary - Wazee staff medical departments Aug. 2012,
+401001,43, Journal - GL,1433,31/08/2012,996300,,Wazee - Garage staff basic salary for Aug.2012,Engineering Section ( Garage)
+401001,43, Journal - GL,1828,31/08/2012,6247200,,Sadikiel Kaay - Salary Part from Aug. 2011 to July 2012 wrongly Posted to GL102102 (Corrected),None
+401001, 43, Period Total,,,271374338
+401001,44, Payment - GL,14480,05/09/2012,2600400,,Dr.Paschal Mdoe-  salary for August 2012 pv 69240,None
+401001,44, Journal - GL,1399,30/09/2012,1707500,,Basic salary - HLH staffs for New Canteen Sept.2012,New Canteen
+401001,44, Journal - GL,1399,30/09/2012,228500,,Basic salary - HLH staffs for Hospital Garden Sept. 2012,Hospital Garden
+401001,44, Journal - GL,1399,30/09/2012,2324500,,Basic salary - HLH staffs for Guest House Sept. 2012,Guest House 
+401001,44, Journal - GL,1399,30/09/2012,17673000,,Basic salary - HLH staffs for Garage Sept. 2012  	,Engineering Section ( Garage)
+401001,44, Journal - GL,1399,30/09/2012,202799849,,Basic salary for HLH Staff - medical and admin. depart. Sept. 2012,
+401001,44, Journal - GL,1401,30/09/2012,47224100,,HLH staff net pay for government Sept. 2012,
+401001,44, Journal - GL,1401,30/09/2012,639982,,Fanueli M Axwesso salary paid by HLH Sept. 2012,
+401001,44, Journal - GL,1401,30/09/2012,114400,,Catherine Massay part of salary paid by HLH Sept.  2012,
+401001,44, Journal - GL,1401,30/09/2012,,178924,Loan repayment Yeremia Hotay Sept.2012,
+401001,44, Journal - GL,1401,30/09/2012,,270000,Loan repayment Zakaria Thomas Sept.2012,
+401001,44, Journal - GL,1402,30/09/2012,10080201.6,,Basic salary Wazee staff Medical departments .2012,
+401001,44, Journal - GL,1402,30/09/2012,1152000,,Basic salary - Wazee staffs for Garage Sept..2012  	,Engineering Section ( Garage)
+401001,44, Journal - GL,1404,30/09/2012,474400,,Back pay Salary for New canteen staff Sept. 2012,New Canteen
+401001,44, Journal - GL,1405,30/09/2012,914600,,Back pay Salary for Guest house staff Sept. 2012,Guest House 
+401001,44, Journal - GL,1406,30/09/2012,66000,,Back pay Salary for Garden staff Sept. 2012,Hospital Garden
+401001,44, Journal - GL,1407,30/09/2012,5025240,,Back pay Salary for Garage staff Sept. 2012,Engineering Section ( Garage)
+401001,44, Journal - GL,1410,30/09/2012,2189124,,Paye fro Back pay Staff Salary &amp;Housing Allow.2012,
+401001,44, Journal - GL,1411,30/09/2012,61395366.7,,Back pay Salary for Medical Departments&amp;Adimin. staff Sept. 2012,
+401001, 44, Period Total,,,356160239.3
+401001,45, Payment - GL,15278,12/10/2012,824430,,Dr.Sadikieli-salary for Sept 2012  pv 69564,None
+401001,45, Journal - GL,1397,12/10/2012,198470,,PAYE-for Dr Sadilieli salary pv 69564,
+401001,45, Journal - GL,1851,15/10/2012,190200,,Correction of wrong booking of GL 15344 NSSF for Medard Pascal 2012,
+401001,45, Payment - GL,15254,17/10/2012,644320,,Leah Hezekia - Salary of July - Sept 2012 pv 69787,None
+401001,45, Journal - GL,1396,18/10/2012,121280,,PAYE for Leah Hezekia - Salary of July - Sept 2012 pv 69787,None
+401001,45, Payment - GL,15437,24/10/2012,151800,,Abeli Gidion-salary backpay July-August pv 70237,None
+401001,45, Journal - GL,1434,31/10/2012,10080200,,Basic salary Wazee staff Medical departments Oct.2012,
+401001,45, Journal - GL,1434,31/10/2012,1152000,,Wazee - Garage staff basic salary for Oct.2012,Engineering Section ( Garage)
+401001,45, Journal - GL,1435,31/10/2012,216174320,,Basic salary for HLH Staff - medical and admin. depart. Oct  2012,
+401001,45, Journal - GL,1435,31/10/2012,1707500,,Basic salary - HLH staffs for New Canteen Oct .2012,New Canteen
+401001,45, Journal - GL,1435,31/10/2012,228500,,Basic salary - HLH staffs for Hospital Garden Oct. 2012,Hospital Garden
+401001,45, Journal - GL,1435,31/10/2012,2324500,,Basic salary - HLH staffs for Guest House Oct. 2012,Guest House 
+401001,45, Journal - GL,1435,31/10/2012,17673000,,Basic salary - HLH staffs for Garage Oct. 2012  	,Engineering Section ( Garage)
+401001,45, Journal - GL,1435,31/10/2012,,357849,Basic salary arreas for Oct.2012,
+401001,45, Journal - GL,1436,31/10/2012,78100,,PAYE-for Dr Sadikielis salary pv 70329,
+401001,45, Journal - GL,1553,31/10/2012,47223700,,HLH staff net pay for government Oct. 2012,
+401001,45, Journal - GL,1553,31/10/2012,639982,,Fanueli M Axwesso salary paid by HLH Oct. 2012,
+401001,45, Journal - GL,1553,31/10/2012,126200,,Catherine Massay part of salary paid by HLH Oct.  2012,
+401001,45, Journal - GL,1553,31/10/2012,,264100,Zacharia Thomas return of salary paid by HLH Oct. 2012,
+401001, 45, Period Total,,,298916553
+401001,46, Payment - GL,15518,05/11/2012,523900,,Dr.Sadikieli-salary for October 2012  pv 70329,None
+401001,46, Receipt,12312,12/11/2012,,228500,Joyce P Malle amerudisha salary 292487/12,
+401001,46, Payment - GL,15895,20/11/2012,697100,,Hendry Seth-salary October 2012 pv 70726,
+401001,46, Journal - GL,1454,20/11/2012,143900,,paye from Salary for Hendry seth pv 70726,
+401001,46, Payment - GL,15960,27/11/2012,202000,,Happiness Yeremia-salary October 2102 pv 70794,None
+401001,46, Journal - GL,1556,27/11/2012,5200,,Paye-from Happiness salary October 2012 pv 70794,
+401001,46, Journal - GL,1676,30/11/2012,47223700,,HLH staff net pay for government Nov. 2012,
+401001,46, Journal - GL,1676,30/11/2012,639982,,Fanueli M Axwesso salary paid by HLH Nov. 2012,
+401001,46, Journal - GL,1676,30/11/2012,126200,,Catherine Massay part of salary paid by HLH Nov.  2012,
+401001,46, Journal - GL,1682,30/11/2012,10080200,,Basic salary Wazee staff Medical departments Nov.2012,
+401001,46, Journal - GL,1682,30/11/2012,1152000,,Basic salary HLH Staff (wazee) Garage Nov. 2012 ,Engineering Section ( Garage)
+401001,46, Journal - GL,1683,30/11/2012,248836020,,Basic salary for HLH Staff - medical and admin. depart. Nov.  2012,
+401001,46, Journal - GL,1683,30/11/2012,1707500,,Basic salary - HLH staffs for New Canteen Nov.2012,New Canteen
+401001,46, Journal - GL,1683,30/11/2012,228500,,Basic salary - HLH staffs for Hospital Garden Nov. 2012,Hospital Garden
+401001,46, Journal - GL,1683,30/11/2012,2324500,,Basic salary - HLH staffs for Guest House Nov. 2012,Guest House 
+401001,46, Journal - GL,1683,30/11/2012,17673000,,Basic salary - HLH staffs for Garage Nov. 2012  	,Engineering Section ( Garage)
+401001,46, Journal - GL,1683,30/11/2012,,357849,Basic salary arreas for Nov.2012,
+401001, 46, Period Total,,,330977353
+401001,47, Payment - GL,16042,04/12/2012,1450720,,Dr.Benson Mwakalukwa -payment for annual leave pv ,
+401001,47, Journal - GL,1703,04/12/2012,466880,,PAYE Deduction from Dr Benson annual leave payment pv 70909,
+401001,47, Payment - GL,16069,07/12/2012,523900,,Dr.Sadikieli Kaay-salary for Nov 2012 pv 70940,
+401001,47, Journal - GL,1709,07/12/2012,78100,,PAYE-for Dr Sadikielis salary pv 70940,
+401001,47, Payment - GL,16076,10/12/2012,496150,,Paskalina Bura-salary for Nov 2012 pv 70949,
+401001,47, Journal - GL,1714,10/12/2012,122350,,PAYE-for Paskalina Bura salary  pv 70949,
+401001,47, Payment - GL,16118,12/12/2012,168800,,Zakaria Panga-salary for Nov 2012 pv 70953,
+401001,47, Journal - GL,1726,12/12/2012,17000,,Pension scheme contribution LAPF for Zacharia Panga pv 70953,
+401001,47, Journal - GL,1726,12/12/2012,1200,,Rambirambi contribution from Zacharia Panga pv 70953,
+401001,47, Payment - GL,16157,13/12/2012,486951,,Beatrice Wanjiku-salary for Nov 2012 pv 70961,
+401001,47, Journal - GL,1730,13/12/2012,65150,,NSSF-deduction from Beatrice Wanjiku Nov 2012 ,
+401001,47, Journal - GL,1730,13/12/2012,69950,,PAYE-for Beatrice Wanjiku Salary ,
+401001,47, Journal - GL,1730,13/12/2012,16950,,NHIF-contribution from Beatrice Wanjiku ,
+401001,47, Journal - GL,1730,13/12/2012,1200,,Rambirambi contribution- from Beatrice Wanjiku ,
+401001,47, Journal - GL,1730,13/12/2012,11300,,Tughe-contribution from Beatrice salary Nov  2012,
+401001,47, Receipt,12788,18/12/2012,,30050740,PEPFAR-salary reimbursement July-August rv 294409,
+401001,47, Payment - GL,16183,19/12/2012,408444,,Manase Hotay-payment for annual leave pv 71032,
+401001,47, Journal - GL,1748,19/12/2012,45360,,PAYE-for Manase Hotay annual leave pv 71032,
+401001,47, Payment - GL,16210,21/12/2012,523900,,Dr.Sadikieli-salary for Dec 2012  pv 71067,
+401001,47, Journal - GL,1754,21/12/2012,78100,,PAYE-for Dr Sadikielis salary pv 71067,
+401001,47, Payment - GL,16222,21/12/2012,506850,,Alicia Laurent-salary  for Dec 2012 pv 71082,
+401001,47, Journal - GL,1757,21/12/2012,76250,,PAYE-for Alicia Laurent  Salary Dec 2012 pv 71082,
+401001,47, Journal - GL,1757,21/12/2012,53500,,LAPF-members contribution for Alicia Laurent for Dec 2012 ,
+401001,47, Journal - GL,1757,21/12/2012,1200,,Rambirambi conrtibution for Alicia Laurent pv 71082,
+401001,47, Journal - GL,1757,21/12/2012,10700,,Tughe-contribution from Alicia Laurent ,
+401001,47, Payment - GL,16253,28/12/2012,167295,,Dr.Fanueli Axwess-salary arreas for pv 71111,
+401001,47, Payment - GL,16279,28/12/2012,267500,,Andrea Umbu-leave payment pv 71144,
+401001,47, Journal - GL,1779,28/12/2012,13650,,PAYE Deduction from Dr Andrea Umbu  annual leave payment pv 71144,
+401001,47, Payment - GL,16280,28/12/2012,,13650,Andrea Umbu-leave payment pv 71144 corr for overst,
+401001,47, Journal - GL,1783,31/12/2012,8356579,,Doctors Offs payables  2012 payments 2013,
+401001,47, Journal - GL,1813,31/12/2012,247008320,,Basic salary HLH staff medical department s and administration,
+401001,47, Journal - GL,1813,31/12/2012,1707500,,Basic salary New canteen staff,New Canteen
+401001,47, Journal - GL,1813,31/12/2012,228500,,Basic salary Garden staff ,Hospital Garden
+401001,47, Journal - GL,1813,31/12/2012,2324500,,Basic salary-HLH staff Guest house,Guest House 
+401001,47, Journal - GL,1813,31/12/2012,17673000,,Basic salary HLH staff Garage,Engineering Section ( Garage)
+401001,47, Journal - GL,1815,31/12/2012,10080200,,Basic Salary for wazee - medical departments staff Dec.2012,
+401001,47, Journal - GL,1815,31/12/2012,1152000,,	Basic Salary for wazee - Garage staff Dec.2012,Engineering Section ( Garage)
+401001,47, Journal - GL,1816,31/12/2012,47332000,,Net pay from government for HLH staff Dec.2012,
+401001,47, Journal - GL,1816,31/12/2012,593060,,Fanuel Axwesso Net pay from HLH Dec.2012,
+401001,47, Journal - GL,1816,31/12/2012,126200,,Catherine Massay Net pay from HLH Dec.2012,
+401001,47, Journal - GL,1838,31/12/2012,,15025370,Salary for CTC (LEAD) staff for Nov. &amp;Dec.2012,None
+401001,47, Journal - GL,1850,31/12/2012,125914,,Correction of wrong booking of  Je No.1784 PAYE for Danson Sadera,
+401001, 47, Period Total,,,297747363
+401001,47, Total Period Movement,,,3254774264.9

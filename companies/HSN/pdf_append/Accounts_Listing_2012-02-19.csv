@@ -1,0 +1,40 @@
+404009 - 1 for period 133 to 144
+404009,139, Payment - GL,24,25/07/2011,140000,,Enock Ayubu - order food and others expensee pv 02,
+404009,139, Payment - GL,24,25/07/2011,11000,,Enock Ayubu - order food and others expensee pv 02,
+404009, 139, Period Total,,,151000
+404009,141, Payment - GL,81,21/09/2011,500000,,Enock Ayubu - order for HSN Kuni na Food  pv079/20,
+404009, 141, Period Total,,,500000
+404009,142, Journal - GL,18,17/10/2011,420000,,Uchukuzi wa Kuni na Gari la hlh,
+404009,142, Payment - GL,106,31/10/2011,120000,,Enock Ayubu - gharama ya kupakia na kushusha Kuni ,
+404009, 142, Period Total,,,540000
+404009,143, Payment - GL,109,04/11/2011,56000,,Vibarua kupakia na kushusha kuni pv106/2011,
+404009, 143, Period Total,,,56000
+404009,144, Payment - GL,145,29/12/2011,100000,,Tractor kubeba kuni  ya chuo pv139/2011,
+404009, 144, Period Total,,,100000
+404009,144, Total Period Movement,,,1347000
+405002 - 1 for period 133 to 144
+405002,142, Journal - GL,29,31/10/2011,458925,,Fedha zilizo rundi kwa wanafunzi pv122/2011,
+405002, 142, Period Total,,,458925
+405002,143, Payment - GL,124,26/11/2011,458925,,Self reliance Project mgawo kwa wanafunzi pv 122/2,
+405002,143, Journal - GL,28,26/11/2011,,458925,correction pv 122/2011,
+405002,143, Journal - GL,49,26/11/2011,458925,,Income for Self reliance Project 2011 part of Mbonga,
+405002, 143, Period Total,,,458925
+405002,144, Total Period Movement,,,917850
+405004 - 1 for period 133 to 144
+405004,141, Receipt,361,09/09/2011,,10000,Lucy Kisaka-self teaching materials RV274999,
+405004, 141, Period Total,,,,10000
+405004,144, Journal - GL,33,22/12/2011,3006000,,B Madangi Ununuzi wa Vitabu Imprest pv 098/100/2011,
+405004,144, Journal - GL,45,22/12/2011,,3006000,Corection GL 33/2011,
+405004,144, Journal - GL,46,22/12/2011,3006000,,B Madangi Kurudisha Safari Imprest   pv 098/100/ 2011,
+405004,144, Journal - GL,61,22/12/2011,,30000,correction from 203042 to405004/2011,
+405004, 144, Period Total,,,2976000
+405004,144, Total Period Movement,,,2966000
+405007 - 1 for period 133 to 144
+405007,140, Payment - GL,60,15/08/2011,490000,,Sisilia E Lory KIKAO dsm wakuu wa Vyuo Nursing pv ,
+405007, 140, Period Total,,,490000
+405007,141, Receipt,368,12/09/2011,,145000,Sisilia Nakei Lory - retirement of Pv058 rv275356,
+405007, 141, Period Total,,,,145000
+405007,143, Payment - GL,115,15/11/2011,172500,,Pv 112 - Board ya chuo, Seminar,
+405007,143, Receipt,560,22/11/2011,,62500,Rv 214 - Board seminar refund from pv 112,
+405007, 143, Period Total,,,110000
+405007,144, Total Period Movement,,,455000

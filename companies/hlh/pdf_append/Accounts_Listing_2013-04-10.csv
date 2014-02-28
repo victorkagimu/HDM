@@ -1,0 +1,32 @@
+102103 - 0 for period 47 to 47
+102103, 47, Brought Forward Balance,,,15257562.002707
+102103,47, Receipt,12565,03/12/2012,,500000,Thomas Tippe - return of adv. salary rv294704,None
+102103,47, Receipt,12575,05/12/2012,,100000,Justina Kumbi - return of adv. salary rv294714,None
+102103,47, Receipt,12579,05/12/2012,,40000,Tabitha Gwasma - return of adv. salary rv294718,None
+102103,47, Receipt,12588,06/12/2012,,50000,Elihuruma Paulo - return of adv. salary rv294729,None
+102103,47, Payment - GL,16088,10/12/2012,1100000,,Dr. Isack Malleyeck-adv salary Nov 2012 pv 70864,
+102103,47, Payment - GL,16090,10/12/2012,50000,,Julius Zacharia-Refunded adv salary wrongly deduc,
+102103,47, Receipt,12606,10/12/2012,,50000,Theresia Yakobo - return adv. salary rv294748,None
+102103,47, Payment - GL,16104,11/12/2012,59000,,Christina Pius-amerudishiwa adv salary pv 70886,
+102103,47, Journal - GL,1847,11/12/2012,180400,,Isaya Awutu advance salary  siyo receivable hsn pv70881/2012,
+102103,47, Payment - GL,16123,12/12/2012,63900,,Adelina Tarmo- adv salary December  2012  pv 70962,
+102103,47, Payment - GL,16129,14/12/2012,65750,,Bryson  Stephano-adv salary  Dec 2012 pv 70969,
+102103,47, Payment - GL,16141,17/12/2012,81700,,Emanueli Mighay-adv salary Nov 2012 pv 70985,
+102103,47, Payment - GL,16142,17/12/2012,77400,,Saulo Nakei-adv salary Dec 2012 pv 70986,
+102103,47, Payment - GL,16143,17/12/2012,70000,,Michaeli Qerangu -adv salary Nov 2012 pv 70987,
+102103,47, Payment - GL,16144,17/12/2012,70000,,Gabrieli Massay-adv salary Nov 2012 pv 70988,
+102103,47, Payment - GL,16145,17/12/2012,75000,,Elia Reuben-adv salary Nov 2012 pv 70989,
+102103,47, Payment - GL,16146,17/12/2012,162400,,John Stephano-adv salary Nov 2012 pv 70990,
+102103,47, Payment - GL,16156,18/12/2012,100000,,Philipo Marco-adv salary Nov 2012 pv 70999,
+102103,47, Payment - GL,16178,18/12/2012,26500,,Elisante Petro Bajuta-adv salary Dec 2012 pv 71026,
+102103,47, Payment - GL,16179,18/12/2012,32000,,Elifuraha Shangwa-adv salary Dec  2012 pv 71027,
+102103,47, Receipt,12709,27/12/2012,,90256,Martha Jackson - return of adv. salary rv295666,None
+102103,47, Journal - GL,1971,29/12/2012,1,,Koen GL Test,None
+102103,47, Journal - GL,1971,29/12/2012,,1,	Koen GL Test,None
+102103,47, Journal - GL,1813,31/12/2012,,1982935,Mid month advances for Dec 2012 ,
+102103,47, Journal - GL,1815,31/12/2012,,945000,Mid month advances for Dec. 2012,
+102103,47, Journal - GL,1816,31/12/2012,,1731700,Mid month advances from Government staff Dec. 2012,
+102103,47, Journal - GL,1882,31/12/2012,,800000,Reclasification of bookoing - Philemon J. Adv. Salary return,None
+102103,47, Journal - GL,1897,31/12/2012,800000,,Reclasification of bookoing - Philemon J. Adv. Salary return 	(correction),None
+102103, 47, Period Total,,,,3275841
+102103,47, Balance C/Fwd,,,11981721.002707

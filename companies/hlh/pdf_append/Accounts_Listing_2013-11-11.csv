@@ -1,0 +1,150 @@
+102101 - 0 for period 48 to 58
+102101, 48, Brought Forward Balance,,,,0.0013919994235039
+102101,48, Payment - GL,16630,14/01/2013,580000,,Petro Axweso and Marko Elia - Safari allowance to ,None
+102101,48, Journal - GL,2002,14/01/2013,,580000,Petro Axweso and Marko Elia - Retirement for Arusha Safari imprest Ref. 71525/2013,None
+102101,48, Payment - GL,16708,18/01/2013,1690000,,Elisamehe Hombo-safari imprest to Moshi pv 71660,
+102101,48, Payment - GL,16713,18/01/2013,613000,,Elibariki Gabrieli-safari ya DSM on Budget 2013 pv,
+102101,48, Journal - GL,2007,18/01/2013,,613000,Elibariki Gabriel - Retirement for DSM safari Imprest (Budget) Ref. pv 71665,None
+102101,48, Journal - GL,2009,18/01/2013,,1690000,Elisamehe Hombo - Retirement for Moshi safari imprest Ref. pv 71660,None
+102101,48, Payment - GL,16821,29/01/2013,420000,,Fanueli Sappa-safari imprest to Arusha  pv 71763,
+102101,48, Payment - GL,16822,29/01/2013,288000,,Petro Axwesso-safari Imprest to Arusha pv 71764,
+102101,48, Payment - GL,16823,29/01/2013,520000,,Joseph Ndukusi-safari imprest to DSM pv 71765,
+102101,48, Journal - GL,2003,29/01/2013,,288000,	Petro Axwesso - Retirement for Arusha safari Imprest Ref. pv 71764,None
+102101,48, Journal - GL,2046,29/01/2013,,520000,Joseph Ndukusi - Retirement for DSM safari imprest Ref. pv 71765,None
+102101,48, Journal - GL,2049,29/01/2013,,403011,Fanueli Sappa - Retirement of Arusha safari imprest Ref. pv 71763,None
+102101, 48, Period Total,,,16989
+102101,49, Payment - GL,16861,01/02/2013,100000,,Martha Massawe-imprest safari for shamba darasa pv,
+102101,49, Payment - GL,16901,05/02/2013,280000,,Dr. Sakweli safari imprest to dsm pv 71840,
+102101,49, Payment - GL,16902,05/02/2013,959568.21829097,,Dr. Sakweli safari imprest to dsm pv 71840,
+102101,49, Payment - GL,16903,05/02/2013,560000,,William Shauri-safari ipmrest to DSM pv 71841,
+102101,49, Journal - GL,2012,05/02/2013,,1239568.22,Dr. Sakweli - Retirement for DSM safari imprest Ref. pv 71840,None
+102101,49, Journal - GL,2054,05/02/2013,,560000,	William Shauri - Retirement of DSM safari ipmrestRef. pv 71841,None
+102101,49, Payment - GL,16955,08/02/2013,486000,,Martha Massawe -safari imprest to KCMC and Ifakara,
+102101,49, Journal - GL,2011,08/02/2013,,486000,Martha Massawe - Retirement for KCMC and Ifakara safari imprest Ref. pv 71901,None
+102101,49, Payment - GL,16989,12/02/2013,994000,,Petro Axwesso-safari imprest to Arusha pv 71937,
+102101,49, Journal - GL,2004,12/02/2013,,975040,Petro Axwesso - Retirement for Arusha safarii imprest Ref. pv 71937,None
+102101,49, Receipt,13188,15/02/2013,,220000,Huruma Sagali refund of Safari Imprest rv297574/13,
+102101,49, Journal - GL,2059,15/02/2013,220000,,Huruma Sagali - refund of Safari Imprest rv297574/13 correction for wrong booking,None
+102101,49, Payment - GL,17107,21/02/2013,289900,,Fanueli Sappa-safari imprest to Arusha  pv 72043,
+102101,49, Receipt,13234,21/02/2013,,18960,Petro Axweso-retirement of safari imprest rv297758,
+102101,49, Journal - GL,2043,21/02/2013,,289900,Fanueli Sappa - Retirement for Moshi safari imprest Ref. pv 72043 ,None
+102101, 49, Period Total,,,99999.99829097
+102101,50, Journal - GL,2065,01/03/2013,,250000,Dr.Fanueli Axwesso-adv salary Intern doctor pv 72145 (correction),None
+102101,50, Journal - GL,2083,01/03/2013,250000,,Dr.Fanueli Axwesso-adv salary Intern doctor pv 72145 (correction),None
+102101,50, Payment - GL,17182,04/03/2013,680000,,Petro Axweso-safari allowance to Moshi pv 72162,
+102101,50, Payment - GL,17219,04/03/2013,440000,,Penford Magara-safari imprest to Moshi pv 72163,
+102101,50, Journal - GL,2005,04/03/2013,,680000,Petro Axweso - Retirement for Moshi safari Ref. pv 72162,None
+102101,50, Journal - GL,2028,04/03/2013,,440000,	Penford Magara-Retirement for safari imprest to Moshi ref pv 72163,None
+102101,50, Payment - GL,17249,06/03/2013,224950,,William Shauri-safari imprest to Morogoro pv 72196,
+102101,50, Payment - GL,17255,06/03/2013,241000,,Michael Lohay -safari imprest pv 72203,
+102101,50, Journal - GL,2053,06/03/2013,,223250,William Shauri - Retirement of Mororogoro safari imprestRef. pv 72196,None
+102101,50, Journal - GL,2063,06/03/2013,,241000,Michael Lohay - Retiment of safari imprest Ref. pv 72203,None
+102101,50, Payment - GL,17295,11/03/2013,357920,,Petro Axwesso-safari imprest to Arusha pv 72246,
+102101,50, Journal - GL,2027,11/03/2013,,357920,Petro Axwesso - Retirement for Arusha safari imprest to ref. pv 72246,None
+102101,50, Payment - GL,17480,30/03/2013,100000,,Amon Ndeki-safari imprest to Babati pv 72471,
+102101, 50, Period Total,,,101700
+102101,51, Payment - GL,17508,06/04/2013,620000,,William Shauri-safari Imprest to Arusha pv 72556,
+102101,51, Journal - GL,2050,06/04/2013,,620000,William Shauri - Retirement of Arusha safari Imprest Ref. pv 72556,None
+102101,51, Payment - GL,17614,15/04/2013,380000,,William Shauri-safari ya Arusha na kununua tairi y,
+102101,51, Journal - GL,2051,15/04/2013,,300000,William Shauri - Retirement for Arusha safari imprest (kununua tairi ya meza) Ref. pv 72612,None
+102101,51, Journal - GL,2123,16/04/2013,,620000,Fanueli sappa-retirement of safari imprest pv 72696,
+102101,51, Payment - GL,17637,17/04/2013,414000,,Joseph Ndukusi-safari imprest  ya Babati pv 72639,
+102101,51, Payment - GL,17642,17/04/2013,1245000,,Petro Axwesso-safari imprest to DSM pv 72644,
+102101,51, Journal - GL,2006,17/04/2013,,728040,Petro Axwesso - Retirement DSM safari imprest Ref. pv 72644,None
+102101,51, Journal - GL,2034,17/04/2013,,414000,Joseph Ndukusi-Retirement for safari imprest Babati ref. pv 72639,None
+102101,51, Payment - GL,18263,19/04/2013,620000,,Fanuel Sappa-safari imprest to Arusha pv 72658,
+102101,51, Payment - GL,17683,25/04/2013,520000,,Amon Ndeki-safari imprest to Mbeya pv 72720,
+102101,51, Payment - GL,17685,25/04/2013,510000,,Saulo Nakei-safari imprest to  Mbeya  pv 72722,
+102101,51, Payment - GL,17698,29/04/2013,560000,,William Shauri-safari Imprest to Arusha pv 72737,
+102101,51, Journal - GL,2052,29/04/2013,,560000,William Shauri - Retirement of Arusha safari Imprest Ref. pv 72737,None
+102101,51, Journal - GL,2060,29/04/2013,,510000,Saulo Nakei -amerudisha fedha Safari Mbeya 300058 (correction for wrong booking),None
+102101,51, Journal - GL,2066,30/04/2013,250000,,Dr.Fanueli Axwesso-adv salary Intern doctor pv 72145 (correction),None
+102101,51, Journal - GL,2067,30/04/2013,,250000,Dr.Fanueli Axwesso-adv salary Intern doctor pv 72145 (correction) ,None
+102101, 51, Period Total,,,1116960
+102101,52, Receipt,13936,07/05/2013,,516960,Petro Axweso-retirement of imprest rv300451/2013,
+102101,52, Payment - GL,17774,09/05/2013,1355500,,Fanueli Sappa -safari allowance Arusha  pv 72836/2,None
+102101,52, Payment - GL,18556,09/05/2013,,525000,Fanueli Sappa - safari allowance Arusha pv 72836/2,None
+102101,52, Journal - GL,2281,09/05/2013,,522480,Fanueli Sappa - Retirement for Arusha safari allowance Ref. pv 72836/2013,None
+102101,52, Journal - GL,2283,09/05/2013,,40000,Fanueli Sappa - Retirement for Arusha safari allowance Ref. pv 72836/2013 &amp; JE 2281,None
+102101,52, Receipt,14035,16/05/2013,,520000,Amon Ndeki refund safari Imprest 300898/13,
+102101,52, Receipt,14036,16/05/2013,,285009,Fanueli Sappa refund safari imprest 300899/2013,
+102101,52, Receipt,14037,16/05/2013,,81700,William Shauri refund safari imprest 300900/2013,
+102101,52, Payment - GL,17865,17/05/2013,329000,,William Shauri - safari Allowance to Arusha  pv 72,None
+102101,52, Journal - GL,2210,17/05/2013,,329000,William Shauri - Retirement for Arusha safari imprest Ref. pv 72909/2013,None
+102101,52, Payment - GL,17884,21/05/2013,426500,,Petro Axwesso - Adv. Safari imprest to Moshi pv 72,None
+102101,52, Journal - GL,2286,21/05/2013,,408710,Petro Axwesso - Retirement for Moshi Safari imprest Ref. pv 72929/2013 ,None
+102101,52, Payment - GL,17909,27/05/2013,570000,,Dr.Isaack Malleyeck-safari ya DSM pv 72969,
+102101,52, Journal - GL,2098,27/05/2013,,570000,Dr.Isaack Malleyeck - Retirement of DSM safari imprest Ref. pv 72969,None
+102101,52, Payment - GL,17937,31/05/2013,612960,,Barikieli Herson-safari ya Arusha pv 72992,
+102101,52, Journal - GL,2263,31/05/2013,,612960,Barikieli Herson - Retirement for Arusha safari imprest Ref. pv 72992,None
+102101, 52, Period Total,,,,1117859
+102101,53, Payment - GL,17962,03/06/2013,1410000,,Penford Magara-safari imprest to Arusha pv 73057,
+102101,53, Payment - GL,18220,03/06/2013,290000,,Venance Ama-safari imprest to Arusha pv 73000,
+102101,53, Journal - GL,2207,03/06/2013,,1410000,Penford Magara - Retirement Arusha safari imprest Ref. pv 73057,None
+102101,53, Journal - GL,2272,03/06/2013,,240000,Venance Ama - Retiement for Arusha safari imprest ref. pv 73000,None
+102101,53, Payment - GL,18002,10/06/2013,210000,,Michael Lohay-safari imprest pv 73101,
+102101,53, Journal - GL,2265,10/06/2013,,210000,Michael Lohay - Retiment for Kinampanda, Mkalama, Kiomboi &amp; Doromoni safari imprest Ref. pv 73101,None
+102101,53, Payment - GL,18012,11/06/2013,696000,,Joseph Ndukusi-safari Imprest to DSM pv 73118,
+102101,53, Journal - GL,2122,11/06/2013,,696000,Joseph Ndukusi-Retirement for DSM safari Imprest Ref.pv 73118,None
+102101,53, Payment - GL,18049,14/06/2013,560000,,Barikieli Herson-safari allowance to Arusha pv 731,
+102101,53, Payment - GL,18053,14/06/2013,1830000,,Penford Magara -safari Imprest to Arusha pv 73163,
+102101,53, Journal - GL,2208,14/06/2013,,1830000,	Penford Magara - Retirement for Arusha safari Imprest Ref. pv 73163,None
+102101,53, Journal - GL,2264,14/06/2013,,560000,Barikieli Herson- Retirement for Arusha safari imprest Ref. pv 73159,None
+102101,53, Payment - GL,18076,19/06/2013,104000,,Yekonia Zacharia -safari imprest to Babati pv 7318,
+102101,53, Journal - GL,2211,19/06/2013,,104000,Yekonia Zacharia - Retiremnt for Babati safari imprest Ref. pv 73187,None
+102101,53, Payment - GL,18224,26/06/2013,437500,,William shauri-safari imprest to Arusha pv 73223,
+102101,53, Journal - GL,2121,26/06/2013,,437500,William shauri-Retirement for safari imprest to Arusha pv 73223,None
+102101,53, Journal - GL,2126,30/06/2013,,200000,Safari Imprest from Amon Ndeki and Martha Massawe June 2013,
+102101, 53, Period Total,,,,150000
+102101,54, Payment - GL,18153,02/07/2013,800000,,Venance Moshi-safari imprest to Arusha pv 73249,
+102101,54, Journal - GL,2279,02/07/2013,,800000,Venance Moshi - Retirement Arusha safari imprest Ref. pv 73249 (Diesel for T.118 BEU),None
+102101,54, Payment - GL,18152,03/07/2013,1040000,,Elihuruma anania-safari imprest to Arusha pv 73248,
+102101,54, Journal - GL,2268,03/07/2013,,1040000,Elihuruma anania - Retirement for Arusha safari imprest Ref. pv 73248,None
+102101,54, Payment - GL,18185,05/07/2013,210000,,Penford Magara -safari Imprest to Arusha pv 73334,
+102101,54, Payment - GL,18193,06/07/2013,1815000,,Venance and Elihuruma -safari imprest to Arusha pv,
+102101,54, Journal - GL,2269,06/07/2013,,750000,Venance and Elihuruma - Partly(Elihuruma) Retirement for Arusha safari imprest Ref. pv 73337,None
+102101,54, Journal - GL,2275,06/07/2013,,1065000,Venance and Elihuruma - Retirement for Arusha imprest Ref. pv 73337 (Venanance),None
+102101,54, Payment - GL,18202,08/07/2013,1113600,,Venance Moshi-safari imprest to Arusha pv 73348,
+102101,54, Payment - GL,18203,08/07/2013,822400,,Elihuruma anania-safari imprest to Arusha pv 73349,
+102101,54, Journal - GL,2271,08/07/2013,,822400,Elihuruma anania - Retirement for Arusha safari imprest Ref. pv 73349,None
+102101,54, Journal - GL,2276,08/07/2013,,1113600,Venance Moshi - Retirement for Arusha safari imprest Ref. pv 73348,None
+102101,54, Payment - GL,18246,12/07/2013,1313000,,Venance Ama-safari imprest to Arusha pv 73387,
+102101,54, Payment - GL,18247,12/07/2013,975000,,Elihuruma anania-safari imprest to Arusha pv 73388,
+102101,54, Journal - GL,2270,12/07/2013,,975000,Elihuruma anania - Retirement for Arusha safari imprest Ref. pv 73388,None
+102101,54, Journal - GL,2278,12/07/2013,,1313000,Venance Ama - Retirement for Arusha safari imprest Ref. pv 73387,None
+102101,54, Payment - GL,18300,17/07/2013,1185000,,Venance Ama-safari imprest to Arusha pv 73427,
+102101,54, Journal - GL,2277,17/07/2013,,1185000,Venance Ama - Retirement for Arusha safari imprest Ref. pv 73427,None
+102101,54, Receipt,14752,29/07/2013,,1000,Michael Lohay-retirement of safar imprest rv304066,None
+102101,54, Journal - GL,2209,31/07/2013,,210000,Penford Magara - Retirement for Arusha safari Imprest Ref. pv 73334,None
+102101,54, Journal - GL,2282,31/07/2013,,40000,Fanueli Sappa - Retirement for Arusha safari allowance Ref. pv 72836/2013 &amp; JE 2281,None
+102101,54, Journal - GL,2284,31/07/2013,40000,,Fanueli Sappa - Retirement for Arusha safari allowance Ref. pv 72836/2013 &amp; JE 2281correction,None
+102101,54, Journal - GL,2288,31/07/2013,1000,,Michael Lohay-retirement of safar imprest rv304066 (correction),None
+102101, 54, Period Total,,,0
+102101,55, Payment - GL,18452,06/08/2013,520000,,John Nade and A.Sakweli-safari imprest for process,
+102101,55, Payment - GL,18453,06/08/2013,1920000,,John Nade and A.Sakweli-safari imprest for process,
+102101,55, Journal - GL,2280,06/08/2013,,1598333.33,John Nade and A.Sakweli - Retirement of safari imprest for processing visa pv 73622,None
+102101,55, Receipt,14869,12/08/2013,,841666.66666667,Dr. Anderson Sakweli retire pv73622 rv304647,None
+102101,55, Receipt,14932,20/08/2013,,89318,Fanueli Sappa refund safari imprest 304940/2013,
+102101,55, Journal - GL,2287,20/08/2013,89318,,Fanueli Sappa refund safari imprest 304940/2013 (correction),None
+102101,55, Receipt,14953,22/08/2013,,50000,Venance Moshi - Safari imprest  pv7300rv305402/13,
+102101,55, Receipt,14984,27/08/2013,,17790,Petro Axwesso - retirement of pv72929 rv305421,None
+102101,55, Payment - GL,18665,29/08/2013,2197500,,Venance Amma and Frank S.- Safari imprest to Dsm p,None
+102101,55, Journal - GL,2429,29/08/2013,,2197500,Venance Amma and Frank S.- retirement for DSM Safari imprest Ref. pv 73809,None
+102101, 55, Period Total,,,,67789.99666667
+102101,56, Payment - GL,18731,06/09/2013,49000,,Elisha Lukas - safari Imprest to Babati pv 73856,None
+102101,56, Payment - GL,18754,09/09/2013,510000,,Barkieli Herson - Safari imprest to Arusha pv 7387,None
+102101,56, Payment - GL,18861,23/09/2013,102000,,Joseph Ndukusi-safari imprest  to  Babati pv 74050,
+102101, 56, Period Total,,,661000
+102101,57, Payment - GL,19007,09/10/2013,295000,,Wiliam Shauri- Safari imprest to Arusha pv 74470/1,None
+102101,57, Payment - GL,19029,11/10/2013,240000,,Venance Amma &amp; Frank - Safari imprest to Arusha pv,None
+102101,57, Payment - GL,19041,15/10/2013,530000,,William Shauri - Safari imprest to Arusha pv 74510,None
+102101,57, Payment - GL,19095,22/10/2013,873000,,Wiliam Shauri- Safari imprest to Moshi pv 74573/13,None
+102101,57, Payment - GL,19112,24/10/2013,89000,,Penford Magara - Safari imprest to B/lalu pv 74591,None
+102101,57, Payment - GL,19114,24/10/2013,360000,,Fanuel Sapa - Safari imprest to Arusha pv 74593,None
+102101,57, Payment - GL,19145,29/10/2013,34000,,John Daniel - Safari imprest Babati pv 74617,None
+102101,57, Payment - GL,19170,31/10/2013,260000,,Dr. Paschal Mdoe - Safari imprest to Babati pv 746,None
+102101, 57, Period Total,,,2681000
+102101,58, Payment - GL,19197,04/11/2013,196000,,Johanson Gwaatema - Safari imprest to Moshi pv 746,None
+102101,58, Payment - GL,19204,04/11/2013,145000,,Mikael Lohay - Safari Imprest to Magugu pv 74684,None
+102101, 58, Period Total,,,341000
+102101,58, Balance C/Fwd,,,3683000.0002323

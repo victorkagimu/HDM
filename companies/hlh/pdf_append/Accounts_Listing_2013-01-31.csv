@@ -1,0 +1,11 @@
+203001 - 0 for period 48 to 48
+203001, 48, Brought Forward Balance,,,32124648.8
+203001,48, Payment - GL,16771,03/01/2013,1026673,,Off pay for Dr.Thomas Tippe pv 71153,
+203001,48, Journal - GL,1817,03/01/2013,285145,,Paye-deduction from Dr.Thomas Tippe 2012 pv 71153,
+203001,48, Journal - GL,1818,11/01/2013,1793999,,Correction for amount booked in wrong A/C,
+203001,48, Payment - GL,16806,30/01/2013,2804304,,Doctor off pay 2012  pv 71181,
+203001,48, Journal - GL,1833,30/01/2013,635914,,Paye from Doctors of pv 71181,
+203001,48, Payment - GL,16807,30/01/2013,1475259,,Doctor off pay 2012 NMB   pv 71182,
+203001,48, Journal - GL,1834,30/01/2013,335286,,Paye-deduction from Doctors  offs pay 2012 pv 71182,
+203001, 48, Period Total,,,8356580
+203001,48, Balance C/Fwd,,,40481228.8

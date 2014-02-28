@@ -1,0 +1,44 @@
+102111 - 0 for period 48 to 54
+102111, 48, Brought Forward Balance,,,2132967
+102111,48, Journal - GL,1859,31/01/2013,384000,,Basic Salary for Yakobo Awe - wazee salary,
+102111,48, Journal - GL,1861,31/01/2013,3206553,,Salary and allowances for 4CCP staff Jan.2013,
+102111, 48, Period Total,,,3590553
+102111,49, Receipt,13160,13/02/2013,,826567,4ccp other payments rv297247/2013,None
+102111,49, Journal - GL,1990,28/02/2013,2286473,,4CCP staff Basic salary and other allowances Febr.2013,
+102111,49, Journal - GL,1992,28/02/2013,314200,,4CCP wazee staff Basic salary Febr.2013,
+102111, 49, Period Total,,,1774106
+102111,50, Journal - GL,1994,31/03/2013,314200,,4CCP wazee staff Basic salary March.2013,
+102111,50, Journal - GL,1994,31/03/2013,,69800,Amount overpaid to Yakobo Awe from Jan.2013 salary deducted in March 2013,
+102111,50, Journal - GL,1995,31/03/2013,3992473,,4CCP staff Basic salary and other allowances March.2013,
+102111, 50, Period Total,,,4236873
+102111,51, Payment - GL,17661,25/04/2013,167198,,4CCP-salary for April 2013 pv pv 72752,
+102111,51, Payment - GL,17664,25/04/2013,1808095,,4CCP-salary for April 2013 (NBC)pv pv 72752,
+102111,51, Payment - GL,17663,30/04/2013,361718.7,,4CCP-Paye April 2013  pv 72758,
+102111,51, Payment - GL,17846,30/04/2013,597400,,4CCP-salary for April 2013 pv 72739 cash,
+102111, 51, Period Total,,,2934411.7
+102111,52, Journal - GL,2086,09/05/2013,296000,,Fanueli Sappa - Road licence and Insurance pv 7283 (R. Lisence &amp; Insurance for T. 542 ACN),T 542 ACN
+102111,52, Payment - GL,17861,16/05/2013,32040,,4CCP-NHIF contribution April 2013 ,
+102111,52, Payment - GL,17863,16/05/2013,277400,,4CCP-LAPF contribution April 2013 ,
+102111,52, Payment - GL,17869,16/05/2013,17143.7,,4CCP-Tughe contribution April 2013 ,
+102111,52, Payment - GL,17876,23/05/2013,290506,,4CCP-NSSF contribution April 2013 pv 72790,
+102111,52, Payment - GL,17912,29/05/2013,165998,,4CCP-salary for May 2013 pv pv 72794,
+102111,52, Payment - GL,17913,29/05/2013,1900895,,4CCP-salary for May 2013 pv pv 72796 NBC,
+102111,52, Payment - GL,17914,29/05/2013,361718.7,,4CCP-Paye May  2013  pv 72795,
+102111, 52, Period Total,,,3341701.4
+102111,53, Payment - GL,18188,10/06/2013,596200,,Salary for May paid by cash pv 73102,
+102111,53, Journal - GL,2109,18/06/2013,290506,,4CCP-NSSF contribution May2013 ,
+102111,53, Payment - GL,18125,18/06/2013,17143.7,,Tughe-4CCP  May 2013,
+102111,53, Payment - GL,18126,18/06/2013,277400,,LAPF-4CCP members contribution May  2013 pv 73027,
+102111,53, Payment - GL,18128,19/06/2013,32040,,NHIF-4CCP members contribution May 2013 pv 73029,
+102111,53, Payment - GL,18130,25/06/2013,361718.7,,Paye from 4CCP June 2013 pv 73039,
+102111,53, Payment - GL,18137,25/06/2013,1763695,,4CCP-salary for June  NBC 2013 pv 73251,
+102111,53, Payment - GL,18187,25/06/2013,165998,,4CCP-salary for June  NMB 2013 pv 73038,
+102111,53, Receipt,14286,28/06/2013,,20636356.4,4CCP-refund salary Jan to June 2013 rv 297440,
+102111,53, Payment - GL,18191,28/06/2013,596200,,4CCP-salary for June 2013 Cash pv 73352,
+102111, 53, Period Total,,,,16535455
+102111,54, Journal - GL,2124,16/07/2013,290506,,4CCP-NSSF contribution June 2013,
+102111,54, Journal - GL,2125,16/07/2013,32040,,4CCP-LAPF contribution June 2013,
+102111,54, Payment - GL,18280,16/07/2013,32040,,NHIF-members contribution June 2013 pv 73279,
+102111,54, Payment - GL,18281,16/07/2013,17143.7,,4CCP-Tughe contribution June  2013,
+102111, 54, Period Total,,,371729.7
+102111,54, Balance C/Fwd,,,1846886.8

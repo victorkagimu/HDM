@@ -1,0 +1,73 @@
+102102 - 0 for period 48 to 55
+102102, 48, Brought Forward Balance,,,136068141.74171
+102102,48, Payment - GL,16349,08/01/2013,339480,,Philemon Joshua - Partly allowance and intenship p,Philmon Joshua s/ship exps
+102102,48, Journal - GL,1873,09/01/2013,,47333000,Clearing of receivables for Staff Grant for December 2012,None
+102102,48, Receipt,12829,14/01/2013,,14400,Dr. Anderson Sakweli - rambi  rambi rv296165,
+102102,48, Payment - GL,16726,22/01/2013,70000,,Martha Massawe-safari ya Mbulu on ELCT Mbulu diose,
+102102,48, Payment - GL,16801,28/01/2013,8816000,,Interns Doctors -Posho allowance pv 71749/2013,None
+102102,48, Journal - GL,2021,31/01/2013,47332100,,Being staff grant for January 2013 ,
+102102, 48, Period Total,,,9210180
+102102,49, Receipt,13282,01/02/2013,,8816000,Intern Doctors-salary for Jan 2013 rv 0275,
+102102,49, Receipt,13408,01/02/2013,,638000,KKKT usharika wa Haydom - car service rv296342 ,Engineering Section ( Garage)
+102102,49, Receipt,13364,04/02/2013,,339480,Philimon Joshua -return of adv.for intern rv296349,None
+102102,49, Journal - GL,2022,05/02/2013,,47332100,Clearing of HLH other receivable for staff grant ,
+102102,49, Payment - GL,16937,07/02/2013,496820,,Laura Adul-salary for Jan 2013 pv 71880,
+102102,49, Journal - GL,1996,07/02/2013,,496820,Salary for Laura posted to HLH receivable pv 71880,
+102102,49, Payment - GL,17115,21/02/2013,6000000,,Martha Massawe-receivable for ICDP pv 72072,
+102102,49, Receipt,13285,21/02/2013,,5717143.1200131,,
+102102,49, Receipt,13286,22/02/2013,,282730.32699254,Sorland fund for ICDP  rv 297415 understated,
+102102,49, Payment - GL,17123,25/02/2013,7052800,,Salary for Interns Doctors Feb 2013 pv 72114,
+102102,49, Payment - GL,17127,25/02/2013,3671350,,HVTEC-loan for their salary Jan 2013 pv 72119,
+102102,49, Payment - GL,17128,25/02/2013,1185000,,HVTEC-loan for allowance for board meeting and reg,
+102102,49, Journal - GL,2023,28/02/2013,47252100,,Staff grant for the Month of February 2013 ,
+102102, 49, Period Total,,,2035796.5529944
+102102,50, Payment - GL,17174,01/03/2013,17181750,,HVTEC-loan for the various expences pv 72154,
+102102,50, Receipt,13494,05/03/2013,,7052800,MOh-Salary for Intern doctors Feb 2013 rv 0278,
+102102,50, Journal - GL,2024,15/03/2013,,47252100,Clearing of HLH other receivable for staff grant,
+102102,50, Receipt,13375,20/03/2013,,75700000,HVTEC-refund for 2012/2013 HLH  loan rv 297417,
+102102,50, Payment - GL,17394,21/03/2013,218596,,Paulo Axwesso-adv salary March and salary Feb 2013,
+102102,50, Payment - GL,17428,22/03/2013,1251000,,Travelling expences for patient from Haydom to KCM,
+102102,50, Payment - GL,17429,22/03/2013,1713000,,ELCT-Karatu fund raising from HLH employee we rece,
+102102,50, Receipt,13378,22/03/2013,,1251000,Travelling exp for patient from Haydom to KCM refunded rv  298901,
+102102,50, Receipt,13379,22/03/2013,,1213000,Michango ya HLH staffs kwa Chuo cha uuguzi Karatu iliyilipwa kwa cheque rv 298902 and 298936,
+102102,50, Receipt,13818,22/03/2013,,218596,NBC-ref salary and adv salary for Paulo rv 297425,
+102102,50, Payment - GL,17452,26/03/2013,252000,,Fanueli Sappa-safari imprest to Arusha  pv 720440,
+102102,50, Payment - GL,17455,26/03/2013,9697600,,Intern Doctor-salary  for March 2013 pv 72445,
+102102,50, Receipt,13496,27/03/2013,,9697600,MOh-Salary for Intern doctors March 2013 rv 0280,
+102102,50, Receipt,13841,28/03/2013,,15025370,Salary for Nov to December 2012  ,
+102102,50, Receipt,13841,28/03/2013,,1554000,Diesel refund ,
+102102,50, Journal - GL,2025,31/03/2013,47252500,,Staff grant for the Month of March 2013,
+102102, 50, Period Total,,,,81398020
+102102,51, Receipt,13935,05/04/2013,,309222,NMB-salary refunded for Paulo Tango rv 297429,
+102102,51, Journal - GL,2026,05/04/2013,,47252500,Clearing of HLH other receivable for staff grant,
+102102,51, Receipt,13859,08/04/2013,,483050,NBC-bank-Laura salary refunded for March  297427,
+102102,51, Payment - GL,17521,09/04/2013,309222,,Paulo Tango-salary for March paid through NMB wron,
+102102,51, Payment - GL,17540,11/04/2013,1216350,,Venance Amma-imprest to Arusha pv 72593,
+102102,51, Payment - GL,17635,17/04/2013,89000,,Ayubu and Yohani Samo-refunded their money used fo,
+102102,51, Receipt,13608,17/04/2013,,89000,ELCT Arusha CTC Matengenezo ya gari rv299699/2013,None
+102102,51, Payment - GL,17596,22/04/2013,483050,,Laura Adul-salary for March to be refunded by Bank,
+102102,51, Payment - GL,17597,22/04/2013,17196,,Paulo Axwesso -salary march iliyotumwa kimakosa pv,
+102102,51, Payment - GL,17691,25/04/2013,14987200,,Intern Doctor-salary  for April 2013 pv 72728,
+102102,51, Payment - GL,17738,30/04/2013,77140,,Salary diference btw HLH GL and bank deduction ,
+102102,51, Journal - GL,2095,30/04/2013,47252000,,Staff -grant April 2013 ,
+102102, 51, Period Total,,,16297386
+102102,52, Receipt,14191,03/05/2013,,14987200,MOh-Salary for Intern doctors April 2013 rv 0284,
+102102,52, Receipt,14192,07/05/2013,,47252000,MOH-clearence for staff grant April 2013 rv 0285,
+102102,52, Payment - GL,17773,09/05/2013,296000,,Fanueli Sappa - Road licence and Insurance pv 7283,T 542 ACN
+102102,52, Payment - GL,17773,09/05/2013,224800,,Dr. Olav- Road licence and Insurance pv 72835/2013,None
+102102,52, Journal - GL,2086,09/05/2013,,296000,Fanueli Sappa - Road licence and Insurance pv 7283 (R. Lisence &amp; Insurance for T. 542 ACN),None
+102102,52, Payment - GL,17823,16/05/2013,72000,,Dr. Olav- Overspend for Road licence and Insurance,None
+102102,52, Payment - GL,17900,24/05/2013,14987200,,Intern Doctors-salary for May 2013 pv 72960,
+102102, 52, Period Total,,,,46955200
+102102,53, Payment - GL,17974,04/06/2013,360000,,Mage/Beatrice and Mathias-payment for their wages ,
+102102,53, Receipt,14292,07/06/2013,,14987200,MOH-salary for Intern doctor   2013 rv 0287,
+102102,53, Payment - GL,18104,25/06/2013,50000,,Amini Mbiru-kutengeneza keria ya gari ya Kanisa pv,
+102102,53, Payment - GL,18130,25/06/2013,3222250,,HVTEC-loan for PAYE  pv  73039,
+102102,53, Payment - GL,18111,26/06/2013,14987200,,Intern Doctor-salary for June 2013 pv 73218,
+102102,53, Payment - GL,18113,26/06/2013,360000,,Dr.Olav-mishahara ya watumishi wake pv73220,
+102102, 53, Period Total,,,3992250
+102102,54, Payment - GL,18248,12/07/2013,900000,,Barikieli Sulle-receivable on purchase of injector,
+102102,54, Payment - GL,18350,25/07/2013,14987200,,Intern Doctor-salary for July 2013 pv 73474,
+102102,54, Payment - GL,18386,31/07/2013,322200,,Paye-HVTEC July 2013 pv 73296,
+102102, 54, Period Total,,,16209400
+102102,55, Balance C/Fwd,,,55459934.294704

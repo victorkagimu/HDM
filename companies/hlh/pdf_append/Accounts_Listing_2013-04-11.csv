@@ -1,0 +1,9 @@
+401010 - 1 for period 36 to 47
+401010,36, Journal - GL,1134,20/01/2012,,4182990,Correction of wrong posting doctors off pay 2010,
+401010,36, Journal - GL,1135,20/01/2012,4182990,,Correction of wrong posting doctors off pay 2010 - supposed to be in 2011,
+401010,36, Payment - GL,11193,25/01/2012,2800000,,Interns Doctors - food and call allowances for Jan,None
+401010,36, Payment - GL,11276,30/01/2012,400000,,John Ouko - allowance ya kufanya kazi kituo cha Ge,None
+401010, 36, Period Total,,,3200000
+401010,47, Journal - GL,1914,31/12/2012,3500000,,provision for employee tax non-expats 2012,
+401010, 47, Period Total,,,3500000
+401010,47, Total Period Movement,,,6700000

@@ -1,0 +1,313 @@
+102102 - 0 for period -12 to 35
+102102, -12, Brought Forward Balance,,,0
+102102,-1, Payment - GL,1884,31/12/2008,280072671.8,,HLH Other Receivables,None
+102102, -1, Period Total,,,280072671.8
+102102,1, Payment - GL,14,14/01/2009,8061.44,,Dr. Oystein Telephone  Je 224/08,
+102102,1, Payment - GL,73,21/02/2009,492446.2,,NSSF contributions,Balangdalalu Health Centre
+102102,1, Payment - GL,73,21/02/2009,919880.8,,NSSF contributions,Kansay Health Center
+102102,1, Payment - GL,73,21/02/2009,606126.6,,NSSF contributions,Gendabi Health Center
+102102,1, Journal - GL,325,22/02/2009,,492446.2,Correction-misposting to health center support pv54587,
+102102,1, Journal - GL,326,22/02/2009,,919880.8,Correction-misposting to health center support pv54588,
+102102,1, Payment - GL,107,27/02/2009,3000000,,NCA water project Loan,
+102102, 1, Period Total,,,3614188.04
+102102,2, Receipt,112,04/03/2009,,5454700,241422rv,
+102102,2, Payment - GL,135,05/03/2009,259739.6,,PAYE - Gendabi HC February,Gendabi Health Center
+102102,2, Payment - GL,135,05/03/2009,221093.6,,PAYE - B/lalu HC,Balangdalalu Health Centre
+102102,2, Payment - GL,135,05/03/2009,348847.8,,PAYE - Kansay HC February,Kansay Health Center
+102102,2, Journal - GL,328,05/03/2009,,606126.6,Correction-misposting to health center support pv54589 NSSF,
+102102,2, Journal - GL,330,05/03/2009,,259739.6,Correction-misposting to health center support PAYE,
+102102,2, Journal - GL,330,05/03/2009,,221093.6,Correction-misposting to health center support PAYE,
+102102,2, Journal - GL,330,05/03/2009,,348847.8,Correction-misposting to health center support PAYE,
+102102,2, Payment - GL,308,27/03/2009,286680,,A&amp;A computers for NCA ,
+102102,2, Payment - GL,315,27/03/2009,235000,,Yeconia Zakaria Fredcorpse seminar 09,
+102102,2, Payment - GL,323,28/03/2009,150000,,Yekonia Deles safari ya Arusha,
+102102, 2, Period Total,,,,5389146.6
+102102,3, Receipt,227,02/04/2009,,15605000,243169 rv,
+102102,3, Payment - GL,383,09/04/2009,500000,,Nicodemu Samweli/Anders W. to refund ,
+102102,3, Payment - GL,521,15/04/2009,4702800,,Selina Sanka ununuzi wa vyakula guest house,
+102102,3, Payment - GL,525,15/04/2009,500000,,Victor Musa mei mosi loan,
+102102,3, Payment - GL,457,17/04/2009,1032600,,Watoto yatima haydom village - loan,
+102102,3, Receipt,213,21/04/2009,,1000000,242992rv,
+102102, 3, Period Total,,,,9869600
+102102,4, Receipt,247,04/05/2009,,1032600,RV243329,
+102102,4, Payment - GL,684,04/05/2009,248400,,Arusha printing press for cultural Center NCA,
+102102,4, Receipt,1246,04/05/2009,1032600,,Reverse rv 243329,
+102102,4, Receipt,248,07/05/2009,,1032600,RV243329,
+102102,4, Payment - GL,1040,08/05/2009,4240000,,Dr Isack Malleyeck Imprest safari DSM,None
+102102,4, Journal - GL,67,08/05/2009,,4240000,Reclassify dr. Malleyeck safari imprest,
+102102, 4, Period Total,,,,784200
+102102,5, Payment - GL,974,08/06/2009,225000,,Maji Mengi payment,Maji Mengi
+102102,5, Payment - GL,998,19/06/2009,300000,,Helen S. loan,None
+102102,5, Payment - GL,1013,19/06/2009,59589.63,,TTCL payment Dr. Oystein,None
+102102,5, Payment - GL,1015,19/06/2009,200000,,Juliana UNgo adv.sal.,None
+102102,5, Journal - GL,287,20/06/2009,,200000,Reclassify adv. salary Juliana Ungo,
+102102, 5, Period Total,,,584589.63
+102102,6, Payment - GL,1315,03/07/2009,300000,,Dr. Savage-motor cycle spares,None
+102102,6, Journal - GL,52,09/07/2009,531480,,Majimengi project - vifaa vya ujenzi toka HLH workshop,Maji Mengi
+102102,6, Payment - GL,1372,13/07/2009,746000,,Ezra Naman - safari ya S/Africa (receivable),None
+102102,6, Journal - GL,68,13/07/2009,,746000,Reclassify Ezra Naman safari S/Africa,
+102102, 6, Period Total,,,831480
+102102,7, Payment - GL,4380,23/08/2009,12000000,,Loan from NPA project to cover HLH bank overdraft,None
+102102,7, Receipt,2844,24/08/2009,,12000000,NPA cultural project - loan refer rv.248109,None
+102102, 7, Period Total,,,0
+102102,8, Journal - GL,130,30/09/2009,1322000,,TANESCO - medical bills for Patient Michael S.Elia,
+102102, 8, Period Total,,,1322000
+102102,9, Receipt,1565,26/10/2009,,93851488.5,248149rv,Maji Mengi
+102102,9, Receipt,1566,26/10/2009,,12960342.45,248150rv,
+102102,9, Journal - GL,331,26/10/2009,12960342.45,,Correction of misposting of gift for boys hostel,
+102102,9, Journal - GL,332,30/10/2009,,3230000,Correction- Kinto Arusha misposting Je 209/09,
+102102,9, Journal - GL,159,31/10/2009,,500000,Selina Sanka pv 54062 of 2008,
+102102,9, Journal - GL,160,31/10/2009,,600000,Yeconia Deles imprest retired for 2008,
+102102,9, Journal - GL,172,31/10/2009,700000,,Amerudisha recevable pv54090/08 A/C100-109,Guest House 
+102102,9, Journal - GL,172,31/10/2009,,700000,Amerudisha recevable pv54090/08 A/C100-109,
+102102,9, Journal - GL,173,31/10/2009,,700000,Being correction of wrong posting,
+102102, 9, Period Total,,,,98881488.5
+102102,10, Payment - GL,2590,03/11/2009,900000,,HSN students - loan for field work Dodoma,None
+102102,10, Payment - GL,2598,04/11/2009,1400000,,PEPFAR - loan to run project activities,None
+102102,10, Payment - GL,2609,05/11/2009,10500000,,PEPFAR - loan to run project activities,None
+102102,10, Payment - GL,2720,20/11/2009,4000000,,Haydom Police  Station - loan from HLH,None
+102102,10, Payment - GL,2776,24/11/2009,400000,,Elizabeth Ayubu - safari ya KCMC kwa matibabu(impr,None
+102102,10, Journal - GL,288,25/11/2009,,400000,Reclassify safari imprest Elizabeth Ayubu ,
+102102,10, Journal - GL,333,26/11/2009,,2485000,Correction- Kinto Arusha misposting Je 208/09,
+102102, 10, Period Total,,,14315000
+102102,11, Receipt,1820,02/12/2009,,11900000,PEPFAR - project repaid HLH borrowed money,
+102102,11, Payment - GL,2843,04/12/2009,50000,,Mandal Community - orphans funds in Mbulu,None
+102102,11, Receipt,1995,16/12/2009,,500000,Rv251387,
+102102,11, Payment - GL,3160,28/12/2009,5550000,,Dr.Hayte Madotay - loan,None
+102102,11, Receipt,2131,31/12/2009,,70000,Layda Tarmo - return loan,
+102102,11, Journal - GL,282,31/12/2009,26987467.55,,Revolving Fund receivable 2009 ,None
+102102,11, Receipt,2793,31/12/2009,,1906500,Receipt of Marie Voll,Haydom School of Nursing
+102102,11, Receipt,2793,31/12/2009,,699050,Receipt of Hans Marius,Haydom School of Nursing
+102102,11, Receipt,2793,31/12/2009,,23239190,Receipt of Malene Nilssen,Haydom School of Nursing
+102102,11, Receipt,2793,31/12/2009,,1142727.55,Receipt of Sigurd Berg,Haydom School of Nursing
+102102,11, Journal - GL,323,31/12/2009,3699120,,A&amp;A computers for NCA wrongly posted to payable a/c,
+102102,11, Journal - GL,324,31/12/2009,,3699120,Correction - A&amp;A computers for NCA wrongly posted ,
+102102,11, Journal - GL,334,31/12/2009,9144144,,Being amount overpaid for maji mengi ,
+102102,11, Journal - GL,348,31/12/2009,70000,,Being wrong posting to receipt 2131,
+102102, 11, Period Total,,,2344144
+102102,12, Journal - GL,451,01/01/2010,,1062536,Erling Svensen, permit fees,
+102102,12, Receipt,2245,11/01/2010,,150000,Prisca Ongombe rertund Advance for Field work,
+102102,12, Payment - GL,3433,13/01/2010,448000,,Kael Zacharia Mussa (payable by Dr.Oysten E.Olsen,None
+102102,12, Payment - GL,3301,14/01/2010,7705000,,Majimengi - clearance of receivable,None
+102102,12, Payment - GL,3323,15/01/2010,140000,,Majimengi - clearance of receivable,None
+102102, 12, Period Total,,,7080464
+102102,13, Payment - GL,3694,10/02/2010,2500000,,Vocational Training School Haydom - loan,None
+102102,13, Payment - GL,3725,16/02/2010,300000,,Leah Marthin - matibabu Selian Hospital (Ingar),None
+102102,13, Receipt,2659,16/02/2010,,448000,Rv250258,
+102102,13, Payment - GL,4403,16/02/2010,448000,,Oystein &amp; Turid - reverse of entry twice,None
+102102,13, Journal - GL,663,16/02/2010,,448000,Reclasification of cleared receivables as income,
+102102,13, Payment - GL,3794,19/02/2010,90000,,Flying Medical Service - patient,None
+102102, 13, Period Total,,,2442000
+102102,14, Receipt,2894,19/03/2010,,2500000,27640rv,
+102102,14, Payment - GL,5371,29/03/2010,3016938.01694,,Paul Ariese, consultancy work for 4CCP, create rec,None
+102102,14, Journal - GL,327,31/03/2010,,606126.6,,
+102102,14, Journal - GL,329,31/03/2010,606126.6,,,
+102102,14, Journal - GL,354,31/03/2010,,500000,Victor Mussa - return loan,None
+102102, 14, Period Total,,,16938.01694
+102102,15, Payment - GL,5374,22/04/2010,2214447.71445,,Paul Ariese, consultancy work for 4CCP (NOK 9,841.,None
+102102, 15, Period Total,,,2214447.71445
+102102,16, Payment - GL,4560,07/05/2010,125000,,Andrea Naman - safari ya Norway (posho),None
+102102,16, Payment - GL,4561,07/05/2010,130000.13,,Andrea Naman - safari ya Norway $100,None
+102102,16, Journal - GL,683,07/05/2010,,125000,Reclasification of exchange program- Andrea Naman,
+102102,16, Journal - GL,683,07/05/2010,,130000.13,Reclasification of exchange program- Andrea Naman,
+102102,16, Journal - GL,686,18/05/2010,,620000,Correc. Norway Trip for Sadikieli Kaay and Magreth paid by Dr. Savage,
+102102,16, Payment - GL,4849,21/05/2010,310000,,Magreth Sarwat - safari ya DSM (receivable for Dr.,None
+102102,16, Payment - GL,4850,21/05/2010,310000,,Dr.Sadikieli Tlatlaa - safari ya Arusha &amp; DSM (Rec,None
+102102,16, Payment - GL,5248,27/05/2010,9611471.86147,,Paul Ariese, consultancy work for 4CCP ,None
+102102,16, Journal - GL,499,27/05/2010,,150000,HLH payroll for the month of April 2010,
+102102,16, Journal - GL,570,28/05/2010,,3203824,Paul Ariese, clear 1/3 of the receivable, other meant for 4CCP,
+102102, 16, Period Total,,,6257647.86147
+102102,17, Journal - GL,392,01/06/2010,,41909731.04,Clear off receivables before 2009: see journal file and corresponding overviews,
+102102, 17, Period Total,,,,41909731.04
+102102,18, Payment - GL,5289,05/07/2010,600000,,HSN students loan for practical examination at Mir,None
+102102,18, Payment - GL,5329,09/07/2010,9955341,,Dr.Oystein - receivables,None
+102102, 18, Period Total,,,10555341
+102102,19, Payment - GL,6971,03/08/2010,405004.050041,,Naftali Nuwas - correction ref.pv.2186 USD 270 und,None
+102102,19, Payment - GL,6972,03/08/2010,44999.78,,Naftali Nuwas - correction of pv.2186 (wrong posti,None
+102102,19, Journal - GL,684,03/08/2010,,405004.05,Naftali Nuwas- Visa permits for exchange program people,
+102102,19, Journal - GL,684,03/08/2010,,44999.78,Naftali Nuwas- Visa permits for exchange program people,
+102102,19, Payment - GL,5569,10/08/2010,240000,,Naftali Nuwas - VISa for Pendaeli Gabriel (for the,None
+102102,19, Journal - GL,685,10/08/2010,,240000,Naftali Nuwas- Visa permit Pendaeli for exchange program,
+102102,19, Receipt,3979,11/08/2010,,100000,rv259297 Dr Hayte refund of loan for the month of July2010,
+102102,19, Payment - GL,5591,12/08/2010,50000,,Christolumba Athanasio - nauli ,None
+102102,19, Payment - GL,5592,12/08/2010,50000,,Monica Zacharia - nauli ,None
+102102,19, Payment - GL,5630,20/08/2010,730000,,Pendael Gabriel - safari ya DSM(exchange program,None
+102102,19, Journal - GL,662,20/08/2010,,730000,Reclasification of Exchange program-Pendael,
+102102,19, Receipt,4078,26/08/2010,,50000,Monica Zakaria 29330Rv,None
+102102,19, Receipt,4079,26/08/2010,,50000,Kristolumba Athanasio 29331Rv,None
+102102,19, Payment - GL,5684,30/08/2010,300000,,Bernael Nagui - exp.,None
+102102,19, Journal - GL,687,30/08/2010,,300000,Bernard Nagui - Personal expense booked as tuition fee partly,
+102102,19, Receipt,4128,31/08/2010,,100000,Prisca Ongombe-Return loan 29766Rv,None
+102102, 19, Period Total,,,,199999.999959
+102102,20, Payment - GL,5940,27/09/2010,40000000,,Haydom Four Corners Cultural ,None
+102102,20, Receipt,4972,27/09/2010,,40000000,Reverse incorrect booking,
+102102,20, Receipt,5170,28/09/2010,,40000000,Correct misposting cultural project,
+102102,20, Payment - GL,7010,28/09/2010,40000000,,Correct double booking cultural project,None
+102102, 20, Period Total,,,0
+102102,21, Receipt,4224,06/10/2010,,8686682,Being correction of pv 59752 ,
+102102, 21, Period Total,,,,8686682
+102102,22, Receipt,4693,09/11/2010,,150000,Catherine Mboya - Loan &amp; vegetable debt,Haydom School of Nursing
+102102,22, Receipt,4699,09/11/2010,,100000,Michael Getabang - return of field loan ,Haydom School of Nursing
+102102,22, Payment - GL,6602,15/11/2010,200000,,John Olal &amp; Benjamin Koril - substince allowance,None
+102102,22, Journal - GL,682,15/11/2010,,200000,John Olal &amp; Benjamin Koril- Advance salary,
+102102,22, Payment - GL,6771,18/11/2010,859440,,Juma A. Igogo - Loan for intel ,None
+102102,22, Payment - GL,6773,18/11/2010,859440,,Dr. Alphonce Kelemani - Loan for intel,None
+102102,22, Journal - GL,653,18/11/2010,,1718880,Coreection Je 650/2010 doumble posting ,
+102102,22, Journal - GL,554,30/11/2010,,550000,Reclassify borrowed money Hayte, clear HLH other receivables acc.  	,
+102102,22, Journal - GL,577,30/11/2010,,100000,HLH payroll Nov.2010,
+102102,22, Journal - GL,577,30/11/2010,,500000,HLH payroll Nov.2010,
+102102,22, Journal - GL,681,30/11/2010,,100000,Reclasification of HLH other receivables as short loan,
+102102, 22, Period Total,,,,1500000
+102102,23, Payment - GL,7662,03/12/2010,700000,,Dr. Isack Malleyeck - Purchase of medicine,None
+102102,23, Payment - GL,6903,06/12/2010,1980000,,M.Ouma - adv.payment of NOK.9000,None
+102102,23, Payment - GL,6904,06/12/2010,472000,,M.Ouma - adv.payment of NOK.9000,None
+102102,23, Payment - GL,6905,06/12/2010,600000,,Leah Marthin - adv. payment,None
+102102,23, Payment - GL,6935,08/12/2010,84479.9,,M.Kadioli - safari ya USA,None
+102102,23, Receipt,5402,08/12/2010,,2064479.9,Millicent Kadioli -NOK.9000 rv.260173,None
+102102,23, Receipt,5409,08/12/2010,,452981.24,Millicent K.Ouma - $320 rv.260174,None
+102102,23, Journal - GL,539,10/12/2010,,20096910,Clear off receivables older than one year,
+102102,23, Payment - GL,7028,22/12/2010,21738986.4,,NSSF Payables Nov.2010,None
+102102,23, Journal - GL,638,22/12/2010,,21738986.4,Correction of pension scheme wrongly booked,
+102102,23, Journal - GL,589,31/12/2010,,600000,Loan Stundets Safari ya Dodoma ,
+102102,23, Journal - GL,629,31/12/2010,,63000,Dr Isaack Malleyeck seepv 61421/2010 Purchasing Madicine,
+102102,23, Journal - GL,650,31/12/2010,13479360,,Intern Doctors Posho Wizara ya Afya na Ustawi wa Jamii Oct. Dec.2010,
+102102,23, Journal - GL,651,31/12/2010,,11639033,Reclasification of cleared receivables,
+102102,23, Journal - GL,652,31/12/2010,,7845000,Correction of  posted wrongly seeGL 3301+3323/2010,
+102102, 23, Period Total,,,,25445564.24
+102102,24, Payment - GL,7267,07/01/2011,2300000,,HSN Students Dodoma safari allowance and other exp,Haydom School of Nursing
+102102,24, Receipt,6961,14/01/2011,,39500,Selina Sanka-imp rest receivable see pv 61925,None
+102102,24, Payment - GL,7681,31/01/2011,859440,,Dr.Fatuma Siha - (intership Doctor) allowance Jan.,None
+102102, 24, Period Total,,,3119940
+102102,25, Payment - GL,7696,02/02/2011,886800,,Dr.Yuda Mnyawu - salary Jan.2011,None
+102102,25, Payment - GL,7699,03/02/2011,859440,,M.Paschal - (intership doctor) salary Jan.2011,None
+102102,25, Payment - GL,7716,04/02/2011,374800,,Perpetua Kalimasi - transport refund (to be refund,None
+102102,25, Payment - GL,7726,04/02/2011,859440,,Kelemani Alphonce -(intership doctor) salary Jan.2,None
+102102,25, Payment - GL,7736,07/02/2011,859440,,Dr.Juma A.Igogo - (internship doctor)  salary Jan.,None
+102102,25, Payment - GL,7791,14/02/2011,724000,,Sissel Ledang - loan from HLH ,None
+102102,25, Journal - GL,989,15/02/2011,,724000,Wrong posting GL5815 /2011 Sasiel Jedan retund loan,
+102102,25, Payment - GL,7965,24/02/2011,2000000,,KKKT Mbulu Diocese - Loan for Bshop treatment expe,None
+102102,25, Journal - GL,637,28/02/2011,,21738986.4,Correction of pension scheme wrongly booked ,
+102102,25, Journal - GL,639,28/02/2011,21738986.4,,Correction of 2010 wrongly booked to 2011,
+102102,25, Payment - GL,7995,28/02/2011,6384960,,Intenship Docters - Allowance for feb. 2011,None
+102102,25, Journal - GL,733,28/02/2011,2428000,,Reclassification of Pepfar receivable, pv 62461,
+102102, 25, Period Total,,,14652880
+102102,26, Receipt,5913,01/03/2011,,4000000,Haydom Police station - Clearing of receivables,None
+102102,26, Payment - GL,8036,04/03/2011,886800,,Dr. Yuda Mnyawu - Salary for feb.2011- Receivable,None
+102102,26, Payment - GL,8079,08/03/2011,432162281.346,,Dr. Olav Espegren - loan,None
+102102,26, Payment - GL,8087,08/03/2011,,432162281.346,Dr. Olav Espegren - loan - correction of wrong pos,None
+102102,26, Payment - GL,8088,08/03/2011,293987.946494,,Dr. Olav Espegren - loan,None
+102102,26, Receipt,6102,17/03/2011,,637000,Dr. Isaack Malleyeck - amerudisha hesabu pv61421,
+102102,26, Journal - GL,734,24/03/2011,2121000,,Reclassification of Pepfar receivable, pv 62665,
+102102,26, Payment - GL,8263,25/03/2011,6384960,,Intenship Doctors - Salary for march. 2011,None
+102102,26, Journal - GL,730,25/03/2011,7350000,,District Executive Director, Hanang District, use of excavator,
+102102,26, Receipt,6222,31/03/2011,,13479360,MOH - Salary for Interns Doctors for 2010,
+102102,26, Receipt,6222,31/03/2011,,6384960,MOH - Salary for Interns Doctors for Jan. 2011,
+102102, 26, Period Total,,,,7464572.05351
+102102,27, Payment - GL,8252,04/04/2011,709440,,Vickfarajaeli Z.Daudi - Interns Doctor allowance,None
+102102,27, Payment - GL,8532,18/04/2011,297252.229392,,Barikiel Herson Safari ya Norway Receiveble VIVAT,None
+102102,27, Payment - GL,8528,19/04/2011,7094400,,Interns Doctors - Posho for April 2011,None
+102102,27, Payment - GL,8534,20/04/2011,10000,,PEPTER receivable,HAPO Department
+102102,27, Payment - GL,8623,20/04/2011,,10000,Corection wrong booking for PEPFAR receivable,None
+102102,27, Payment - GL,8624,20/04/2011,100000,,Receivable for PEPFAR,Water Project ( Basonyangwe)
+102102,27, Journal - GL,722,30/04/2011,180000,,Barikiel Herson Safari ya Norway Receiveble VIVAT reclasifying,
+102102,27, Journal - GL,722,30/04/2011,886800,,Dr. Yuda Mnyawu - loan paid as salary reclasified,
+102102, 27, Period Total,,,9267892.22939
+102102,28, Payment - GL,8586,03/05/2011,100000,,Receivable for PEPFAR,HAPO Department
+102102,28, Journal - GL,744,04/05/2011,2883000,,Pepfar: Payment of CHBC for patient visit April 2011,
+102102,28, Payment - GL,8656,10/05/2011,1000000,,4CCP- recevables,Four Corners Cultural Programm
+102102,28, Payment - GL,8662,16/05/2011,886800,,Dr. Mnyaw-salary for April 2011,None
+102102,28, Receipt,6660,16/05/2011,,6000,yeremia Lohay-imprest recevable pv63151,None
+102102,28, Receipt,6711,19/05/2011,,742500,Payment for flying ticket for 4ccp-rv270266,None
+102102,28, Receipt,6769,19/05/2011,742500,,Flying ticket for 4CCP corrected for wrong booking,Four Corners Cultural Programm
+102102,28, Payment - GL,8716,20/05/2011,600000,,Dr. Olav Espegren-recevable,None
+102102,28, Journal - GL,830,20/05/2011,,600000,Dr Olav Espegren part for Salary not receivable seeGL 8716,
+102102,28, Payment - GL,8728,24/05/2011,7094400,,Interns Doctors - Posho for April 2011,None
+102102,28, Payment - GL,8729,24/05/2011,1500000,,Interns Doctors - allowance May 2011,None
+102102,28, Receipt,8106,24/05/2011,,2000000,Julias-direct deposit rv 268439,None
+102102,28, Payment - GL,9972,24/05/2011,2000000,,Correction for wrong posting rv268439/2011,
+102102,28, Receipt,6909,25/05/2011,,50000,Dicla Paulo-malipo ya scraper rv270796,Sales of scrappers
+102102, 28, Period Total,,,13408200
+102102,29, Receipt,6917,02/06/2011,,1500,Guest House receivable rv271097,Guest House 
+102102,29, Payment - GL,8818,06/06/2011,638000,,Paid to Ezra-for recruiting137patients pv63343,None
+102102,29, Payment - GL,8825,08/06/2011,2879000,,Payment for patient visit- CHBC pv 63353,HAPO Department
+102102,29, Payment - GL,8834,08/06/2011,2879000,,Delvine Mushi payment of CHBC for patient visit pv,HAPO Department
+102102,29, Payment - GL,8856,08/06/2011,2879000,,Delvine Mushi payment of CHBC for patient visit pv,HAPO Department
+102102,29, Payment - GL,8868,08/06/2011,,5758000,Delvine Mushi payment of CHBC-correction,HAPO Department
+102102,29, Payment - GL,8831,09/06/2011,164000,,Mary Peter Driver allowanses for May 2011 pv63364,None
+102102,29, Receipt,7903,10/06/2011,,20575760,Salaries for Intern Doctors-rv 0234,None
+102102,29, Receipt,6937,14/06/2011,,39500,Selina Sanka receivable for PV 61925,None
+102102,29, Receipt,6962,14/06/2011,39500,,Selina Sanka-receivable rv265433 correction,None
+102102,29, Payment - GL,8852,15/06/2011,100000,,Mama Mushi - Patient support during appointment pv,HAPO Department
+102102,29, Payment - GL,8883,23/06/2011,1000000,,Marry Dakay-petty cash for MAL-ED pv63428,MAL- ED. project
+102102,29, Payment - GL,8983,27/06/2011,160000,,Dr Cosma - temporary loan for intern doctors pv634,
+102102,29, Receipt,7904,28/06/2011,,38226200,MOH -salary for Intern Doctors rv 0235,None
+102102,29, Journal - GL,809,28/06/2011,38226200,,MOH  Staff Grant for june 2011 rv0235,None
+102102,29, Receipt,7952,28/06/2011,38226200,,MOH- Staff Grant  rv 00235,None
+102102, 29, Period Total,,,22589940
+102102,30, Payment - GL,9001,11/07/2011,645064.506451,,Jean Gratz - reinbursement for MAL-Ed project pv63,MAL- ED. project
+102102,30, Payment - GL,9033,18/07/2011,180018.0018,,Mr. Edward Laizer loan pv63613,
+102102,30, Payment - GL,9036,18/07/2011,400000,,Dr Olav/Yekonia Deles  - short term loan for his c,
+102102,30, Receipt,7449,20/07/2011,,4000,Yekonia Deles - amerudisha hesabu rv273317,
+102102,30, Receipt,7452,20/07/2011,,60000,Yekonia Deles - amerudisha hesabu rv273320,
+102102,30, Payment - GL,9050,20/07/2011,886800,,Dr. Yuda Mnyaw - salary for June 2011 pv63642,None
+102102,30, Payment - GL,9518,23/07/2011,15708000,,Salary refund from MAL-ED rv 268423,None
+102102,30, Receipt,7496,25/07/2011,,160000,INTERN DOCTORS rv273345,
+102102,30, Payment - GL,9081,25/07/2011,500000,,Dr. Erik Dillernd pv63681,
+102102,30, Payment - GL,9082,25/07/2011,7094400,,Interns Doctors - Posho for July 2011 pv63682,
+102102,30, Receipt,7877,25/07/2011,,501400.560224,Erik Dillerud Payment of loan Rv0448,None
+102102,30, Receipt,7488,26/07/2011,,55000,Paskalina Bayo-hesabu ya pv63429-rv272999,None
+102102,30, Receipt,7499,26/07/2011,,7539.6,Vocational Training Center rv273348,
+102102,30, Payment - GL,9519,27/07/2011,,15708000,Salary refund from MAL-ED rv 268423 correction,None
+102102,30, Receipt,7989,27/07/2011,,15708000,Salary refund from MAL-ED,None
+102102, 30, Period Total,,,,6789657.65197
+102102,31, Receipt,8126,08/08/2011,,1560000,James Gitonge-direct deposit to HLH A/C rv268424,None
+102102,31, Payment - GL,9707,10/08/2011,,3480000,Order for HSN food correction,None
+102102,31, Journal - GL,895,10/08/2011,3480000,,Reclasification of wrong booking,
+102102,31, Receipt,8031,25/08/2011,,6732159,PEPFAR-salary reimbursement rv268437,HAPO Department
+102102,31, Payment - GL,9360,26/08/2011,7094400,,Interns Doctors - Posho for August 2011 pv63957,None
+102102,31, Receipt,8074,29/08/2011,,3787493,HBB - refund of July salary rv274940,HBB Research Project
+102102,31, Receipt,8076,29/08/2011,,2172896,4ccp- reinbursement of salary - July2011 rv274941,Four Corners Cultural Programm
+102102, 31, Period Total,,,,7158148
+102102,32, Receipt,8332,05/09/2011,,21283200,MOH Salaries for Intern Doctors Rv0239,None
+102102,32, Payment - GL,9425,06/09/2011,169928,,Geje Gilba - wage for July-August  HSN receiveble ,None
+102102,32, Journal - GL,990,09/09/2011,1134400,,Intern Doctors-mapunjo ya posho JUly and August pv,
+102102,32, Receipt,7882,14/09/2011,,140000,Haydom Sec School - receivable for 2010 rv275305,HLH Bowser
+102102,32, Receipt,7882,14/09/2011,,60000,Haydom Sec School - receivable for 2010 rv275305,T 655 ATT
+102102,32, Payment - GL,9551,15/09/2011,300000,,Michael John - loan from Dr Olav pv64150,None
+102102,32, Payment - GL,9593,16/09/2011,400000,,Bertel and Marianne - Loan from HLH pv64165,None
+102102,32, Payment - GL,9634,21/09/2011,7661600,,Interns Doctors - Posho for Sept 2011 pv64205,None
+102102,32, Payment - GL,9754,27/09/2011,300000,,Mshindieli Zakaria -Advance salary for  Sept.2011 ,None
+102102,32, Journal - GL,817,27/09/2011,20000,,Mauzo ya kuni toka HLH Garden kwenda HSN ,
+102102,32, Receipt,8664,27/09/2011,,150000000,HLH receivable from HLH Farm &amp; Dev Ltd rv 277804,None
+102102,32, Receipt,8134,28/09/2011,,400000,Marianne and Bertel - loan repayment rv2755777,None
+102102,32, Journal - GL,840,30/09/2011,,850000,Mkopo wa wanafunzi waliokwenda Dodoma imerudishwa pv64458/2011,
+102102,32, Journal - GL,908,30/09/2011,150000000,,Correction of amount received from Mulbadaw farm,None
+102102,32, Journal - GL,908,30/09/2011,,7350000,Use of HLH Excavator (Hanang District),None
+102102, 32, Period Total,,,,20097272
+102102,33, Payment - GL,9919,13/10/2011,5363120,,Intern Doctor - salary for Oct 2011 pv.64475,None
+102102,33, Payment - GL,9990,19/10/2011,50000,,Marko Elias-advance salary for October 2011 pv 645,None
+102102,33, Payment - GL,10130,26/10/2011,8427760,,Intern doctors - Oct. 2011 1llowance, 64676pv,None
+102102,33, Payment - GL,10149,28/10/2011,2500000,,Delvina Mushi - Short term loan, (PEPFAR)  64701pv,None
+102102,33, Journal - GL,919,31/10/2011,,600000,Dodoma Loan receivable from HSN students Oct.2011,
+102102, 33, Period Total,,,15740880
+102102,34, Receipt,8440,07/11/2011,,2500000,pepfar mkopo wa muda mfupi cash kwa Cheque268445,
+102102,34, Payment - GL,10275,14/11/2011,600000,,Emanuel Mighay - allowance ya chanjo ya kitaifa pv,None
+102102,34, Journal - GL,1039,18/11/2011,,200000,Ibrahimu Amma - Refund of HSN Dodoma Loan, Ref. Pv64882,None
+102102,34, Payment - GL,10481,23/11/2011,8427760,,Intern Doctors - Nov. 2011, Allowances, pv64978,None
+102102,34, Payment - GL,10462,30/11/2011,3064640,,Intern Doctors - Nov. 2011, Allowances, pv66048,None
+102102,34, Journal - GL,914,30/11/2011,3600000,,Daudi Lotto receivable for Salary PV64411/64856/64885/66022/2011,
+102102,34, Journal - GL,1005,30/11/2011,300000,,Dr Joram M Theobald Adv Salary Dec.2011,
+102102,34, Journal - GL,1038,30/11/2011,,300000,Daily wages  Dodoma Loan salary for Nov part of payments pv64980/2011,
+102102, 34, Period Total,,,12992400
+102102,35, Receipt,9029,02/12/2011,,150000,Joseph Johanson-refund Dodoma Loan,None
+102102,35, Payment - GL,10600,13/12/2011,270000,,Victoria Bayda - Cash Deposited to HLH A/c Dec. 20,None
+102102,35, Payment - GL,10642,17/12/2011,9193920,,Intern Doctores - Salary for Dec. 2011, pv65174,None
+102102,35, Payment - GL,10644,19/12/2011,766160,,Paschal Medadi - Intern doctor salary, Dec, 2011,,None
+102102,35, Payment - GL,10649,20/12/2011,1800000,,Dr. Joshua Gideon - Loan from HLH, Nov &amp; Dec. 2011,None
+102102,35, Journal - GL,915,21/12/2011,2082400,,Dr Sadikiel Kaay - Recevable for Salary Agust-Nov.2011,
+102102,35, Payment - GL,10662,21/12/2011,520600,,Dr. Sadikiel Kaay - Part of salary as Loan from HL,None
+102102,35, Payment - GL,10663,21/12/2011,900000,,Dr Daudi Lotto - Dec. 2011 Loan, Pv65201,None
+102102,35, Receipt,9071,30/12/2011,,9316644,4CCP-refund for receivable-rv279562,None
+102102,35, Journal - GL,1007,31/12/2011,2000000,,Haydom shule ya ufundi - Receivable pv65258,
+102102, 35, Period Total,,,8066436
+102102,35, Balance C/Fwd,,,197313418.207

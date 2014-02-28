@@ -1,0 +1,48 @@
+203059 - 0 for period 36 to 47
+203059, 36, Brought Forward Balance,,,76144.1500000004
+203059,36, Journal - GL,1164,31/01/2012,,3406581.4,Tughe  National 97% Jan 2012,
+203059, 36, Period Total,,,,3406581.4
+203059,37, Payment - GL,11690,18/02/2012,3406581.4,,TUGHE - Deduction for Febr. 2012, pv66308,None
+203059,37, Journal - GL,1194,29/02/2012,,3425838.5,HLH Tughe contribution 97% Febr.2012,
+203059, 37, Period Total,,,,19257.1
+203059,38, Journal - GL,1212,31/03/2012,,3415643.6,Tughe National %97 March 2012,
+203059, 38, Period Total,,,,3415643.6
+203059,39, Payment - GL,12152,04/04/2012,3425838.45,,TUGHE &amp; HLH Branch - Deduction Febr. 2012, pv66765,None
+203059,39, Journal - GL,1262,30/04/2012,,3377529.55,Tughe National %97 April  2012,
+203059, 39, Period Total,,,48308.9
+203059,40, Payment - GL,13164,17/05/2012,3419435.85,,Tughe Contribution March 2012 pv 67912,None
+203059,40, Payment - GL,13165,17/05/2012,3377529.52,,Tughe Contribution April2012 pv 67913,None
+203059,40, Journal - GL,1290,31/05/2012,,3369332.83,Tughe National %97 May 2012,
+203059, 40, Period Total,,,3427632.54
+203059,41, Payment - GL,13266,11/06/2012,3369333.02,,Tughe Contribution May 2012 pv 67910,None
+203059,41, Payment - GL,13548,27/06/2012,3341468.8,,Tughe Contribution June 2012 pv 68207,None
+203059,41, Journal - GL,1308,30/06/2012,,3341468.8,Tughe National for June 2012,
+203059, 41, Period Total,,,3369333.02
+203059,42, Journal - GL,1345,31/07/2012,,3312587.63,Tughe National %97 July   2012,
+203059, 42, Period Total,,,,3312587.63
+203059,43, Payment - GL,14031,03/08/2012,3312587.65,,Tughe - July 2012 contribution, Pv68718,None
+203059,43, Journal - GL,1379,31/08/2012,,3323791.14,Tughe National %97 Aug.   2012,
+203059, 43, Period Total,,,,11203.49
+203059,44, Journal - GL,1399,30/09/2012,,3932479.4,Tughe National %97 Sept. 2012,
+203059,44, Journal - GL,1820,30/09/2012,,393400,Correction for amount booked in wrong A/C,
+203059, 44, Period Total,,,,4325879.4
+203059,45, Payment - GL,15426,24/10/2012,3973020.35,,Tughe-contribution for Sept 2012 pv 70225,None
+203059,45, Payment - GL,15452,29/10/2012,393400,,Tughe-matumizi-kutembelea vituo vya afya  pv 70260,None
+203059,45, Journal - GL,1424,29/10/2012,,393400,Correction for wrong A/C,
+203059,45, Journal - GL,1798,29/10/2012,393400,,Corr for journal No 1424 booked twice 29/10 and 30/09,
+203059,45, Journal - GL,1435,31/10/2012,,3792358.58,Tughe National %95 Oct. 2012,
+203059,45, Payment - GL,15946,31/10/2012,3323791.15,,Tughe-contribution for the month of August pv 7078,
+203059, 45, Period Total,,,3897852.92
+203059,46, Payment - GL,15551,08/11/2012,3323791.15,,Tughe-contribution for the month of August pv 7037,None
+203059,46, Payment - GL,16017,08/11/2012,,3323791.15,Tughe-contribution for the month of August pv 7037,
+203059,46, Payment - GL,16020,14/11/2012,3792358.6,,Tughe-contribution for the month of October 2012  ,
+203059,46, Payment - GL,16441,14/11/2012,,0.1,Tughe-contribution for the month of Nov corr for a,
+203059,46, Journal - GL,1683,30/11/2012,,3783242.38,Tughe National %95 Nov. 2012,
+203059, 46, Period Total,,,9116.1200000001
+203059,47, Journal - GL,1730,13/12/2012,,11300,Tughe-contribution from Beatrice salary Nov 2012,
+203059,47, Payment - GL,16169,18/12/2012,3783242.4,,Tughe-contribution for the month of Nov  pv 71007,
+203059,47, Journal - GL,1757,21/12/2012,,10700,Tughe-contribution from Alicia Laurent ,
+203059,47, Payment - GL,16256,28/12/2012,4491265.95,,Tughe-contribution for HLH  Month of Nov  pv 71114,
+203059,47, Journal - GL,1813,31/12/2012,,4491265.98,Tughe taifa 95%,
+203059, 47, Period Total,,,3761242.37
+203059,47, Balance C/Fwd,,,98477.400000001

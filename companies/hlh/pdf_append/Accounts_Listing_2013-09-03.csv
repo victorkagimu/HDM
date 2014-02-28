@@ -1,0 +1,39 @@
+203007 - 0 for period 48 to 55
+203007, 48, Brought Forward Balance,,,,77080900.38
+203007,48, Payment - GL,16305,03/01/2013,58850,,Benadetha Hhayuma - payment for NSSF &amp; TOP UP pv 7,None
+203007,48, Payment - GL,16859,11/01/2013,61078103.4,,NSSF-members &amp; Employer  contribution Dacember 201,
+203007,48, Journal - GL,1861,31/01/2013,,61093414.2,NSSF - Employer and Employee contribution for Jan.2013,
+203007, 48, Period Total,,,43539.199999996
+203007,49, Payment - GL,17091,18/02/2013,61093414.2,,Tiss-HLH employer and employees contribution pv 72,
+203007,49, Journal - GL,1990,28/02/2013,,60774943.6,NSSF Employer and Employee contribution for Febr. 2013,
+203007, 49, Period Total,,,318470.6
+203007,50, Payment - GL,17206,12/03/2013,60774943.6,,NSSF-members &amp; Employer  contribution February  20,
+203007,50, Journal - GL,1896,13/03/2013,,136508,NSSF contribution for Zacharia Dalei pv 72329,
+203007,50, Journal - GL,1898,19/03/2013,,114200,Employee and Employer for Mary Mchaki pv 72388,
+203007,50, Journal - GL,1995,31/03/2013,,60808499.4,NSSF Employer and Employee contribution for March. 2013,
+203007, 50, Period Total,,,,284263.8
+203007,51, Journal - GL,1978,03/04/2013,,130300,Employee and Employer contribution March 2013,
+203007,51, Payment - GL,17649,23/04/2013,61063307.4,,NSSF-members &amp; Employer  contribution March   2013,
+203007,51, Journal - GL,2036,30/04/2013,,54317514.4,NSSF Employer and Employee contribution for April. 2013,
+203007, 51, Period Total,,,6615493
+203007,52, Journal - GL,2055,03/05/2013,,65150,NSSF for Beatice Wanjiku - Payment of Salary pv 72810/2013,None
+203007,52, Journal - GL,2056,03/05/2013,,65150,NSSF for Beatice Wanjiku - Payment of Salary pv 72810/2013,None
+203007,52, Payment - GL,17876,23/05/2013,54447814.4,, HLH-NSSF contribution April 2013 pv 72790,
+203007,52, Journal - GL,2103,31/05/2013,,53976346.8,NSSF - Employer and Employee contribution for May 2013,
+203007, 52, Period Total,,,341167.6
+203007,53, Journal - GL,2099,04/06/2013,,51040,Emersiana Ambrose -NSSF contribution May 2013,
+203007,53, Payment - GL,18222,06/06/2013,23762,,Upendo Phabiano-NSSF refunded pv 73087,
+203007,53, Journal - GL,2119,06/06/2013,3870,,Paye from refund of Upendos NSSF pv 73087,
+203007,53, Payment - GL,18099,18/06/2013,60922175.2,,NSSF-Employer and Employee contribution MAY 2013 p,
+203007,53, Journal - GL,2109,18/06/2013,,6945828.4,Pension contribution NSSF HSN,4CCP and research May 2013 ,
+203007,53, Journal - GL,2118,30/06/2013,,2604196.4,NSSF contribution from Admin. and HSN Staff Employee for June 2013,
+203007,53, Journal - GL,2126,30/06/2013,,54004052,NSSF - Employer and Employee contribution for June 2013,
+203007,53, Journal - GL,2181,30/06/2013,2604196.4,,Correction for JE2118/2013 pension scheme June ,
+203007, 53, Period Total,,,,51113.199999994
+203007,54, Payment - GL,18278,16/07/2013,61130240.4,,NSSF-Employer and Employee contribution June 2013 ,
+203007,54, Journal - GL,2124,16/07/2013,,7126188.4,HSN/HGHI and 4CCP-NSSF contribution June 2013 pv 73276,
+203007,54, Journal - GL,2230,31/07/2013,,53852137.2,NSSF HLH Employer and Employee contribution for July. 2013,
+203007, 54, Period Total,,,151914.8
+203007,55, Payment - GL,18554,22/08/2013,53852137.2,,HGI-NSSF contribution July 2013 pv 73571,
+203007, 55, Period Total,,,53852137.2
+203007,55, Balance C/Fwd,,,,16093554.98

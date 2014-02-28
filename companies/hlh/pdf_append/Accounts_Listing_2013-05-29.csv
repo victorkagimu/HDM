@@ -1,0 +1,43 @@
+203001 - 0 for period 48 to 52
+203001, 48, Brought Forward Balance,,,,11404191.2
+203001,48, Payment - GL,16771,03/01/2013,1026673,,Off pay for Dr.Thomas Tippe pv 71153,
+203001,48, Journal - GL,1817,03/01/2013,285145,,Paye-deduction from Dr.Thomas Tippe 2012 pv 71153,
+203001,48, Journal - GL,1818,11/01/2013,1793999,,Correction for amount booked in wrong A/C,
+203001,48, Payment - GL,16806,30/01/2013,2804304,,Doctor off pay 2012  pv 71181,
+203001,48, Journal - GL,1833,30/01/2013,635914,,Paye from Doctors of pv 71181,
+203001,48, Payment - GL,16807,30/01/2013,1475259,,Doctor off pay 2012 NMB   pv 71182,
+203001,48, Journal - GL,1834,30/01/2013,335286,,Paye-deduction from Doctors  offs pay 2012 pv 71182,
+203001,48, Payment - GL,16847,31/01/2013,175107498,,Salary for Jan 2013 paid through NBC pv 71184,
+203001,48, Payment - GL,16848,31/01/2013,101947070,,Salary for Jan 2013 paid through NMB pv 71185 ,
+203001,48, Journal - GL,1859,31/01/2013,,7874627,Net pay sal ( cash and Bank) wazee employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1861,31/01/2013,,223290368,Net pay sal ( cash and Bank) HLH employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1862,31/01/2013,,56399025,Net pay sal ( cash and Bank) government employees Jan.2013 pv71184/71185/2013,
+203001,48, Payment - GL,17194,31/01/2013,,0.12,Salary for Jan 2013 overstated,
+203001, 48, Period Total,,,,2152872.12
+203001,49, Payment - GL,17739,06/02/2013,15614002,,Salary paid by cash February  2013 pv 725866,
+203001,49, Payment - GL,17135,27/02/2013,185728687.6,,NBC-salary for Feb 2013 pv 72077,
+203001,49, Payment - GL,17136,27/02/2013,110003342.2,,Salary paid through NMB Feb 2013 pv 72078,
+203001,49, Journal - GL,1990,28/02/2013,,236843046,Salary Net pay (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001,49, Journal - GL,1991,28/02/2013,,59252898,Salary Net pay for government staff (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001,49, Journal - GL,1992,28/02/2013,,7859550,Salary Net pay for wazee staff (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001, 49, Period Total,,,7390537.8
+203001,50, Payment - GL,17175,01/03/2013,13328014,,HLH salary paid by cash Feb 2013 pv 72155,
+203001,50, Journal - GL,1993,31/03/2013,,54743723,Salary Net pay for government staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001,50, Journal - GL,1994,31/03/2013,,8391251,Salary Net pay for wazee staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001,50, Journal - GL,1995,31/03/2013,,240110473,Salary Net pay for HLH staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001, 50, Period Total,,,,289917433
+203001,51, Payment - GL,17462,02/04/2013,193394412,,Salary for March 2013 paid through NBC bank   pv 7,
+203001,51, Payment - GL,17463,02/04/2013,93265765,,Salary for March (HLH and Kansay) 2013 paid throug,
+203001,51, Payment - GL,17518,09/04/2013,15790271,,Salary paid by cash March 2013 pv 72567 	,
+203001,51, Payment - GL,17558,12/04/2013,3574510,,Francis Abdalah Kimario-salary March 2013 pv 72529,
+203001,51, Receipt,13589,15/04/2013,,2779511,Dr Francis Kimario amerudisha Salary rv299679/2013,
+203001,51, Payment - GL,17661,25/04/2013,101050566,,HLH,wazee and G/V-salary April 2013 pv 72752,
+203001,51, Payment - GL,17664,25/04/2013,202355104,,HLH staff salary April 2013 pv 72759,
+203001,51, Journal - GL,2035,30/04/2013,,11480363,Salary Net pay for wazee staff (cash and bank) April.2013 Pv. 72759/72752,
+203001,51, Journal - GL,2036,30/04/2013,,244643328,Salary Net pay for HLH staff (cash and bank) April.2013 Pv. 72752/72759,
+203001,51, Journal - GL,2037,30/04/2013,,57950882,Salary Net pay for HLH government staff (cash and bank) April.2013 Pv. 72752/72759,
+203001,51, Payment - GL,17846,30/04/2013,10668903,,HLH salary cash april 2013,
+203001, 51, Period Total,,,303245447
+203001,52, Receipt,13816,03/05/2013,,150000,Basic salary - cash payment over drawn rv300086,None
+203001, 52, Period Total,,,,150000
+203001,52, Balance C/Fwd,,,7011488.48

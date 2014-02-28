@@ -1,0 +1,120 @@
+203001 - 0 for period 36 to 48
+203001, 36, Brought Forward Balance,,,0
+203001,36, Journal - GL,1164,31/01/2012,,170712041,Net pay salary (cash and bank) Jan.2012 pv65834&amp;65835 ,
+203001,36, Journal - GL,1165,31/01/2012,,6544350,Net pay salary for Wazee (cash and bank) Jan.2012 pv65834 &amp; 65835,
+203001,36, Journal - GL,1166,31/01/2012,,52980331,Net pay salary ( cash and Bank) fro Government employees Jan.2012 pv65834 &amp; 65835,
+203001,36, Journal - GL,1198,31/01/2012,62977193,,Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203001,36, Journal - GL,1200,31/01/2012,167259529,, Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203001, 36, Period Total,,,0
+203001,37, Journal - GL,1187,29/02/2012,,5978850,Net pay salary ( cash and Bank) fro Government employees Febr..2012 pv66423 &amp; 66443,
+203001,37, Journal - GL,1193,29/02/2012,,49425351,Net pay salary ( cash and Bank) from Government employees Febr..2012 pv66423 &amp; 66443,
+203001,37, Journal - GL,1194,29/02/2012,,163460839,Net pay salary ( cash and Bank) HLH employees Febr..2012 pv66423 &amp; 66443,
+203001,37, Journal - GL,1199,29/02/2012,167259529,, Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203001,37, Journal - GL,1201,29/02/2012,,167259529, Being correction of wrong booking to wrong period now corrected,
+203001,37, Journal - GL,1202,29/02/2012,62490228,,Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203001, 37, Period Total,,,,156374812
+203001,38, Journal - GL,1203,02/03/2012,156374812,,  Being correction of wrong booking (Reclasification issue) salary net pay to clear salary payables,
+203001,38, Journal - GL,1212,31/03/2012,,193469982,Net pay salary ( cash and Bank) HLH employees March ..2012 pv66822/66795/66823/12,
+203001,38, Journal - GL,1213,31/03/2012,,55186785,Net pay salary ( cash and Bank) from Government employees Febr..2012 pv66822/66795 &amp; 66823,
+203001,38, Journal - GL,1214,31/03/2012,,7978650,Net pay salary ( cash and Bank) wazee employees March ..2012 pv66822/66795/66823/12,
+203001, 38, Period Total,,,,100260605
+203001,39, Payment - GL,12202,05/04/2012,41434216,,NBC - Part of HLH, G/Mnt &amp; Wazee staff salary, Pv6,None
+203001,39, Journal - GL,1256,09/04/2012,150319879,,Reclasification of wrong salary booking now corrected,
+203001,39, Journal - GL,1257,09/04/2012,64881324,,Reclasification of wrong salary booking now corrected,
+203001,39, Journal - GL,1262,30/04/2012,,174190781,Net pay sal ( cash and Bank) HLH andGover empl April..2012 pv67310&amp; 67385/67390/12,
+203001,39, Journal - GL,1263,30/04/2012,,52881172,Net pay sal ( cash and Bank) HLH andGover empl April..2012 pv67310&amp; 67385/67390/12,
+203001,39, Journal - GL,1264,30/04/2012,,7685950,Net pay sal ( cash and Bank) wazee employees April..2012 pv67310/67385/67390/12,
+203001, 39, Period Total,,,21877516
+203001,40, Payment - GL,13026,08/05/2012,112109588,,HLH salary ,None
+203001,40, Payment - GL,13026,08/05/2012,3410703,,Salary KLHC,None
+203001,40, Payment - GL,12993,14/05/2012,27279591,,Salary HLH ,None
+203001,40, Payment - GL,12997,14/05/2012,95568524,,April salary paid through NBC pv 67390,None
+203001,40, Payment - GL,13136,31/05/2012,10628239,,HLH staffs Cash payment  May 2012 pv 67798,None
+203001,40, Payment - GL,13137,31/05/2012,115953253,,HLH staffs-Salary paid throug NBC  May 2012 pv 677,None
+203001,40, Payment - GL,13138,31/05/2012,100490664,,HLH staffs-Salary paid throug NMB  May 2012 pv 678,None
+203001,40, Payment - GL,13155,31/05/2012,,1,Corr.for overstatement for salary may 2012-see b/s,None
+203001,40, Journal - GL,1290,31/05/2012,,164539416,Net pay salary ( cash and Bank) HLH employees May ..2012 pv67798/67800/2012,
+203001,40, Journal - GL,1291,31/05/2012,,52320837,Net pay salary ( cash and Bank) for Government employees May 2012 pv67798/67800,
+203001,40, Journal - GL,1292,31/05/2012,,6801200,Net pay salary ( cash and Bank) wazee employees May ..2012 pv 67798 &amp; 67800,
+203001, 40, Period Total,,,241779108
+203001,41, Payment - GL,13533,26/06/2012,99709359,,NMB Bank-salary for June 2012 pv 68182,None
+203001,41, Journal - GL,1303,30/06/2012,,50873694,Net pay salary (cash &amp; Bank for June 2012,
+203001,41, Journal - GL,1304,30/06/2012,,7873750,Net pay salary (cash &amp; bank )for June 2012,
+203001,41, Journal - GL,1308,30/06/2012,,161112325,Net pay salary (cash &amp; bank ) pv 68182&amp;68281&amp;68282 for June 2012,
+203001,41, Payment - GL,13927,30/06/2012,121285058.8,,Salary paid through NBC June 2012 pv 68640,None
+203001, 41, Period Total,,,1134648.8
+203001,42, Payment - GL,13619,06/07/2012,121285059,,NBC-salary for  for June 2012 pv 68281,None
+203001,42, Payment - GL,14436,06/07/2012,,121285059,Corr for Salary for June changed from chq to tiss ,None
+203001,42, Payment - GL,13711,16/07/2012,200000,,Selina Girgis-rambirambi ya kufiwa na dada yake pv,None
+203001,42, Payment - GL,13993,31/07/2012,92590773,,Salary paid through NMB July 2012 pv 68675,None
+203001,42, Payment - GL,14009,31/07/2012,1989290,,Salary paid by cash July 2012 pv 68695,None
+203001,42, Journal - GL,1338,31/07/2012,,200000,Selina Girgis-rambirambi ya kufiwa na dada yake pv68398,
+203001,42, Journal - GL,1343,31/07/2012,,7049150,Net pay salary (cash &amp; bank ) pv &amp; &amp; for July 2012,
+203001,42, Journal - GL,1344,31/07/2012,,51091588,Net pay sal ( cash and Bank) HLH andGover empl July  pv68750&amp; 68695/68675/12,
+203001,42, Journal - GL,1345,31/07/2012,,150740466,Net pay salary ( cash and Bank) HLH employees July pv668750/66895/68675/12,
+203001,42, Payment - GL,14441,31/07/2012,118657148,,Tiss-salary for July 2012 paid through NBC pv pv68,None
+203001, 42, Period Total,,,4356007
+203001,43, Payment - GL,14513,30/08/2012,120142529,,Salary for August paid through NBC pv 69189,None
+203001,43, Payment - GL,14517,31/08/2012,103664570,,Salary for August paid through NMB pv 69193,None
+203001,43, Journal - GL,1378,31/08/2012,,58875138,Net pay salary ( cash and Bank) from Government employees Aug.2012 pv69189/69193 &amp; 69236,
+203001,43, Journal - GL,1379,31/08/2012,,157894265,Net pay salary ( cash and Bank) HLH employees Aug. pv69189/69193/69236/2012,
+203001,43, Journal - GL,1433,31/08/2012,,7465750,Net pay sal ( cash and Bank) wazee employees Aug.2012 pv691890/69193/669236/12,
+203001, 43, Period Total,,,,428054
+203001,44, Payment - GL,14476,04/09/2012,4784049,,Salary paid by cash August  2012 pv 69236,None
+203001,44, Journal - GL,1399,30/09/2012,,187397460,Net pay sal ( cash and Bank) HLH andGover empl Sept.2012 pv69542/69464/70217/12,
+203001,44, Journal - GL,1401,30/09/2012,,53500480,Net pay sal ( cash and Bank) HLH andGover empl Sept.pv69542/69464/70217/12,
+203001,44, Journal - GL,1402,30/09/2012,,9850870,Net pay sal ( cash and Bank) wazee employees Sept.pv69542/69464/70217/2012,
+203001,44, Journal - GL,1403,30/09/2012,,3592080,HSN - staff Back pay HLH paid on behaf sept 2012,
+203001,44, Journal - GL,1404,30/09/2012,,521840,Back pay payments Sept. 2012,
+203001,44, Journal - GL,1405,30/09/2012,,1006060,Back pay Salary /Allowance payments  to staff guest house Sept. 2012,
+203001,44, Journal - GL,1406,30/09/2012,,72600,Back pay Salary /Allowance payments  to staff Garden Sept. 2012,
+203001,44, Journal - GL,1407,30/09/2012,,5583600,Back pay Salary /Allowance payments  to staff Garage Sept. 2012,
+203001,44, Journal - GL,1408,30/09/2012,,876540,Back pay Salary /Allowance payments to staff on behaif of 4CCPSept. 2012,
+203001,44, Journal - GL,1409,30/09/2012,,5203820,Back pay Salary /Allowance payments  to staff on behaif of Reseach Sept. 2012,
+203001,44, Journal - GL,1411,30/09/2012,,70333259,Back pay Salary &amp; Allowances for Medical Departments&amp;Adimin. staff Sept. 2012,
+203001, 44, Period Total,,,,333154560
+203001,45, Payment - GL,15125,08/10/2012,146605395,,NMB bank-salary &amp; Back pay July and August 2012 pv,None
+203001,45, Payment - GL,15343,08/10/2012,193482383,,NBC  bank-salary for Sept &amp; Back pay July and Augu,None
+203001,45, Payment - GL,15228,11/10/2012,5571997,,hlh salary paid through cash sept 2012 pv 69542,None
+203001,45, Payment - GL,15344,15/10/2012,190200,,Dr.Medard Paschal-nssf iliyokosewa pv 69579,None
+203001,45, Journal - GL,1851,15/10/2012,,190200,Correction of wrong booking of GL 15344 NSSF for Medard Pascal 2012,
+203001,45, Journal - GL,1434,31/10/2012,,7638371,Net pay sal ( cash and Bank) wazee employees Oct.2012 pv70319/70321/70327/12,
+203001,45, Journal - GL,1435,31/10/2012,,205294019,Net pay sal ( cash and Bank) HLH employees Oct.2012 pv70319/70321/70327/12,
+203001,45, Journal - GL,1553,31/10/2012,,56702660,Net pay salary ( cash and Bank) for Government employees Oct. 2012 pv70319/70321/70327,
+203001, 45, Period Total,,,76024725
+203001,46, Payment - GL,15503,02/11/2012,114895507,,NMB-salary for October 2012  pv 70319,None
+203001,46, Payment - GL,15505,02/11/2012,149934181,,Salary Paid through NBC bank October 2012 pv 70321,
+203001,46, Payment - GL,15517,05/11/2012,9932512,,Salary for October paid by cash pv 70327,
+203001,46, Payment - GL,15993,30/11/2012,158216876,,Salary for Nov  paid by NBC bank pv 70837,
+203001,46, Payment - GL,15994,30/11/2012,112313876,,Salary for Nov  paid by NMB bank pv 70838,
+203001,46, Journal - GL,1676,30/11/2012,,58238339,Net pay salary ( cash and Bank) for Government employees Nov. 2012 pv70837/70838,
+203001,46, Journal - GL,1682,30/11/2012,,8130220,Net pay sal ( cash and Bank) wazee employees Nov.2012 pv70837/70838,
+203001,46, Journal - GL,1683,30/11/2012,,224768880,Net pay sal ( cash and Bank) HLH employees Nov.2012 pv70837/70838,
+203001,46, Payment - GL,16853,30/11/2012,,7,Salary for Nov 2012 overstated ,
+203001, 46, Period Total,,,254155506
+203001,47, Payment - GL,16201,20/12/2012,25131420,,HLH salary for December 2012 pv 71055,
+203001,47, Payment - GL,16202,21/12/2012,131176777,,Salary-paid through NMB December 2012 pv 71056,
+203001,47, Payment - GL,16203,21/12/2012,201394044,,Salary-paid through NBC December 2012 pv 71057,
+203001,47, Payment - GL,16204,21/12/2012,11928754,,Salary for December  paid by cash pv December  pv ,
+203001,47, Journal - GL,1783,31/12/2012,,8356579,Doctors Offs payables  2012 payments 2013,
+203001,47, Journal - GL,1784,31/12/2012,125914,,PAYE Danson Sadera -Basic salary Dec 2012 pv 71256/2013,
+203001,47, Journal - GL,1813,31/12/2012,,268564769,Net pay salary Dec 2012 (cash and bank) pv 71056,71057,71058 ,
+203001,47, Journal - GL,1815,31/12/2012,,9208937,Net pay Salary for wazee - Dec.2012,
+203001,47, Journal - GL,1816,31/12/2012,,60801662,Salary net pay for government staff for dec.2012 pv 71056/7/8,
+203001,47, Journal - GL,1850,31/12/2012,,125914,Correction of wrong booking of Je No.1784 PAYE for Danson Sadera,
+203001,47, Journal - GL,1881,31/12/2012,,42215983,Kansay Health center salary support for April-Dec.2012 wrongly posted,None
+203001, 47, Period Total,,,,19516935
+203001,48, Payment - GL,16771,03/01/2013,1026673,,Off pay for Dr.Thomas Tippe pv 71153,
+203001,48, Journal - GL,1817,03/01/2013,285145,,Paye-deduction from Dr.Thomas Tippe 2012 pv 71153,
+203001,48, Journal - GL,1818,11/01/2013,1793999,,Correction for amount booked in wrong A/C,
+203001,48, Payment - GL,16806,30/01/2013,2804304,,Doctor off pay 2012  pv 71181,
+203001,48, Journal - GL,1833,30/01/2013,635914,,Paye from Doctors of pv 71181,
+203001,48, Payment - GL,16807,30/01/2013,1475259,,Doctor off pay 2012 NMB   pv 71182,
+203001,48, Journal - GL,1834,30/01/2013,335286,,Paye-deduction from Doctors  offs pay 2012 pv 71182,
+203001,48, Payment - GL,16847,31/01/2013,175107498,,Salary for Jan 2013 paid through NBC pv 71184,
+203001,48, Payment - GL,16848,31/01/2013,101947070,,Salary for Jan 2013 paid through NMB pv 71185 ,
+203001,48, Journal - GL,1859,31/01/2013,,7874627,Net pay sal ( cash and Bank) wazee employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1861,31/01/2013,,223290368,Net pay sal ( cash and Bank) HLH employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1862,31/01/2013,,56399025,Net pay sal ( cash and Bank) government employees Jan.2013 pv71184/71185/2013,
+203001, 48, Period Total,,,,2152872
+203001,48, Balance C/Fwd,,,,12560327.2

@@ -1,0 +1,152 @@
+102101 - 0 for period 24 to 35
+102101, 24, Brought Forward Balance,,,28629183.52818
+102101,24, Payment - GL,7180,01/01/2011,2030000,,Huruma Sangali - Dar es salaam safari allowance,None
+102101,24, Journal - GL,597,01/01/2011,,2030000,Clearing of Safari Imprest for Huruma Sangali Pv 61751,
+102101,24, Payment - GL,7218,03/01/2011,2075000,,Barikieli Herson - Arusha safari allowace,None
+102101,24, Payment - GL,7244,05/01/2011,104250,,Vernance Mushi - Overspend for safari imperest 201,None
+102101,24, Journal - GL,593,06/01/2011,,2075000,Barikieli Herson - Clearing of safari imprest pv61768,None
+102101,24, Payment - GL,7269,07/01/2011,694600,,Michael Joel - Dodoma safari allowance &amp; accommoda,Haydom School of Nursing
+102101,24, Journal - GL,897,07/01/2011,,694600,Michael Joel - Retirement of Dodoma Safari, pv61809 &amp; Pv66021,None
+102101,24, Payment - GL,7280,10/01/2011,1305000,,Samwel N. Naman - Arusha safari all. for car T.553,None
+102101,24, Payment - GL,7281,10/01/2011,1632000,,Samwel N. Naman - Arusha safari for drug shoping,None
+102101,24, Payment - GL,7342,13/01/2011,132000,,Yeconia Deles - All safari imperest overspent 2010,None
+102101,24, Payment - GL,7538,18/01/2011,2500000,,Venance Moshi Amma - safari imprest,None
+102101,24, Payment - GL,7542,18/01/2011,880000,,Venance Amma Moshi - imprest,None
+102101,24, Journal - GL,867,18/01/2011,,243800,Venance Moshi - clearance of safari, ref. pv 62055, pv 62059 &amp; Jr. 594,None
+102101,24, Payment - GL,7566,19/01/2011,195000,,Dr.Isaack Malleyeck - safari imprest,None
+102101,24, Journal - GL,861,19/01/2011,,195000,Dr. Isaack Malleyeck - Correction of error on wrong posting.,None
+102101,24, Payment - GL,7573,20/01/2011,280000,,William Shauri - safari ya Arusha,None
+102101,24, Journal - GL,862,21/01/2011,,280000,William Shauri - Retirement of Arusha safari, ref. 62092pv,None
+102101,24, Payment - GL,7488,24/01/2011,167150,,Wiliam Shauri - Arusha imprest (overspent),None
+102101,24, Payment - GL,7528,26/01/2011,435000,,Victor Mussa - safari ya Aruhsa ,None
+102101,24, Payment - GL,7530,26/01/2011,730000,,Fanuel Sappa - safari imprest ya Arusha ,None
+102101,24, Payment - GL,7531,26/01/2011,1597784,,Paskalina Bayo - order,None
+102101,24, Payment - GL,7598,26/01/2011,,1597784,Paskalina Bayo - reverse of entry ref.pv.62146,None
+102101,24, Journal - GL,594,27/01/2011,,3136200,Venance Moshi, clear imprest, pv62059 and 62055,
+102101,24, Payment - GL,7664,27/01/2011,394000,,Huruma Sangali - safari ya DSM ,None
+102101,24, Receipt,5616,27/01/2011,,243800,Venance Moshi clearing safari imprest rv266053,None
+102101,24, Journal - GL,738,27/01/2011,,394000,Reclasification of overspend safari imprest for Huruma Sangali,
+102101,24, Payment - GL,7676,31/01/2011,1155000,,Venance Amma - safari ya Arusha (imprest),None
+102101,24, Journal - GL,723,31/01/2011,,182000,William Shauri, clear imprest, pv62092,
+102101,24, Journal - GL,868,31/01/2011,,1155000,Venance Moshi - clearance of Arusha safari, ref. 62217pv,None
+102101, 24, Period Total,,,4079600
+102101,25, Payment - GL,7710,04/02/2011,52000,,Fanuel Sappa - reimbursement of safari imprest pv.,None
+102101,25, Payment - GL,7729,05/02/2011,3000000,,Venance Amma - safari ya DSM (imprest),None
+102101,25, Journal - GL,869,05/02/2011,,2566000,Venance Moshi - clearance of DSM safari, ref. 62276pv,None
+102101,25, Payment - GL,7752,08/02/2011,1855000,,William Shauri - safari ya Arusha,None
+102101,25, Payment - GL,7794,15/02/2011,1255000,,William Shauri - safari ya Arusha (imprest),None
+102101,25, Journal - GL,611,15/02/2011,,1301000,Venance Moshi, clear imprest, pv62217,
+102101,25, Journal - GL,612,15/02/2011,,2420000,Venance Moshi, clear imprest, pv62276,
+102101,25, Receipt,5813,15/02/2011,,434000,Venance Mushi - Imperest retirement PV62276/62217,None
+102101,25, Payment - GL,7980,25/02/2011,2060000,,Venas Moshi- Safari Imprest DSM,None
+102101,25, Payment - GL,7981,25/02/2011,2150000,,Elihuruma Anania - Safari Imprest DSM,None
+102101,25, Journal - GL,857,25/02/2011,,2150000,Elihuruma Anania - Retirement of DSM Safari, ref. 62434pv,None
+102101, 25, Period Total,,,1501000
+102101,26, Payment - GL,8069,08/03/2011,1620000,,Marco Elia - Imprest for maintenance of catapilar,None
+102101,26, Payment - GL,8121,15/03/2011,566000,,Samweli Naman - safari imprest,None
+102101,26, Receipt,6113,16/03/2011,,79320,rv267550 Dr Isaack M amerudisha sehemu ya Imprest PV60642,
+102101,26, Payment - GL,8155,21/03/2011,1000000,,Selina Sanka - safari Imprest Arusha,None
+102101,26, Payment - GL,8157,21/03/2011,300000,,William Shauri-travelling allowance Arusha,None
+102101,26, Payment - GL,8158,21/03/2011,990000,,William Shauri - Imprest Maziwa ya watoto,None
+102101,26, Payment - GL,8163,21/03/2011,1096000,,Venas Moshi- Safari Imprest Arusha,None
+102101,26, Receipt,6203,21/03/2011,,1000000,Reverse imprests, amount was set up as a LPO, see PV 62636,Guest House 
+102101,26, Journal - GL,724,31/03/2011,,197500,William Shauri, clear imprest, pv62638 and pv62639,
+102101, 26, Period Total,,,4295180
+102101,27, Payment - GL,8250,04/04/2011,220100,,Selina Sanka Overspend Imprest,Guest House 
+102101,27, Receipt,6204,04/04/2011,,220100,Reverse imprests, amount was set up as a LPO, see PV 62797,Guest House 
+102101,27, Receipt,6323,12/04/2011,,6500,rv268400 Paskalina Bayo return imprest safari pv62745,
+102101,27, Receipt,6376,12/04/2011,,52500,RV268701 Upendo K amerudisha Imprest Safari pv62775,
+102101,27, Journal - GL,852,12/04/2011,6500,,Paskalina Bayo - Correction of wrong posting on returement, 62745pv. ref. 268400rv,None
+102101,27, Receipt,6447,19/04/2011,,20000,rv26892Gabrieli sisi ,
+102101,27, Payment - GL,8463,20/04/2011,265000,,Estomih Mduma - safari imprest,None
+102101,27, Payment - GL,8464,20/04/2011,450004.500045,,Estomih Mduma - safari imprest USD 300,None
+102101,27, Payment - GL,8465,20/04/2011,215000,,Upendo Kibwana - Safari Imprest,None
+102101,27, Payment - GL,8466,20/04/2011,300003.00003,,Upendo Kibwana - Safari Imprest,None
+102101,27, Journal - GL,854,20/04/2011,,265000,Estomi Mduma - Clearance of safari imp. 63008pv,None
+102101,27, Journal - GL,855,20/04/2011,,450004.5,Estomi Mduma - Clearance of safari imp. 63009pv, ref. 276938rv,None
+102101, 27, Period Total,,,442503.000075
+102101,28, Receipt,6606,06/05/2011,,48000,RV269667Magreth Sarwat reivablefor Imrprest PV 63058 63079,
+102101,28, Receipt,6658,13/05/2011,,40000,yeremia Lohay-imprest recevable pv63154,None
+102101,28, Receipt,6676,17/05/2011,,22500,Paskalina Bayo-hesabu ya pv63169,None
+102101,28, Journal - GL,850,17/05/2011,22500,,Paskalina Bayo - Clearance of safari imp. for wrong posting, 63169pv,None
+102101,28, Payment - GL,10174,28/05/2011,268000,,William Shauri - Arusha safari Allo. &amp; diecel, 632,T 763 BCF 
+102101,28, Journal - GL,858,28/05/2011,,268000,William Shauri - Retirement of Arusha safari, ref. 63281pv,None
+102101,28, Receipt,6898,31/05/2011,,30000,Paskalina Bayo-hesabu ya pv63259 rv271084rv,None
+102101,28, Journal - GL,851,31/05/2011,30000,,	Paskalina Bayo - Clearance of safari imp. for wrong posting on retirement, 63169pv ref. 271084rv,None
+102101, 28, Period Total,,,,88000
+102101,29, Receipt,6930,02/06/2011,,5000,Paskalina Bayo-hesabu ya pv63297 rv271253,
+102101,29, Journal - GL,853,02/06/2011,5000,,Paskalina Bayo - Correction of wrong posting on returement, 63297pv. ref. 271253rv,None
+102101,29, Payment - GL,8981,06/06/2011,360036.0036,,Beatrice Wanjiku - safari imprest pv63342,
+102101,29, Journal - GL,839,06/06/2011,,360036,Beatrice Wanjiku - Clearence of Kampala Safari, 63342pv,None
+102101,29, Payment - GL,8840,13/06/2011,720000,,Emanuel Mighay, safari ya Dar es Salaam pv63378,None
+102101,29, Payment - GL,8841,13/06/2011,720000,,Dr I. Malleyeck posho ya safari Dar es Salaam pv63,None
+102101,29, Payment - GL,8842,13/06/2011,835480,,William Shauri - safari allowance to Tanga pv63380,None
+102101,29, Journal - GL,860,13/06/2011,,720000,Dr. Isaack Mallyeck - Retirement of DSM safari, ref. pv63379,None
+102101,29, Payment - GL,8985,27/06/2011,420000,,Charles Joseph na Michael Jacob - safari imprest t,
+102101, 29, Period Total,,,1975480.0036
+102101,30, Payment - GL,8964,05/07/2011,200000,,Beatrice Wanjiku - safari imprest pv63531,
+102101,30, Payment - GL,8965,05/07/2011,675067.506751,,Beatrice Wanjiku - safari imprest pv63531,
+102101,30, Journal - GL,838,05/07/2011,,200000, Beatrice Wanjiku - Correction of wrong posting, pv63531,None
+102101,30, Receipt,7306,06/07/2011,,210000,Michael Jacob -refund of travel allowance rv272620,None
+102101,30, Payment - GL,8971,06/07/2011,650000,,Dr. N.B Naman -safari imprest to Dsm pv63535,
+102101,30, Payment - GL,8974,06/07/2011,232000,,Petro Axwesso na Frank Samaytu - travelling expenc,
+102101,30, Journal - GL,871,06/07/2011,,232000,Petro A. &amp; Frank S - Retirement of Arusha Safari. ref. pv63539,None
+102101,30, Payment - GL,8995,09/07/2011,350000,,Dr. Daudi Lotto - travel to Dsm pv63553,
+102101,30, Journal - GL,843,09/07/2011,,350000,Dr. Daudi Lotto - Clearance of safari imp. 63553pv,None
+102101,30, Payment - GL,8999,11/07/2011,200000,,Ezra B. Naman - safari ya Dar es Salaam pv63558,
+102101,30, Payment - GL,9016,13/07/2011,151875,,Kinto Arusha - safari imprest pv63581,
+102101,30, Payment - GL,9278,15/07/2011,470000,,Dr. N.B Naman -safari imprest to Dsm pv63597,
+102101,30, Payment - GL,9280,16/07/2011,430000,,Yeremia Lohay/Yekonia Deles - safari imprest pv636,
+102101,30, Journal - GL,872,16/07/2011,,430000,Yeremia/Yeconia - Retirement of Arusha safari, ref. pv. 63600,None
+102101,30, Payment - GL,9072,23/07/2011,560000,,Yekonia Deles - safari ya Arusha pv63670,
+102101,30, Journal - GL,829,23/07/2011,,560000,Yeconia Deles - Retirement of Arusha safari pv 63670 ,
+102101,30, Payment - GL,9093,26/07/2011,300000,,Cosmas Kilasara - safari imprest to Dar es Salaam ,
+102101,30, Journal - GL,856,26/07/2011,,300000,Cosmas Kilasara - Retirement of DSM safari, 63693pv,None
+102101,30, Payment - GL,9127,31/07/2011,1250000,,Venas Moshi/Frank Sumaytu - safari imprest pv63724,
+102101,30, Journal - GL,865,31/07/2011,,1250000,Venance Moshi - Retirement of Moshi &amp; Arusha safari, ref. 63724pv,None
+102101, 30, Period Total,,,1936942.50675
+102101,31, Payment - GL,9189,11/08/2011,620000,,Phlipo Shayyo- safari imprest to arusha pv63796,
+102101,31, Journal - GL,849,11/08/2011,,620000,Philipo Sayo - Clearance of safari imp. 63796pv,None
+102101,31, Payment - GL,9198,12/08/2011,200000,,Beatrice Wanjiku - safari imprest pv63810,
+102101,31, Journal - GL,841,12/08/2011,,675067.51,Beatrice Wanjiku - Being clearance of Uganda safari, pv63531,None
+102101,31, Journal - GL,842,12/08/2011,,200000,Beatrice Wanjiku - Clearence of Kenya Safari, 63810pv,None
+102101,31, Payment - GL,9234,17/08/2011,320000,,dr.thomas tippe safari ya dsm wizara ya afya utumi,
+102101, 31, Period Total,,,,355067.51
+102101,32, Receipt,7822,07/09/2011,,18000,Martha E. Massawe - retirement of Pv63896 rv20986,None
+102101,32, Receipt,7981,12/09/2011,,12500,Ester S. Sanka - retirement of Pv63896 rv275131,None
+102101,32, Receipt,8036,20/09/2011,,100000,Dr. Isack Malleyeck-retirement of pv63899 rv275334,None
+102101,32, Journal - GL,828,20/09/2011,100000,,Dr. Isack Malleyeck reverse of retir. pv63899, rv275334 wronglly posted ,None
+102101,32, Payment - GL,9654,21/09/2011,460000,,Yekonia Deles - safari imprest to Arusha pv64222,None
+102101,32, Receipt,8340,21/09/2011,,13000,Yeconia Delesn - retirement pv64222, ref. rv275790,None
+102101,32, Receipt,8150,29/09/2011,,20334,Yekonia Deles - retirement of pv64222 rv275790,None
+102101,32, Payment - GL,9787,30/09/2011,2245000,,Venance Mushi and Frank Samaytu - Dar es Salaam sa,None
+102101,32, Journal - GL,831,30/09/2011,,447000,Yeconia Deles - Retirement of Arusha safari pv64222 &amp; rv275790,
+102101,32, Journal - GL,866,30/09/2011,,2245000,Venance Moshi - Retirement of DSM safari, ref. 64330pv,None
+102101, 32, Period Total,,,,50834
+102101,33, Payment - GL,9953,17/10/2011,260000,,Yekonia Deles - safari imprest to Arusha pv64484,None
+102101,33, Payment - GL,9924,19/10/2011,2310000,,Diesel,None
+102101,33, Payment - GL,10015,19/10/2011,150000,,Joseph marko - Adv. salary oct. 2011, 64520pv,None
+102101,33, Journal - GL,864,19/10/2011,,2310000,Venance Moshi - Retirement of DSM &amp; Arusha safari, Pv 64553,None
+102101,33, Payment - GL,10093,21/10/2011,1485000,,William Shauri - Arusha safari Imperest, 64645pv,None
+102101,33, Payment - GL,10109,21/10/2011,534000,,Safari imprest,None
+102101,33, Payment - GL,10119,24/10/2011,1795000,,Penford Magara - safary ya Arusha  pv 64662,None
+102101,33, Payment - GL,10156,28/10/2011,800000,,Beatrice Wanjiku - Ethiopia safari imperest &amp; allo,None
+102101,33, Payment - GL,10161,28/10/2011,265000,,William Shauri - Arusha safari All. &amp; diecel, 6471,None
+102101,33, Journal - GL,859,28/10/2011,,265000,William Shauri - Retirement of Arusha safari, ref. 64716pv,None
+102101, 33, Period Total,,,5024000
+102101,34, Payment - GL,10243,02/11/2011,365000,,Petro &amp; Isaya Moses - safari imprest to Moshi pv64,None
+102101,34, Payment - GL,10207,07/11/2011,378000,,Barikiel Herson safari ya Arusha pv 64776,None
+102101,34, Payment - GL,10209,07/11/2011,375000,,Yekonia Deles - safari ya Arusha pv64778,None
+102101,34, Journal - GL,873,07/11/2011,,375000,Yeconia Deles - Retirement of Arusha safari ref. pv64778,None
+102101,34, Payment - GL,10477,23/11/2011,372500,,Petro Axwesso - Moshi safari imp. pv64971,None
+102101,34, Payment - GL,10488,24/11/2011,290000,,Wiliam Shauri - Arusha safari imp. pv64985,None
+102101,34, Payment - GL,10438,28/11/2011,1510000,,Penford Gadiye - Arusha safari imprest, pv66017,None
+102101,34, Payment - GL,10453,30/11/2011,372500,,Yeconia Deles - Moshi safari imperest, pv66036,None
+102101,34, Payment - GL,10464,30/11/2011,50000,,Paskali Zakayo - Refund Nov. 2011 wrong deduction,,None
+102101,34, Journal - GL,896,30/11/2011,,50000,Paskalina Zakayo - Adv. salary nov. 2011, pv66050 correction for wrong posting,None
+102101, 34, Period Total,,,3288000
+102101,35, Payment - GL,10510,02/12/2011,270000,,Wiliam Shauri - Arusha safari imp. pv65017,None
+102101,35, Payment - GL,10518,02/12/2011,1227500,,Elihuruma Anania - Arusha safari imperest, Pv65028,None
+102101,35, Payment - GL,10519,03/12/2011,295000,,Wiliam Shauri - Arusha safari Imperest, pv65030,None
+102101, 35, Period Total,,,1792500
+102101,35, Balance C/Fwd,,,52470487.5286

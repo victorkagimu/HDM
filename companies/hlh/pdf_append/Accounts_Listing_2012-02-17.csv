@@ -1,0 +1,170 @@
+201007 - 0 for period 24 to 35
+201007, 24, Brought Forward Balance,,,21465035.75
+201007,24, Journal - GL,620,31/01/2011,,24138867.7,Paye Watumishi January 2011,
+201007, 24, Period Total,,,,24138867.7
+201007,25, Payment - GL,7674,15/02/2011,23313552.5,,HLH - TRA PAYE Jan.2011,None
+201007,25, Payment - GL,7674,15/02/2011,1190169.5,,PAYE deductions Jan.2011 for Wazee,None
+201007,25, Payment - GL,7983,26/02/2011,21916763.9,,PAYE for Feb. 2011,None
+201007,25, Journal - GL,719,28/02/2011,,20947366,Paye, HLH pay roll, Feb 2011,
+201007, 25, Period Total,,,25473119.9
+201007,26, Payment - GL,8238,31/03/2011,23595699,,PAYE - March 2011,None
+201007,26, Journal - GL,721,31/03/2011,,21502482.6,Pay roll for march 2011 PAYE,
+201007, 26, Period Total,,,2093216.4
+201007,27, Payment - GL,8535,28/04/2011,18205157.9,,PAYE for April_HLH,None
+201007,27, Payment - GL,8535,28/04/2011,445913,,PAYE for April-Mulbadaw,Hospital Farms
+201007,27, Payment - GL,8535,28/04/2011,103956.3,,PAYE for April-Balangdalalu,Balangdalalu Health Centre
+201007,27, Payment - GL,8535,28/04/2011,374376,,PAYE for April-Kansay,Kansay Health Center
+201007,27, Payment - GL,8535,28/04/2011,340202.6,,PAYE for April-Gendabi,Gendabi Health Center
+201007,27, Journal - GL,725,30/04/2011,,445913,Correction of  wrong booking ,
+201007,27, Journal - GL,725,30/04/2011,,103956.3,Correction of  wrong booking - PAYE for BLHC,
+201007,27, Journal - GL,725,30/04/2011,,374376,Correction of  wrong booking - PAYE for KLHC,
+201007,27, Journal - GL,725,30/04/2011,,340202.6,Correction of  wrong booking - PAYE for GLHC,
+201007,27, Journal - GL,735,30/04/2011,,22461699,PAYE - HLH April 2011,
+201007, 27, Period Total,,,,4256541.1
+201007,28, Payment - GL,8772,30/05/2011,18205157.9,,PAYE-HLH ,None
+201007,28, Journal - GL,745,31/05/2011,,18590542.3,PAYE - HLH May 2011,
+201007,28, Journal - GL,747,31/05/2011,,1149769,PAYE deductions  for Allawances staffGoverment May 2011,
+201007,28, Journal - GL,748,31/05/2011,,1216587.3,PAYE deductions May .2011 for Wazee,
+201007, 28, Period Total,,,,2751740.7
+201007,29, Journal - GL,761,11/06/2011,,3387,PAYE deductions for Ami Bura -May and June 2011,
+201007,29, Payment - GL,8903,28/06/2011,25154039.1,,PAYE FOR JUNE 2011 PV63459,None
+201007,29, Payment - GL,8906,28/06/2011,,25154039.1,PAYE FOR JUNE 2011 PV63459 correvtion,None
+201007,29, Payment - GL,8907,28/06/2011,25154039.1,,PAYE FOR JUNE 2011 PV63459,None
+201007,29, Journal - GL,1050,28/06/2011,,1269304.9,PAYE HLH Dec. 2011 wrong posting June pv63459/2011,
+201007,29, Journal - GL,764,30/06/2011,,1029,Paulo Safari - salary for June2011 pv63585,
+201007,29, Journal - GL,765,30/06/2011,,16954,Eliasikia Seth-salary for June pv63587,
+201007,29, Journal - GL,766,30/06/2011,,743626.5,Sadikiel Kaay - back pay from Jan/May 2011 pv63598,
+201007,29, Journal - GL,768,30/06/2011,,17556,PAYE deductions for Robert David for June 2011,
+201007,29, Journal - GL,770,30/06/2011,,17550,Paye for Agatha Shirima June2011,
+201007,29, Journal - GL,774,30/06/2011,,17556,PAYE deductions for Anna Zakaria June 2011,
+201007,29, Journal - GL,778,30/06/2011,,19710996.1,Salary Analysis for the Month of June 2011and Receivables for other Project,
+201007,29, Journal - GL,784,30/06/2011,,991253,Government Employees for June salary &amp;Allawances 2011 paye Rambix2Scrappers,
+201007,29, Journal - GL,785,30/06/2011,,1079613.7,PAYE - HLH June 2011,
+201007, 29, Period Total,,,1285212.9
+201007,30, Journal - GL,755,05/07/2011,,22526,PAYE pv63526,
+201007,30, Journal - GL,756,05/07/2011,,27497,PAYE for Vivivan Dilanda pv63528,
+201007,30, Journal - GL,757,05/07/2011,,32883,Christina Kwaslema - basic salary pv63529,
+201007,30, Journal - GL,758,06/07/2011,,19212,Anjela John - PAYE pv63534,
+201007,30, Journal - GL,762,11/07/2011,,3686,PAYE deductions for Paulo Safari -May  2011,
+201007,30, Journal - GL,763,12/07/2011,,5014.8,PAYE deductions for Eliamani Sule -May 2011,
+201007,30, Journal - GL,767,20/07/2011,,50500,PAYE deductions for Dr. Yuda Mnyaw June 2011,
+201007,30, Journal - GL,769,20/07/2011,,17556,,
+201007,30, Journal - GL,771,22/07/2011,,17550,,
+201007,30, Journal - GL,772,22/07/2011,,5378,PAYE deductions for Agnes D. Geffi June 2011,
+201007,30, Journal - GL,773,22/07/2011,,19726,PAYE deductions for Sesilia Bura June 2011,
+201007,30, Journal - GL,775,25/07/2011,,91650,PAYE deductions for Dr. Anderson Sakweli June 2011,
+201007,30, Journal - GL,776,26/07/2011,,36700,PAYE deductions for Adesiana Ginwe July-October  2010,
+201007,30, Journal - GL,777,26/07/2011,,31500,paye deductions fom outreach allowances for Tabitha Enock Jan-June 2011,
+201007,30, Journal - GL,781,27/07/2011,,6342,Paye deduction for Josephat Eliezeri June 2011,
+201007,30, Payment - GL,9116,28/07/2011,20304083,,TRA  PAYE July .2011 pv63711,None
+201007,30, Payment - GL,10176,28/07/2011,,21122775.1,PAYE -July 2011 correction,None
+201007,30, Payment - GL,10177,28/07/2011,21122775,,PAYE deduction for July 2011 ,None
+201007,30, Payment - GL,10179,28/07/2011,,21122775.1,PAYE -July 2011 correction,None
+201007,30, Payment - GL,10180,28/07/2011,21122775,,PAYE deduction for July 2011 ,None
+201007,30, Payment - GL,10181,28/07/2011,21122775.1,,PAYE deduction for July 2011 wrong posting correct,None
+201007,30, Payment - GL,10182,28/07/2011,,21122775,PAYE deduction for July 2011 wrong posting correct,None
+201007,30, Journal - GL,782,31/07/2011,,991253,Government Employees for June salary &amp;Allawances 2011 paye Rambix2Scrappers,
+201007,30, Journal - GL,783,31/07/2011,991253,,CORRECTION GL journal 782/2011,
+201007,30, Journal - GL,787,31/07/2011,,19664136.6,Salary Analysis for Month of July 2011Allowance &amp; all deductions Receivable HSN,
+201007,30, Journal - GL,790,31/07/2011,,1146126.2,PAYE wazee July 2011,
+201007,30, Journal - GL,791,31/07/2011,,1092912,Government Employees for July salary &amp;Allawances 2011 paye Rambix2Scrappers,
+201007,30, Journal - GL,793,31/07/2011,,84125,PAYE deductions for Dr. Anderson Sakweli  July 2011,
+201007, 30, Period Total,,,,2070937.7
+201007,31, Journal - GL,792,05/08/2011,,23660,Paye deduction for Eliasikia Seth July 2011,
+201007,31, Journal - GL,811,14/08/2011,,1651,PAYE deductions for Daniel And Yesaya Moses  for July 2011,
+201007,31, Journal - GL,794,17/08/2011,,67320,paye deduction for thomas tippe,
+201007,31, Journal - GL,835,30/08/2011,,1081973.1,HLH wazee PAYE deduction for August 2011,
+201007,31, Journal - GL,834,31/08/2011,,18811101,HLH staff PAYE deductions for August 2011,
+201007,31, Journal - GL,836,31/08/2011,,885481,PAYE deduction from Allawances to Governments Staff August 2011,
+201007, 31, Period Total,,,,20871186.1
+201007,32, Payment - GL,9430,01/09/2011,20778555.1,,HLH-PAYE ,None
+201007,32, Payment - GL,9430,01/09/2011,103956.3,,Balangdalalu.PAYE,None
+201007,32, Payment - GL,9430,01/09/2011,340359.8,,Gendabi-PAYE,None
+201007,32, Payment - GL,9430,01/09/2011,389878,,Kansay-PAYE,None
+201007,32, Payment - GL,9430,01/09/2011,684168,,Mulbadaw-PAYE,None
+201007,32, Receipt,8649,01/09/2011,,0.2,Being correction of Web-erp/chq book for PAYE ,
+201007,32, Journal - GL,1056,01/09/2011,,1518364.1,PAYE ya Vituo na Mulbadaw kwa August corection 2011,
+201007,32, Journal - GL,810,13/09/2011,,63320,PAYE deductions for Thomas Tipp for August 2011,
+201007,32, Journal - GL,814,16/09/2011,,27714,PAYE deductions for Lucy Kisaka Sept 2011,
+201007,32, Journal - GL,815,16/09/2011,,63480,PAYE deductions for Dr hayte Samo Sept 2011,
+201007,32, Journal - GL,816,22/09/2011,,49500,PAYE deductions for Yuda E Mnyaw Sept 2011,
+201007,32, Payment - GL,9822,30/09/2011,25000000,,Part payment for HLH PAYE  Sept 2011 pv64364,None
+201007,32, Journal - GL,827,30/09/2011,,17556,PAYE deduction for Robert David Sept.2011 pv64504,
+201007,32, Journal - GL,840,30/09/2011,,3167227,PAYE vIBARUA SEPT 2011PV64458,
+201007,32, Journal - GL,844,30/09/2011,,32614926.4,HLH PAYE deductions Sept.2011,None
+201007,32, Journal - GL,845,30/09/2011,,1125693.3,PAYE Wazee Sept 2011,
+201007,32, Journal - GL,846,30/09/2011,,1376770,PAYE deduction from Allawances to Governments Staff Sept  2011,
+201007, 32, Period Total,,,7272366.2
+201007,33, Payment - GL,9893,04/10/2011,10158441.9,,PAYE for HLH,Kansay,B/lalu,Gendabi and Mulbadaw fo,None
+201007,33, Journal - GL,818,05/10/2011,,10913,PAYE deductions for Lucy Awaki and Mary Mchaki pv64379,
+201007,33, Journal - GL,819,06/10/2011,,16940,PAYE deduction for Eliasikia seth for Sept 2011,
+201007,33, Journal - GL,820,06/10/2011,,3682,PAYE deduction for Paulo Safari for Sept 2011,
+201007,33, Journal - GL,821,07/10/2011,,65300,PAYE deductions for Thomas Tipp for Sept 2011,
+201007,33, Journal - GL,822,07/10/2011,,1693.3,PAYE deductions for Josephat Eliezeri for Sept 2011,
+201007,33, Journal - GL,823,10/10/2011,,67500,PAYE deductions for Magdalena Fissoo pv64433,
+201007,33, Journal - GL,824,10/10/2011,,1029,PAYE deductions for Paulina Ruben pv64441,
+201007,33, Journal - GL,826,12/10/2011,,91650,PAYE deductions for anderson Sakweli for sept2011,
+201007,33, Journal - GL,875,31/10/2011,,99150,PAYE deduction for Dr. A. Sakweli or Oct.2011 pv64917,
+201007,33, Journal - GL,919,31/10/2011,,25966237.5,PAYE deduction for HLH staff Oct.2011 ,
+201007,33, Journal - GL,920,31/10/2011,,1044471.6,Wazee PAYE deductions for Oct 2011,
+201007,33, Journal - GL,923,31/10/2011,,1036119,HLH PAYE deduction for allowances to government employees Oct.2011,
+201007, 33, Period Total,,,,18246243.5
+201007,34, Payment - GL,10185,04/11/2011,23283209.6,,PAYE sdeductions for HLH and Health Centers Octobe,None
+201007,34, Journal - GL,870,12/11/2011,,183780,PAYE deductions for Dr. Juma A. Igogo ,
+201007,34, Journal - GL,1039,18/11/2011,,64880,Ibrahimu Amma - PAYE for October wages, Ref. Pv64882,None
+201007,34, Journal - GL,876,21/11/2011,,54000,Rithael Tango - PAYE deductions for Nov.2011 pv64918,
+201007,34, Journal - GL,877,21/11/2011,,4350,PAYE deductions for Paulo Safari - October  2011pv64919,
+201007,34, Journal - GL,878,21/11/2011,,195390,PAYE deductions for Neema Jackson pv64920,
+201007,34, Journal - GL,879,21/11/2011,,6370,PAYE deductions for Pendael Zacharia pv64921,
+201007,34, Journal - GL,880,21/11/2011,,155220,PAYE deductions for Emanuel P. Hhando Nov.2011 pv64922,
+201007,34, Journal - GL,881,21/11/2011,,83625,PAYE deductions for Elialilia Alfred Nov.2011 pv64923,
+201007,34, Journal - GL,882,21/11/2011,,283582,PAYE deductions for Elitruda Bajuta Nov.2011 pv64925  	,
+201007,34, Journal - GL,883,21/11/2011,,69818,PAYE deduction for Ibrahim Sulle Nov.2011 pv64926,
+201007,34, Journal - GL,884,21/11/2011,,106307,PAYE deductions for Selina Jackson Nov.2011 pv64927,
+201007,34, Journal - GL,885,21/11/2011,,134648,Rithael Tango - PAYE deductions for Nov.2011 pv64928,
+201007,34, Journal - GL,886,21/11/2011,,322602,Safina Gwandu - PAYE deductions for Nov.2011 pv64929,
+201007,34, Journal - GL,887,21/11/2011,,37700,Rahel Bayo - PAYE deductions for Nov.2011 pv64930,
+201007,34, Journal - GL,888,21/11/2011,,417082,Julieth Yoram - PAYE deductions for Nov.2011 pv64931,
+201007,34, Journal - GL,889,21/11/2011,,82682,Hhoema Petro - PAYE deductions for Nov.2011 pv64932,
+201007,34, Journal - GL,890,21/11/2011,,141082,Ibrahim Amma - PAYE deductions for Nov.2011 pv64933,
+201007,34, Journal - GL,891,22/11/2011,,66580,Dr. Thomas Tippe - PAYE deductions for Nov.2011 pv64941,
+201007,34, Journal - GL,892,22/11/2011,,1586.8,Josephat Eliezeri - PAYE deductions for Oct.2011 pv64942  	,
+201007,34, Payment - GL,10429,26/11/2011,30330463.9,,HLH - PAYE Nov. 2011, Pv66008,None
+201007,34, Journal - GL,893,28/11/2011,,933368,Crescent D Ombay makato yake July-October 2011NSSF/PAYE/Tughe/Rambix2,
+201007,34, Journal - GL,909,30/11/2011,,8274,Bura Alfred Boomo Teaching Allowance pv128/2011 payable HLH,
+201007,34, Journal - GL,912,30/11/2011,,123799,Sehemu ya paye February 2011 ilitakiwa 520748 -123799,
+201007,34, Journal - GL,921,30/11/2011,,1036119,HLH PAYE deduction for allowances to government employees Oct.2011,
+201007,34, Journal - GL,922,30/11/2011,1036119,,Correction HLH PAYE deduction for allowances to government employees Oct.2011,
+201007,34, Journal - GL,925,30/11/2011,,1044619.5,Wazee PAYE deductions for Nov 2011,
+201007,34, Journal - GL,932,30/11/2011,,1153403,HLH PAYE deduction for allowances to government employees Nov.2011,
+201007,34, Journal - GL,934,30/11/2011,,25647248.4,PAYE deduction for HLH staff Nov.2011 ,
+201007,34, Journal - GL,937,30/11/2011,,640167,PAYE - For BLHC Back pay 2008, Pv65225,None
+201007,34, Journal - GL,1038,30/11/2011,,449086,Daily wages  PAYE for Nov part of payments pv64980/2011,
+201007, 34, Period Total,,,21202423.8
+201007,35, Journal - GL,917,13/12/2011,,4824600,PAYE for areas of Dr. Naman Jan - Nov. 2011, pv65067,None
+201007,35, Journal - GL,918,14/12/2011,,86650,PAYE for Allowances of Dr. A. Sakweli Dec. 2011, pv65083,None
+201007,35, Journal - GL,924,16/12/2011,,128430,PAYE - Yeconia Deles offs pay, 2011, Pv65160,None
+201007,35, Journal - GL,926,16/12/2011,,50720,PAYE - Yeremia Lohay Leave pay, Pv65163,None
+201007,35, Journal - GL,927,16/12/2011,,25004,PAYE - For Dikla Paulo Leave 2011, pv65164,None
+201007,35, Journal - GL,928,16/12/2011,,41920,PAYE - For Barikieli Samwel Leave pay 2011, Pv65165,None
+201007,35, Journal - GL,929,16/12/2011,,48520,PAYE - For Timothy Dakay  Leave pay 2011, Pv65166,None
+201007,35, Journal - GL,930,16/12/2011,,9380,PAYE - For Elibariki G. Fissoo Leave pay  2011, Pv65167,None
+201007,35, Journal - GL,931,19/12/2011,,164540,PAYE - For Samwel Bayo offs paay 2011, Pv65179,None
+201007,35, Journal - GL,933,20/12/2011,,387279,PAYE - for Dr. Benson Mwakalukwa - Dec. 2011 salary, Pv65190,None
+201007,35, Journal - GL,939,20/12/2011,,1280880,Dr Andreson Sakweli OFF pay &amp; Topup&amp; call PAYE 2011,
+201007,35, Journal - GL,935,22/12/2011,,48293,PAYE - For Ester Jonas &amp; Ester Kael  Dec. 2011 wages, Pv65216,None
+201007,35, Journal - GL,936,22/12/2011,,706212,PAYE - For GLHC 2008 Back pay, Pv65224,None
+201007,35, Journal - GL,938,23/12/2011,,44102,PAYE for Upendo Qaymo Back pay 2008, Pv65241,None
+201007,35, Journal - GL,950,27/12/2011,,7292,PAYE deductions for Wilbad Siima from back pay 2008 Dec 2011,
+201007,35, Journal - GL,959,27/12/2011,,9273,PAYE deduction for Elibariki Gidioni - back pay 2008 ,
+201007,35, Payment - GL,11186,27/12/2011,66648678.7,,PAYE HLH Dec. 2011,None
+201007,35, Journal - GL,960,28/12/2011,,9310,PAYE deduction for Elia Silveri from termination benefits pv65262,
+201007,35, Journal - GL,961,29/12/2011,,166500,PAYE deduction for Philmon Joshua Dec.2011,
+201007,35, Journal - GL,962,30/12/2011,,355689,PAYE deduction for staff from Kansay Helath center - back pay 2008 ,
+201007,35, Journal - GL,949,31/12/2011,,1659251.1,Wazee PAYE deductions for Dec 2011,
+201007,35, Journal - GL,963,31/12/2011,,27323102.5, PAYE deduction for HLH staff Dec.2011 ,
+201007,35, Journal - GL,966,31/12/2011,,1629995,HLH PAYE deduction for allowances to government employees Dec.2011,
+201007,35, Journal - GL,968,31/12/2011,,25690927,PAYE For Back Pay 2008/paid 2011,
+201007,35, Journal - GL,970,31/12/2011,,220664,Part payment Back pay 2008 PAYE 2011 ,
+201007, 35, Period Total,,,1730145.1
+201007,35, Balance C/Fwd,,,8186003.25

@@ -1,0 +1,52 @@
+401002 - 1 for period 36 to 47
+401002,36, Payment - GL,10960,17/01/2012,1500015.00015,,Hans Valkenburg - Part payment for his salary for ,None
+401002,36, Payment - GL,10973,17/01/2012,300000,,Hans Valhenburg - part of his salary Jan. 2012 , p,None
+401002,36, Payment - GL,11118,19/01/2012,1200012.00012,,Hans - last payment for his salary  Jan. 2012 pv65,None
+401002,36, Payment - GL,11168,23/01/2012,682000,,Johanna Johnsson - salary for Jan.2012 pv65775,None
+401002,36, Payment - GL,11711,30/01/2012,1500000,,Dr .Olav-part of his salary pv 65843,None
+401002, 36, Period Total,,,5182027.00027
+401002,37, Payment - GL,11757,24/02/2012,1800180.018,,Dr. Theresa Harbauer - Salary for Jan. 2012, Pv663,None
+401002,37, Payment - GL,11798,24/02/2012,3128000,,Dr. Olav Espegren - Salary for Jan. 2012, Pv66376,None
+401002,37, Journal - GL,1184,24/02/2012,552000,,PAYE for Dr. Olav Espegren - Salary for Jan. 2012, Pv66376,None
+401002,37, Payment - GL,11779,27/02/2012,3000300.03,,Hans Valhenburg - Febr. 2012 salary, Pv66380,None
+401002,37, Receipt,9630,29/02/2012,,2250225.0225,Hans Valkenburg:Return part of his Salary rv282278,None
+401002,37, Payment - GL,12100,29/02/2012,2424768.7861272,,Hans Valkenburg salary part USD1500,
+401002, 37, Period Total,,,8655023.8116272
+401002,38, Payment - GL,11876,08/03/2012,1800180.018,,Dr. Theresa Harbauer - Salary for Febr. 2012, Pv66,None
+401002,38, Payment - GL,12531,15/03/2012,1468245.9893048,,Bryan Savage GBP 596,66 invoice ETO-12-08,Eye department
+401002,38, Payment - GL,12028,23/03/2012,1500000,,Dr. Olav Espegren - Part of his salary for Febr. 2,None
+401002,38, Payment - GL,12040,27/03/2012,1000000,,Dr.Olav salary for February 2012 part payment pv 6,None
+401002,38, Payment - GL,12086,30/03/2012,2700270.027,,Hans part of his salary  March pv 66735,None
+401002,38, Payment - GL,12087,30/03/2012,300000,,Hans part of his salary  paid in Tsh March pv 6673,None
+401002, 38, Period Total,,,8768696.0343048
+401002,39, Payment - GL,12146,03/04/2012,628000,,Dr. Olav Espegren - Part of his salary for Febr. 2,None
+401002,39, Journal - GL,1237,03/04/2012,552000,,PAYE for Dr. Olav Espegren - Part of his salary for Febr. 2012, Pv66760,None
+401002, 39, Period Total,,,1180000
+401002,40, Payment - GL,13299,03/05/2012,3034698.1627297,,Hans Valkenburg salary april $2000,
+401002,40, Payment - GL,13050,09/05/2012,3128000,,Dr .Olav-salary  for March 2012 pv 67340,None
+401002, 40, Period Total,,,6162698.1627297
+401002,41, Payment - GL,13283,13/06/2012,3128000,,Dr Olav-salari for May 2012  pv 67939,None
+401002, 41, Period Total,,,3128000
+401002,42, Payment - GL,13620,06/07/2012,3128000,,Dr.Olav salary for June 2012  pv 68286,None
+401002, 42, Period Total,,,3128000
+401002,43, Payment - GL,14510,30/08/2012,3128000,,Dr.Olav-Espegren-salary for July 2012 pv 69186,None
+401002, 43, Period Total,,,3128000
+401002,44, Payment - GL,14922,26/09/2012,780000,,Ngida Lukumay-to update the payroll pv 69330,None
+401002, 44, Period Total,,,780000
+401002,45, Payment - GL,15147,08/10/2012,3128000,,Dr.Olav-Espegren-salary for 2012 pv 69479,None
+401002,45, Journal - GL,1386,08/10/2012,552000,,PAYE-for Dr.Olav;s salary and allowance  August pv 69479,
+401002, 45, Period Total,,,3680000
+401002,46, Payment - GL,15924,22/11/2012,3128000,,Dr Olav-salary for Sept 2012 pv 70759,
+401002,46, Journal - GL,1455,22/11/2012,552000,,paye-from Dr Olav salary pv 70759,
+401002, 46, Period Total,,,3680000
+401002,47, Payment - GL,16043,05/12/2012,2684400,,Dr Olav-salary for october 2012 pv 70910,
+401002,47, Journal - GL,1704,05/12/2012,995600,,PAYE Deduction from Dr Olav salary and allawance pv 70910,
+401002,47, Journal - GL,1680,07/12/2012,3240000,,Tax Deducted from Dr. Theresa salary From March - Dec. 2012,
+401002,47, Payment - GL,16785,07/12/2012,15091851.351351,,Salary for Theresa Nok 55839,None
+401002,47, Payment - GL,16264,28/12/2012,2684400,,Dr Olav-salary for Nov  2012 pv 71122,
+401002,47, Journal - GL,1774,28/12/2012,995600,,PAYE Deduction from Dr Olav salary and allawance pv 71122,
+401002,47, Payment - GL,16265,28/12/2012,2684400,,Dr.Olav salary for Dec 2012 pv 71123,
+401002,47, Journal - GL,1775,28/12/2012,995600,,PAYE Deduction from Dr Olav salary and allawance pv 71123,
+401002,47, Journal - GL,1914,31/12/2012,2127831,,provision for employee tax expats 2012,
+401002, 47, Period Total,,,31499682.351351
+401002,47, Total Period Movement,,,78972127.360283

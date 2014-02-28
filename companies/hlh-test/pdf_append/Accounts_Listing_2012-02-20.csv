@@ -1,0 +1,18 @@
+406004 - 1 for period 24 to 35
+406004,29, Receipt,8641,30/06/2011,,3318.00729962,Interest Income,None
+406004, 29, Period Total,,,,3318.00729962
+406004,30, Receipt,8648,31/07/2011,,3181.81818182,Interest Income,None
+406004,30, Receipt,9292,31/07/2011,,206897.058824,interest,None
+406004, 30, Period Total,,,,210078.877006
+406004,31, Receipt,9296,31/08/2011,,245272.171254,interest,None
+406004, 31, Period Total,,,,245272.171254
+406004,32, Receipt,9304,30/09/2011,,294299.418605,interest,None
+406004, 32, Period Total,,,,294299.418605
+406004,33, Receipt,9306,31/10/2011,,361039.087948,interest,None
+406004, 33, Period Total,,,,361039.087948
+406004,34, Receipt,9310,30/11/2011,,492145.772595,interest,None
+406004, 34, Period Total,,,,492145.772595
+406004,35, Receipt,9308,31/12/2011,,647337.175793,interest,None
+406004,35, Payment - GL,11453,31/12/2011,0,,correction bookings double booked interest,None
+406004, 35, Period Total,,,,647337.175793
+406004,35, Total Period Movement,,,,2253490.5105

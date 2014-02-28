@@ -1,0 +1,42 @@
+304001 - 1 for period 0 to 11
+304001,1, Receipt,236,02/02/2009,,12862648.45,240010rv,
+304001,1, Receipt,119,28/02/2009,,363400428.9,240032rv,
+304001,1, Receipt,119,28/02/2009,,13077025.05,240038rv,
+304001, 1, Period Total,,,,389340102.4
+304001,2, Journal - GL,20,31/03/2009,,1115364000,Block grant Nkr 6million,
+304001,2, Journal - GL,21,31/03/2009,,260251600,MDG 4 &amp; 5 Grant Nkr 1.4 million,
+304001,2, Journal - GL,22,31/03/2009,367477454,,Correction block grant ,
+304001,2, Receipt,2832,31/03/2009,,4487644.4,Being correction of rv.240032 NOK.2m overstated,
+304001,2, Payment - GL,4365,31/03/2009,451975,,being correction of rv.240032 NK.2m overstated,None
+304001, 2, Period Total,,,,1012173815.4
+304001,3, Receipt,225,20/04/2009,,198558439.8,243161rv,
+304001,3, Receipt,225,20/04/2009,,13629056,243165rv,
+304001, 3, Period Total,,,,212187495.8
+304001,6, Receipt,618,15/07/2009,,192231156,243180rv,
+304001,6, Receipt,978,31/07/2009,,207000337.411,MDG 4 &amp; 5 grant Nkr 1 million,
+304001,6, Receipt,1004,31/07/2009,,166065664,RNE grant Nkr 800000,
+304001,6, Payment - GL,1684,31/07/2009,12862634.4145,,Correction of Rv 240010,None
+304001,6, Payment - GL,1685,31/07/2009,13077023.6694,,Correction of Rv 240038 RV Nkr 70000,None
+304001,6, Payment - GL,1686,31/07/2009,198557677.034,,Correction of Rv 243161 Nkr 1000000,None
+304001,6, Payment - GL,1687,31/07/2009,192230060.937,,Correction of Rv 243180 Nkr 1000000,None
+304001,6, Payment - GL,1688,31/07/2009,166065716.356,,Correction of  Nkr 800000,None
+304001,6, Payment - GL,1689,31/07/2009,238.291,,Correction of amount part Nkr 68000 of Nkr 47658.2,None
+304001, 6, Period Total,,,17496193.2909
+304001,7, Receipt,1492,22/08/2009,,100733556.35,248106rv,
+304001,7, Receipt,1523,26/08/2009,,249938273.3,248127rv,
+304001,7, Payment - GL,2846,28/08/2009,350671830,,Reverse incorrect booking rv 248106 and rv 248127,None
+304001,7, Payment - GL,1846,31/08/2009,9531686,,Being correction of part of rv.243165,None
+304001, 7, Period Total,,,9531686.35
+304001,8, Receipt,1347,30/09/2009,,1078750978.97,Block grant NOK 5 million,
+304001,8, Receipt,1535,30/09/2009,,542914314.6,248134rv,
+304001,8, Payment - GL,2621,30/09/2009,542914315,,Reverse double booking RNE receipt, RV248134,None
+304001, 8, Period Total,,,,1078750978.57
+304001,10, Receipt,1806,20/11/2009,,431500391.587,Receipt of the additional Grant ad NOK 2 million,
+304001,10, Receipt,1805,24/11/2009,,302050274.111,Receipt of MDG 4&amp;5 instalment 1.4 million NOK,
+304001,10, Receipt,1957,25/11/2009,,18499518.4995,Upgrade receipt of NOK 2m (increase exchange rate to 225),None
+304001,10, Payment - GL,3205,26/11/2009,18499518.4995,,Reverse upgrade exchange rate,None
+304001,10, Journal - GL,225,30/11/2009,4097131.71,,Correct all mistakes regarding RV243165,
+304001, 10, Period Total,,,,729453533.988
+304001,11, Journal - GL,248,31/12/2009,,4073560,Exchange rate difference according to RNE income overview,
+304001, 11, Period Total,,,,4073560
+304001,11, Total Period Movement,,,,3398951606.5171

@@ -1,0 +1,28 @@
+102101 - 0 for period 46 to 46
+102101, 46, Brought Forward Balance,,,35819034.528608
+102101,46, Payment - GL,15508,03/11/2012,610000,,Joseph Ndukusi-safari Imprest  to DSM pv 70325,None
+102101,46, Journal - GL,1694,03/11/2012,,610000,Joseph Ndukusi - Retirement of DSM safari imprest, Ref. pv 70325,None
+102101,46, Payment - GL,15523,05/11/2012,1126000,,Elihuruma and Marco-safari imprest to Arusha pv 70,None
+102101,46, Receipt,12230,05/11/2012,,119364,Ayubu Daniel - retrement imprest  rv294266/12,
+102101,46, Receipt,12241,05/11/2012,,50000,Julius Zakaria refund of advances salary 294274/12,
+102101,46, Receipt,12243,05/11/2012,50000,,Correction GL12241 Advance salary 294274,
+102101,46, Journal - GL,1679,05/11/2012,,1126000,Elihuruma and Marco - Retirementof Arusha safari Imprest Ref.pv 70336,None
+102101,46, Receipt,12256,06/11/2012,,28500,Ayubu Daniel - retrement imprest  rv294283/12,
+102101,46, Payment - GL,15744,10/11/2012,450000,,Yekonia Deles/safari ya Moshi pv 70420 ,None
+102101,46, Receipt,12301,10/11/2012,,150000,Naligia K kurudisha Imprest safari 292476/12,
+102101,46, Journal - GL,1538,10/11/2012,,450000,Yekonia Deles - Retirement of Moshi safari imprest Ref. pv 70420,None
+102101,46, Payment - GL,15641,14/11/2012,549100,,Patricia Zacharia-Mahitaji ya siku ya Kisukari Dun,None
+102101,46, Journal - GL,1560,14/11/2012,,208650,William Shauri - Retirement for Arusha Impr. Ref. pv 70733,None
+102101,46, Journal - GL,1561,14/11/2012,,211000,Patricia Zacharia - Amerudisha Mahitaji ya siku ya Kisukari Duniani pv 70485,None
+102101,46, Journal - GL,1677,14/11/2012,,80000,William Shauri - Retirement for Arusha Impr. Ref. JE 1558, 1560 &amp; pv 70733 correction,None
+102101,46, Payment - GL,15798,16/11/2012,290000,,William Shauri-safari ya Arusha pv 70526,None
+102101,46, Journal - GL,1678,16/11/2012,,290000,William Shauri - Retirement of Arusha sfari imprest, Ref. pv 70526,None
+102101,46, Receipt,12457,19/11/2012,,4400,Mch. Edson Mbutu - retirement of safari  rv292745,None
+102101,46, Receipt,12460,19/11/2012,,338100,Patricia Zacharia - retirement pv70485 rv292748,None
+102101,46, Receipt,12462,19/11/2012,,102000,Venance Amma - underspent on safari rv292750,None
+102101,46, Payment - GL,15901,20/11/2012,290000,,William Shauri-safari ya Arusha  pv 70733,
+102101,46, Payment - GL,15936,23/11/2012,290000,,William Shauri-safari ya Arusha pv 70771,
+102101,46, Receipt,12426,28/11/2012,,30000,Yekonia Zakaria - retire of safari imprestrv294367,None
+102101,46, Receipt,12427,28/11/2012,,1904,Petro Axweso-retirement of safari imprest rv294368,None
+102101, 46, Period Total,,,,144818
+102101,46, Balance C/Fwd,,,35674216.528608

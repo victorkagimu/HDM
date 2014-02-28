@@ -1,0 +1,80 @@
+102104 - 0 for period 12 to 23
+102104, 12, Brought Forward Balance,,,1333400
+102104,12, Receipt,2204,06/01/2010,,30000,Rv252517,
+102104,12, Receipt,2205,06/01/2010,,40000,Rv252518,
+102104,12, Receipt,2206,06/01/2010,,40000,Rv252519,
+102104,12, Receipt,2208,06/01/2010,,30000,Rv252521,
+102104,12, Receipt,2213,07/01/2010,,150000,Rv252526,
+102104,12, Receipt,2214,07/01/2010,,100000,Qambadu Manonga Return adv salary 09,None
+102104,12, Payment - GL,3566,18/01/2010,600000,,Herson Hayshi - adv.salary Jan - March,2010,None
+102104,12, Payment - GL,3506,19/01/2010,400000,,Josephat Gara,None
+102104,12, Payment - GL,3586,19/01/2010,100000,,Ester Nade - adv.salary Jan.2010,None
+102104,12, Payment - GL,3351,20/01/2010,25000,,Paulo Mashingda - adv.salary Jan.2010,None
+102104,12, Payment - GL,3357,20/01/2010,40000,,Elihuruma Edward - adv.salary Jan.2010,None
+102104,12, Payment - GL,3364,20/01/2010,80000,,Mussa Hhatsinay - adv.salary Jan.2010,None
+102104,12, Journal - GL,390,20/01/2010,,25000,Paulo Mashingda - adv.salary (previously posted to wrong GL code),
+102104,12, Payment - GL,3469,21/01/2010,2000000,,Ahmed Salum - Jan. - March,2010,None
+102104,12, Payment - GL,3661,26/01/2010,50000,,Qambadu Manungda - adv.salary Jan.2010,None
+102104,12, Journal - GL,274,31/01/2010,,590000,Vibarua January 2010,
+102104,12, Journal - GL,276,31/01/2010,,1280000,Wazee Salary Jan.2010 - advances deduction,
+102104, 12, Period Total,,,1010000
+102104,13, Receipt,2428,12/02/2010,,20000,RV253561,
+102104,13, Payment - GL,3721,16/02/2010,100000,,Ahmed Salum - adv.salary Feb.2010,None
+102104,13, Payment - GL,3813,19/02/2010,100000,,Ester Nade - adv.salary Feb.2010,None
+102104,13, Journal - GL,361,28/02/2010,,1330000,wazee advances previously posted to the wrong acc.GL 102103,None
+102104, 13, Period Total,,,,1150000
+102104,14, Payment - GL,3897,08/03/2010,100000,,Manase Hotay adv.salary Feb.2010 (refund),None
+102104,14, Payment - GL,3898,08/03/2010,150000,,Mussa Hhatsinay - adv.salary March,2010,None
+102104,14, Payment - GL,3971,15/03/2010,200000,,Gilbert Ng,wamkai adv.sal. March 010,None
+102104,14, Payment - GL,3973,15/03/2010,130000.13,,Irine Nyamusi adv.sal. usd 100,None
+102104,14, Payment - GL,4117,22/03/2010,50000,,Josephat Gara - adv.salary March,2010,None
+102104,14, Payment - GL,4119,22/03/2010,50000,,Ahmed Salum - adv.salary March,2010,None
+102104,14, Payment - GL,4158,23/03/2010,100000,,Isdori Qamara - adv.salary March,2010,None
+102104,14, Receipt,2922,24/03/2010,,200000,rv255073 return Adv salary March 2010,
+102104,14, Journal - GL,343,31/03/2010,,1600000,Wazee salary March,2010 - deduction of advance deductions March,2010,None
+102104, 14, Period Total,,,,1019999.87
+102104,15, Payment - GL,4445,22/04/2010,100000,,Herson Hayshi - adv.salary April,2010,None
+102104,15, Payment - GL,4449,22/04/2010,100000,,Manase Hotay - adv.salary April,2010,None
+102104,15, Journal - GL,389,30/04/2010,,130000.13,Irene Nyamusi - adv.salary (previously misposted),
+102104,15, Journal - GL,391,30/04/2010,,40000,Elihuruma Edward - adv.salary (previously posted to wrong GL code),
+102104, 15, Period Total,,,29999.87
+102104,16, Journal - GL,386,12/05/2010,100000,,Herson Hayshi - advance salary May,2010 (previously misposted),
+102104,16, Payment - GL,4589,13/05/2010,200000,,Gabriel sissi - adv.salary May,2010,None
+102104,16, Payment - GL,4735,18/05/2010,100000,,Josephat Gara - adv.salary May,2010,None
+102104,16, Payment - GL,4791,19/05/2010,900000,,Ahmed Sulum - adv.salary May,2010,None
+102104,16, Payment - GL,4817,20/05/2010,100000,,Manase Hotay - adv.salary May,2010,None
+102104,16, Payment - GL,4839,20/05/2010,25000,,Elizabeth Pius - adv.salary May,2010,None
+102104,16, Journal - GL,388,20/05/2010,,25000,Magreth Pius - advance salary May,2010 (previously misposted),
+102104,16, Journal - GL,411,31/05/2010,,1600000,Wazee Salary May,2010,
+102104,16, Journal - GL,412,31/05/2010,,10,Wazee Salary May 2010 (on test transaction,
+102104, 16, Period Total,,,,200010
+102104,17, Payment - GL,5024,16/06/2010,250000,,Herson Hayshi - adv.salary June,2010,None
+102104,17, Payment - GL,5033,16/06/2010,800000,,Ahmed Salum - adv.salary June,2010,None
+102104,17, Journal - GL,467,16/06/2010,110000,,Daniel Qwarsan - adv.salary June,2010 previously posted to wrong GL code (i.e staff advances),
+102104,17, Payment - GL,5128,17/06/2010,250000,,Gabriel Sissi - adv.salary June,2010,None
+102104,17, Payment - GL,5135,17/06/2010,60000,,Mussa Hhatsinay - adv.salary June,2010,None
+102104,17, Payment - GL,5137,17/06/2010,100000,,Manase Hotay - adv.salary June,2010,None
+102104,17, Payment - GL,5192,18/06/2010,200000,,Noah Genda - adv.salary salary June,2010,None
+102104,17, Journal - GL,470,18/06/2010,200000,,Josephat Gara - adv.salary June,2010 (previously wrongly posted),
+102104,17, Payment - GL,5224,23/06/2010,33900,,Manase Hotay - adv.salary June,2010,None
+102104,17, Journal - GL,474,30/06/2010,,1970000,Wazee salary June,2010 (advance salary deduction),
+102104, 17, Period Total,,,33900
+102104,20, Payment - GL,5767,20/09/2010,300000,,Rev.Edson Mbutu - adv.salary Sept. - Nov.2010,None
+102104,20, Payment - GL,5776,20/09/2010,150000,,Mussa Hhatsinay - adv.salary Sept.2010,None
+102104,20, Payment - GL,5888,21/09/2010,450000,,Daniel Qwarsan - adv.salary Sept. - Nov.2010,None
+102104,20, Payment - GL,5932,22/09/2010,155000,,Alex Reniel - adv.salary Sept.2010,None
+102104,20, Journal - GL,689,22/09/2010,,155000,Alex Reniel Adv. salary misposted to vibarua adv. correction,
+102104,20, Journal - GL,541,30/09/2010,,2570000,HSN graduated students - wages Aug.2010,
+102104,20, Journal - GL,542,30/09/2010,2570000,,HSN graduated students - wages Aug.2010 (corr. wrong posting),
+102104, 20, Period Total,,,900000
+102104,21, Journal - GL,501,07/10/2010,,400000,Wazee salaries Sept.2010 - adv.salaries deductions,
+102104,21, Receipt,4404,12/10/2010,,100000,rv261607 Mchg. Edson Mbutu - Sept. Adv. salary return,None
+102104,21, Journal - GL,701,30/10/2010,,150000,Adv. salary Retuned-Danieli Qwarsan,
+102104, 21, Period Total,,,,650000
+102104,22, Payment - GL,6497,03/11/2010,200000,,Esta Nade - adv.salary Nov.2010,None
+102104,22, Payment - GL,6554,11/11/2010,200000,,Herson Hayshi - adv.salary Nov.2010,None
+102104,22, Journal - GL,702,30/11/2010,,350000,Adv. salary deducted - Herson H. &amp; Daniel Q.,
+102104, 22, Period Total,,,50000
+102104,23, Journal - GL,703,31/12/2010,,200000,Reclasification of adv.salary returned see GL 4679 &amp; 5107,
+102104, 23, Period Total,,,,200000
+102104,23, Balance C/Fwd,,,137290

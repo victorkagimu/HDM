@@ -1,0 +1,66 @@
+203064 - 0 for period 36 to 47
+203064, 36, Brought Forward Balance,,,,4806934.8
+203064,36, Journal - GL,1332,11/01/2012,4660669.8,,NHIF-contribution for December 2011 pv 65199 	,
+203064,36, Journal - GL,1164,31/01/2012,,4724742,NHIF Employer and Employee contribution Jan 2012,
+203064,36, Journal - GL,1165,31/01/2012,,25965.6,NHIF (wazee) employer and employees contribution for Jan.2012,
+203064, 36, Period Total,,,,90037.8
+203064,37, Payment - GL,11652,18/02/2012,2359968.3,,NHIF - Employee Jan 2012 Contr.Pv66303,None
+203064,37, Journal - GL,1333,18/02/2012,2359968.3,,NHIF - Employer Jan 2012 Contr. Pv66303,
+203064,37, Journal - GL,1187,29/02/2012,,25965.6,Employee &amp; Employer contribution wazee February 2012,
+203064,37, Journal - GL,1194,29/02/2012,,4673183.2,NHIF - Employer and Employee contribution for Febr.2012,
+203064, 37, Period Total,,,20787.8
+203064,38, Journal - GL,1212,31/03/2012,,4759208.4,Employer/employee NHIF contribution for March 2012,
+203064,38, Journal - GL,1214,31/03/2012,,25965.6,Employer/employee NHIF contribution for March 2012,
+203064, 38, Period Total,,,,4785174
+203064,39, Payment - GL,12151,04/04/2012,4699148.8,,NHIF - Employee &amp; Employer Febr 2012 Contr. Pv6676,None
+203064,39, Journal - GL,1262,30/04/2012,,4795046.4,Employer/employee NHIF contribution for April  2012,
+203064,39, Journal - GL,1264,30/04/2012,,25965.6,Employee &amp; Employer contribution wazee April 2012,
+203064, 39, Period Total,,,,121863.2
+203064,40, Payment - GL,12972,03/05/2012,2437470,,NHIF - Employee Contr. March 2012 Pv67275,None
+203064,40, Journal - GL,1335,03/05/2012,2437470,,NHIF - Employer Contr. March 2012 Pv67275,
+203064,40, Journal - GL,1336,18/05/2012,4821012,,NHIF-members conrtibution April 2012 pv 68620 	Ye,
+203064,40, Journal - GL,1290,31/05/2012,,4806596.4,NHIF - Employee/employer contribution - medical staff for May.2012,
+203064,40, Journal - GL,1292,31/05/2012,,25965.6,NHIF Employer/employee (wazee) contribution for May 2012,
+203064, 40, Period Total,,,4863390
+203064,41, Payment - GL,13265,11/06/2012,4832562,,NHIF-contribution for May 2012 pv 67907,NHIF insurance scheme
+203064,41, Payment - GL,13547,27/06/2012,4871666.4,,NHIF-contribution for June 2012 pv 68206,NHIF insurance scheme
+203064,41, Journal - GL,1304,30/06/2012,,39852,Employee &amp; Employer contribution wazee for June 2012,
+203064,41, Journal - GL,1308,30/06/2012,,4831814.4,NHIF Employee &amp; Employer contribution  for June 2012,
+203064, 41, Period Total,,,4832562
+203064,42, Journal - GL,1343,31/07/2012,,39852,NHIF Employee &amp; Employer contribution wazee for July 2012,
+203064,42, Journal - GL,1345,31/07/2012,,4980249.6,Employee &amp; Employer contribution July  2012,
+203064, 42, Period Total,,,,5020101.6
+203064,43, Payment - GL,14039,03/08/2012,5020101.6,,NHIF - Employee &amp; Employer July 2012 Contr. Pv6872,None
+203064,43, Journal - GL,1379,31/08/2012,,5021877.6,NHIF - Employee contribution - medical &amp; Admin. staff for Aug. 2012,
+203064,43, Journal - GL,1433,31/08/2012,,39852,Employer/employee NHIF contribution for wazee Aug.  2012,
+203064, 43, Period Total,,,,41628
+203064,44, Payment - GL,14888,24/09/2012,5061729.6,,NHIF-member contribution for the month of 2012 pv ,None
+203064,44, Journal - GL,1399,30/09/2012,,5871889.2,NHIF - Employee/employer contribution -  for Sept.2012,
+203064,44, Journal - GL,1402,30/09/2012,,23040,NHIF (wazee) employer and employees contribution for Sept. 2012,
+203064, 44, Period Total,,,,833199.6
+203064,45, Receipt,12213,01/10/2012,,14608983,NHIF-claim reimbursement May2012 rv 285442,NHIF insurance scheme
+203064,45, Receipt,12238,01/10/2012,,11102712,NHIF-claim reimbursement June RV 285446,NHIF insurance scheme
+203064,45, Journal - GL,1456,01/10/2012,,11102712,NHIF-claim reimbursment correction,
+203064,45, Journal - GL,1874,01/10/2012,22205424,,Recorrection of wrong booking GL 1456 and receipt 12238 of Oct. 2012,
+203064,45, Journal - GL,1875,01/10/2012,14608983,,Correction of wrong booking in the ledger with receipt no. 12213,
+203064,45, Receipt,11887,02/10/2012,,50400,Mary Nikodemu - medical capitation rv 1102/2012,
+203064,45, Receipt,11890,02/10/2012,,50400,Minael Nuwas - Medical capitation rv 1107/2012,
+203064,45, Receipt,11891,02/10/2012,100800,,Correction of rv1101-1107wrongly booked to HLH A/c,
+203064,45, Payment - GL,15431,24/10/2012,5894929.2,,NHIF-member contribution for the month Sept2012 pv,None
+203064,45, Receipt,12214,25/10/2012,,10383925,NHIF-claim reimbursement July RV 285443,NHIF insurance scheme
+203064,45, Journal - GL,1876,25/10/2012,10383925,,Correction of wrong booking in the ledger with receipt no. 12214,
+203064,45, Journal - GL,1434,31/10/2012,,46080,Employer/employee NHIF contribution for wazee Oct.  2012,
+203064,45, Journal - GL,1435,31/10/2012,,5873659.2,NHIF employer and employees contribution for Oct. 2012,
+203064, 45, Period Total,,,,24810
+203064,46, Payment - GL,15631,14/11/2012,5906029.2,,NHIF-member contribution for the month October 201,None
+203064,46, Journal - GL,1682,30/11/2012,,46080,Employer/employee NHIF contribution for wazee Nov.  2012,
+203064,46, Journal - GL,1683,30/11/2012,,5879689.2,NHIF employer and employees contribution for Nov. 2012,
+203064, 46, Period Total,,,,19740
+203064,47, Journal - GL,1730,13/12/2012,,16950,NHIF-contribution from Beatrice Wanjiku 	,
+203064,47, Journal - GL,1732,13/12/2012,,16950,NHIF-contribution from Beatrice Wanjiku,
+203064,47, Payment - GL,16173,18/12/2012,5925769.2,,NHIF-member contribution for the month Nov  2012 p,
+203064,47, Payment - GL,16255,26/12/2012,6010609.2,,NHIF-member contribution for the month Dec   2012 ,
+203064,47, Journal - GL,1813,31/12/2012,,5964529.2,NHIF-Employer and Employees contribution,
+203064,47, Journal - GL,1815,31/12/2012,,46080,NHIF contribution - employer and employee contribution Dec.2012,
+203064, 47, Period Total,,,5891869.2
+203064,47, Balance C/Fwd,,,,134880

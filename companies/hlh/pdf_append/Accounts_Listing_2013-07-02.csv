@@ -1,0 +1,10 @@
+203001 - 0 for period 52 to 53
+203001, 52, Brought Forward Balance,,,,3047611.52
+203001,52, Receipt,13816,03/05/2013,,150000,Basic salary - cash payment over drawn rv300086,None
+203001,52, Payment - GL,17912,29/05/2013,95334328,,HLH-NMB salary May 2013 ,
+203001,52, Payment - GL,17913,29/05/2013,197632276,,HLH salary NBC bank May  2013 pv 72796,
+203001,52, Journal - GL,2101,31/05/2013,,10615580,Salary net pay for wazee (Cash and Bank) May 2013 pv72794, 72796 and 73102,
+203001,52, Journal - GL,2102,31/05/2013,,54834012,Net pay salary cash &amp; bank May 2013pv72794, 72796 and 73102,
+203001,52, Journal - GL,2103,31/05/2013,,239133467,HLH Net pay salary cash &amp; bank May 2013pv72794, 72796 and 73102,
+203001, 52, Period Total,,,,11766455
+203001,53, Balance C/Fwd,,,,14814066.52

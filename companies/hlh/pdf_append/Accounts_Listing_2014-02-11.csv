@@ -1,0 +1,110 @@
+203001 - 0 for period 48 to 59
+203001, 48, Brought Forward Balance,,,,11404191.2
+203001,48, Payment - GL,16771,03/01/2013,1026673,,Off pay for Dr.Thomas Tippe pv 71153,
+203001,48, Journal - GL,1817,03/01/2013,285145,,Paye-deduction from Dr.Thomas Tippe 2012 pv 71153,
+203001,48, Journal - GL,1818,11/01/2013,1793999,,Correction for amount booked in wrong A/C,
+203001,48, Payment - GL,16806,30/01/2013,2804304,,Doctor off pay 2012  pv 71181,
+203001,48, Journal - GL,1833,30/01/2013,635914,,Paye from Doctors of pv 71181,
+203001,48, Payment - GL,16807,30/01/2013,1475259,,Doctor off pay 2012 NMB   pv 71182,
+203001,48, Journal - GL,1834,30/01/2013,335286,,Paye-deduction from Doctors  offs pay 2012 pv 71182,
+203001,48, Payment - GL,16847,31/01/2013,175107498,,Salary for Jan 2013 paid through NBC pv 71184,
+203001,48, Payment - GL,16848,31/01/2013,101947070,,Salary for Jan 2013 paid through NMB pv 71185 ,
+203001,48, Journal - GL,1859,31/01/2013,,7874627,Net pay sal ( cash and Bank) wazee employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1861,31/01/2013,,223290368,Net pay sal ( cash and Bank) HLH employees Jan.2013 pv71184/71185/2013,
+203001,48, Journal - GL,1862,31/01/2013,,56399025,Net pay sal ( cash and Bank) government employees Jan.2013 pv71184/71185/2013,
+203001,48, Payment - GL,17194,31/01/2013,,0.12,Salary for Jan 2013 overstated,
+203001,48, Journal - GL,2080,31/01/2013,,5104550,Salary support to Kansay health centre Jan.2013,
+203001, 48, Period Total,,,,7257422.12
+203001,49, Payment - GL,17739,06/02/2013,15614002,,Salary paid by cash February  2013 pv 725866,
+203001,49, Payment - GL,17135,27/02/2013,185728687.6,,NBC-salary for Feb 2013 pv 72077,
+203001,49, Payment - GL,17136,27/02/2013,110003342.2,,Salary paid through NMB Feb 2013 pv 72078,
+203001,49, Journal - GL,1990,28/02/2013,,236843046,Salary Net pay (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001,49, Journal - GL,1991,28/02/2013,,59252898,Salary Net pay for government staff (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001,49, Journal - GL,1992,28/02/2013,,7859550,Salary Net pay for wazee staff (cash and bank) Febr.2013 Pv. 72077/72078/72155,
+203001,49, Journal - GL,2081,28/02/2013,,5104550,Salary support to Kansay health centre Febr.2013,
+203001, 49, Period Total,,,2285987.8
+203001,50, Payment - GL,17175,01/03/2013,13328014,,HLH salary paid by cash Feb 2013 pv 72155,
+203001,50, Journal - GL,1993,31/03/2013,,54743723,Salary Net pay for government staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001,50, Journal - GL,1994,31/03/2013,,8391251,Salary Net pay for wazee staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001,50, Journal - GL,1995,31/03/2013,,240110473,Salary Net pay for HLH staff (cash and bank) March.2013 Pv. 72567/72508/72515,
+203001, 50, Period Total,,,,289917433
+203001,51, Payment - GL,17462,02/04/2013,193394412,,Salary for March 2013 paid through NBC bank   pv 7,
+203001,51, Payment - GL,17463,02/04/2013,93265765,,Salary for March (HLH and Kansay) 2013 paid throug,
+203001,51, Payment - GL,17518,09/04/2013,15790271,,Salary paid by cash March 2013 pv 72567 	,
+203001,51, Payment - GL,17558,12/04/2013,3574510,,Francis Abdalah Kimario-salary March 2013 pv 72529,
+203001,51, Receipt,13589,15/04/2013,,2779511,Dr Francis Kimario amerudisha Salary rv299679/2013,
+203001,51, Payment - GL,17661,25/04/2013,101050566,,HLH,wazee and G/V-salary April 2013 pv 72752,
+203001,51, Payment - GL,17664,25/04/2013,202355104,,HLH staff salary April 2013 pv 72759,
+203001,51, Journal - GL,2035,30/04/2013,,11480363,Salary Net pay for wazee staff (cash and bank) April.2013 Pv. 72759/72752,
+203001,51, Journal - GL,2036,30/04/2013,,244643328,Salary Net pay for HLH staff (cash and bank) April.2013 Pv. 72752/72759,
+203001,51, Journal - GL,2037,30/04/2013,,57950882,Salary Net pay for HLH government staff (cash and bank) April.2013 Pv. 72752/72759,
+203001,51, Payment - GL,17846,30/04/2013,10668903,,HLH salary cash april 2013,
+203001, 51, Period Total,,,303245447
+203001,52, Receipt,13816,03/05/2013,,150000,Basic salary - cash payment over drawn rv300086,None
+203001,52, Payment - GL,17912,29/05/2013,95334328,,HLH-NMB salary May 2013 ,
+203001,52, Payment - GL,17913,29/05/2013,197632276,,HLH salary NBC bank May  2013 pv 72796,
+203001,52, Journal - GL,2101,31/05/2013,,10615580,Salary net pay for wazee (Cash and Bank) May 2013 pv72794, 72796 and 73102,
+203001,52, Journal - GL,2102,31/05/2013,,54834012,Net pay salary cash &amp; bank May 2013pv72794, 72796 and 73102,
+203001,52, Journal - GL,2103,31/05/2013,,239133467,HLH Net pay salary cash &amp; bank May 2013pv72794, 72796 and 73102,
+203001, 52, Period Total,,,,11766455
+203001,53, Payment - GL,18188,10/06/2013,11616455,,HLH-Salary for May paid by cash pv 73102,
+203001,53, Payment - GL,18137,25/06/2013,212053860.44,,Paye from HLH staffs June 2013 pv 73251,
+203001,53, Payment - GL,18187,25/06/2013,94282222,,HLH staffs salary (NMB) June 2013 pv 73038,
+203001,53, Payment - GL,18187,25/06/2013,0.36,,HLH staffs salary (NMB) June 2013 pv 73038 	,
+203001,53, Payment - GL,18155,28/06/2013,6758090,,HLH staffs salary paid by cash June 2013 pv 73234,
+203001,53, Journal - GL,2126,30/06/2013,,244935074,Net pay salary ( cash and Bank) HLH employees June 2013 pv73251/73038/73234,
+203001,53, Journal - GL,2128,30/06/2013,,54834012,Net pay salary ( cash and Bank) government employees June 2013 pv73251/73038/73234,
+203001,53, Journal - GL,2130,30/06/2013,,10989984,Net pay salary ( cash and Bank) from wazee employees June 2013 pv73251/73038/73234,
+203001, 53, Period Total,,,13951557.8
+203001,54, Payment - GL,18385,29/07/2013,195303903,,HLH staffs salary (NBC) July 2013 pv 73297,
+203001,54, Payment - GL,18384,31/07/2013,91909297,,HLH staffs salary (NMB) July 2013 pv 730295,
+203001,54, Payment - GL,18397,31/07/2013,6726298,,HLH,HGI and 4CCP salary July 2013 cash  pv 73513,
+203001,54, Journal - GL,2229,31/07/2013,,53494883,Salary Net pay for HLH government staff (cash and bank) July.2013 Pv. 73297/73295/73513,
+203001,54, Journal - GL,2230,31/07/2013,,230126232,Salary Net pay for HLH staff (cash and bank) July.2013 Pv. 73297/73295/73513,
+203001,54, Journal - GL,2231,31/07/2013,,10318384,Salary Net pay for HLH wazee staff (cash and bank) July.2013 Pv. 73297/73295/73513,
+203001, 54, Period Total,,,,1
+203001,55, Payment - GL,18690,28/08/2013,195098231,,HLH staffs salary (NBC) June 2013 pv 73596,
+203001,55, Payment - GL,18667,29/08/2013,89619596,,NMB bank -HLH, salary August  2013,
+203001,55, Journal - GL,2372,31/08/2013,,63909760,Salary Net pay for HLH government staff (cash and bank) August.2013 Pv. 73596/73591/73826,
+203001,55, Journal - GL,2373,31/08/2013,,10679620,Salary Net pay for HLH government staff (cash and bank) August.2013 Pv. 73596/73591/73826,
+203001,55, Journal - GL,2374,31/08/2013,,215514334,Salary Net pay for HLH staff (cash and bank) August.2013 Pv. 73596/73591/73826,
+203001,55, Payment - GL,18709,31/08/2013,5429938,,HLH staff-salary paid through cash August 2013 pv ,
+203001, 55, Period Total,,,44051
+203001,56, Journal - GL,2428,30/09/2013,,65187746,Salary Net pay for HLH government staff (cash and bank) Sept. 2013 Pv.74402/74495-2013,
+203001,56, Journal - GL,2431,30/09/2013,,278277585,Salary Net pay for HLH staff (cash and bank) Sept. 2013 Pv.74402/74495-2013,
+203001,56, Journal - GL,2433,30/09/2013,,11515620,Salary Net pay for HLH Wazee staff (cash and bank) Sept. 2013 Pv.74402/74495-2013,
+203001, 56, Period Total,,,,354980951
+203001,57, Payment - GL,19225,01/10/2013,1,,NMB bank -salary for Sept 2013 understated ,
+203001,57, Payment - GL,18974,03/10/2013,243058057,,Salary for HLH staff Sept 2013 ,
+203001,57, Payment - GL,18975,03/10/2013,102505061,,HLH staffs salary (NMB) Sept 2013 pv 74402,
+203001,57, Journal - GL,2443,08/10/2013,105400,,Elizabeth Tlagha &amp; Selina Margwe - Basic salary for  Oct 13 pv 74722,None
+203001,57, Journal - GL,2549,11/10/2013,1519232,,HLH Employees - salary of Sept 13 pv 7449 (Correction),None
+203001,57, Journal - GL,2450,14/10/2013,37844,,PAYE Danson Nduati - Malipo ya siku 14 pv 74842,None
+203001,57, Journal - GL,2447,31/10/2013,,269060349,Salary Net pay for HLH staff (cash and bank) Oct. 2013 Pv.74444/74445/74652-2013,
+203001,57, Journal - GL,2454,31/10/2013,,61642941,Net pay salary (cash &amp;Bank October PV 74444/74445/74652/2013,
+203001,57, Journal - GL,2455,31/10/2013,,10444269,Net pay salary (cash &amp;Bank October PV 74444/74445/74652/2013,
+203001,57, Journal - GL,2548,31/10/2013,6930052,,HLH Employees - salary of October 13 pv 74652 (correction),None
+203001, 57, Period Total,,,13008088
+203001,58, Payment - GL,19212,01/11/2013,93952455,,HLH-staff salary paid through  NMB October 2013  ,
+203001,58, Payment - GL,19215,01/11/2013,240174711,,NBC-salary For October 2013 for HLH pv 74445,
+203001,58, Journal - GL,2480,08/11/2013,105400,, Paye for	Elizabeth Tlagha &amp; Selina Margwe - Basic salary for Oct 13 pv 74722,None
+203001,58, Journal - GL,2488,30/11/2013,520,,Paye for Valery Peter  -Partly  Payment of salary pv 74988,None
+203001,58, Journal - GL,2491,30/11/2013,,59006341,Salary Net pay for HLH government staff (cash and bank) Nov.2013 Pv.74792/74794,
+203001,58, Journal - GL,2492,30/11/2013,,10304269,Salary Net pay for HLH wazee staff (cash and bank) Nov.2013 Pv.74792/74794,
+203001,58, Journal - GL,2496,30/11/2013,,227820930,Salary Net pay for HLH staff (cash and bank) Nov.2013 Pv.74792/74794,
+203001, 58, Period Total,,,37101546
+203001,59, Payment - GL,19483,03/12/2013,84023985,,HLH-NMB salary Nov 2013 ,
+203001,59, Payment - GL,19486,03/12/2013,207496506,,HLH-NBC  salary Nov 2013,
+203001,59, Journal - GL,2513,04/12/2013,571543,,Paye Dr.Zakaria Thomas-Basic salary areas Sept - Nov   pv 74083,None
+203001,59, Payment - GL,19717,20/12/2013,205671961.1,,HLH-staff salary paid through  NBC  December 2013,
+203001,59, Payment - GL,19719,23/12/2013,83629659.69,,HLH-december salary paid through NMB pv 74169,
+203001,59, Payment - GL,19684,24/12/2013,8899597,,HLH Employees - salary of Dec paid through cash  1,None
+203001,59, Journal - GL,2546,27/12/2013,77125,,PAYE for Dr.Zakaria Thomas-Basic salary diference   pv 74298,None
+203001,59, Journal - GL,2553,30/12/2013,287555,,Paye for Medard Paskal - Basic salary for Dec 13 pv 75017,None
+203001,59, Journal - GL,2585,31/12/2013,,226702018,Salary Net pay for HLH staff (cash and bank) Dec.2013 Pv.74169/74180/74289-2013,
+203001,59, Journal - GL,2586,31/12/2013,,57117256,Salary Net pay for Government staff (cash and bank) Dec.2013 Pv.74169/74180/74289-2013,
+203001,59, Journal - GL,2587,31/12/2013,,10446285,Salary Net pay for wazee staff (cash and bank) Dec.2013 Pv.74169/74180/74289-2013,
+203001,59, Payment - GL,19959,31/12/2013,,0.69,NMB bank -HLH,HSN,HGI and 4CCP salary December   2,
+203001,59, Journal - GL,2602,31/12/2013,,3987008,HGHI - Dec.203 salary (Cash salary, School fund, Rambi*2, TUGHE &amp; Loan) Ref. Pv 74289 Dec. Payroll,None
+203001, 59, Period Total,,,292405364.1
+203001,59, Balance C/Fwd,,,,13284411.62

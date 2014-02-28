@@ -1,0 +1,115 @@
+104020 - 0 for period 48 to 58
+104020, 48, Brought Forward Balance,,,63569333.76931
+104020,48, Journal - GL,2106,01/01/2013,,28704407,booking of research salaris Augus 2012 creditted to Salaries instead of Current Account,
+104020,48, Journal - GL,2344,01/01/2013,,80000,booking of research salaris Augus 2012 creditted to Salaries instead of Current Account,
+104020,48, Payment - GL,16849,30/01/2013,1149982.5366081,,Sound and Vision  order for Mal-ed pv 71186,
+104020,48, Journal - GL,1861,31/01/2013,28140081,,Salary and allowances for Research staff Jan.2013,
+104020, 48, Period Total,,,505656.5366081
+104020,49, Journal - GL,1990,28/02/2013,27641828,,Research staff Basic salary and other allowances Febr.2013,
+104020, 49, Period Total,,,27641828
+104020,50, Receipt,13374,18/03/2013,,55676922,Mal-ed &amp; HBB-Salary refund  Jan to Feb 2013 297416,
+104020,50, Receipt,13921,20/03/2013,,189189189.18919,Loan from MalEd,
+104020,50, Receipt,13922,20/03/2013,,162162162.16216,Loan from HBB,
+104020,50, Journal - GL,2215,22/03/2013,500000,,ELCT - HGHI fund raising to KLH included to HLH cheg.ref. chq 72289,None
+104020,50, Journal - GL,1995,31/03/2013,28747768,,Research staff Basic salary and other allowances March.2013,
+104020, 50, Period Total,,,,377780505.35135
+104020,51, Payment - GL,17501,05/04/2013,60000,,Julietha and Paschalina-safari ya DSM overspent pv,
+104020,51, Receipt,13506,05/04/2013,,647000,Benson-overpayment for fridge for Mal-ed rv 297421,
+104020,51, Receipt,13895,05/04/2013,,887500,visa Jorgen Linde USD500,
+104020,51, Receipt,13897,05/04/2013,,2178888.8888889,Visa Linde, Svensen and Patil USD1350,
+104020,51, Payment - GL,17725,10/04/2013,191780821.91781,,Return of Maled Loan,
+104020,51, Payment - GL,17726,10/04/2013,164383561.64384,,Return of HBB loan,
+104020,51, Journal - GL,2105,10/04/2013,,4813032.21,exchange difference loan Research 20/3-10/4,
+104020,51, Payment - GL,17600,22/04/2013,500000,,Editha Gaetan-mkopo toka HLH pv 72693,
+104020,51, Payment - GL,17661,25/04/2013,7576761,,HGI-salary for April 2013 pv 72752,
+104020,51, Payment - GL,17664,25/04/2013,10649707,,HGI-salary for April 2013  (NBC)pv 72752,
+104020,51, Payment - GL,17677,25/04/2013,2548853.0798354,, Mal-Ed-loan from HLH pv 72713  ,
+104020,51, Payment - GL,17663,30/04/2013,2723384,,HGI-Paye for April 2013  pv 72758,
+104020,51, Payment - GL,17830,30/04/2013,720000,,Mal- ED -Amount reguested for  VISA processing pv ,None
+104020,51, Payment - GL,17846,30/04/2013,2050673,,HGI-salary for April 2013 pv 72752 cash,
+104020, 51, Period Total,,,374467340.5426
+104020,52, Journal - GL,2087,09/05/2013,296000,,Fanueli Sappa - Road licence and Insurance pv 7283 (R. Lisence &amp; Insurance for T. 954 BRY),T 954 BRY Hilux
+104020,52, Payment - GL,17861,16/05/2013,106230,,HGI-NHIF contribution April 2013,
+104020,52, Payment - GL,17863,16/05/2013,844520,,LAPF-members contribution April 2013 pv 72780,
+104020,52, Payment - GL,17869,16/05/2013,258605.2,,HGI-Tughe contribution April 2013 ,
+104020,52, Payment - GL,17876,23/05/2013,4151556,,HGI-NSSF contribution April 2013 pv 72790,
+104020,52, Payment - GL,17912,29/05/2013,6946997,,HGI-salary for May 2013 pv 72752,
+104020,52, Payment - GL,17913,29/05/2013,11166251,,HGI-salary for May 2013 pv 72796 NBC,
+104020,52, Payment - GL,17914,29/05/2013,2723384,,HGI-Paye for May 2013  pv 72795,
+104020,52, Payment - GL,17932,31/05/2013,324853.82390059,,Etomih Mduma-exchange  usd to Tsh pv 72985,
+104020, 52, Period Total,,,26818397.023901
+104020,53, Payment - GL,17971,04/06/2013,2356160,,Cash changed to cheque- for  Mal-Ed pv 73065,
+104020,53, Payment - GL,18188,10/06/2013,2313610,,HGHI-Salary for May paid by cash pv 73102,
+104020,53, Receipt,14285,12/06/2013,,2356160,Maed-exchange cheque to cash rv 297439,
+104020,53, Payment - GL,18013,13/06/2013,57618524,,Research-salary reimbursement MAL-ED and HBB March,
+104020,53, Receipt,14204,13/06/2013,,115237048,Research-salary reimbursement MAL-ED and HBB March and April rv 297437 correction,
+104020,53, Receipt,14284,13/06/2013,,5206987,Maled,refund for loan for petty cash and usd297438,
+104020,53, Journal - GL,2109,18/06/2013,4051126,,NSSF-NSSF Research contribution May ,
+104020,53, Payment - GL,18125,18/06/2013,258605.2,,Tughe-Reseach contribution  May 2013,
+104020,53, Payment - GL,18126,18/06/2013,844520,,LAPF-Reseach  members contri May  2013 pv 73027,
+104020,53, Payment - GL,18128,19/06/2013,106230,,NHIF- HLHI members contribution May 2013 pv 73029,
+104020,53, Payment - GL,18130,25/06/2013,2649469,,Paye from Research June 2013 pv 73039,
+104020,53, Payment - GL,18137,25/06/2013,11532242,,HGHI-salary for June 2013pv 73251,
+104020,53, Payment - GL,18187,25/06/2013,6303283,,HGHI-salary for June NMB  2013 pv 73038,
+104020,53, Payment - GL,18190,28/06/2013,1903490,,Reseach -salary for June 2013 Cash pv 73351,
+104020, 53, Period Total,,,,32862935.8
+104020,54, Journal - GL,2124,16/07/2013,4231486,,HGHI-NSSF contribution June 2013 ,
+104020,54, Journal - GL,2125,16/07/2013,844520,,HGHI-LAPF contribution June 2013,
+104020,54, Payment - GL,18280,16/07/2013,106230,,NHIF-members contribution June 2013 pv 73279,
+104020,54, Payment - GL,18281,16/07/2013,258605.2,,HGHI-Tughe June 2013 ,
+104020,54, Payment - GL,18291,17/07/2013,1122000,,FMS-travelling expences for Dr Kindato and Robert ,
+104020,54, Payment - GL,18293,19/07/2013,949819.77,,Nazareth Import and export -loan to Mal-Ed pv 7328,
+104020,54, Payment - GL,18314,19/07/2013,949819.77,,Nazareth Import and export -loan to Mal-Ed pv 7328,
+104020,54, Payment - GL,18315,24/07/2013,1122000,,FMS-travelling expences for Dr Kindato and Robert ,
+104020,54, Payment - GL,18316,24/07/2013,,949819.77,Nazareth Import and export -loan to Mal-Ed  73285 ,
+104020,54, Payment - GL,18385,29/07/2013,10374318,,HGHI-salary for July NBC  2013 pv 73297,
+104020,54, Payment - GL,18384,31/07/2013,5112445,,HGHI-salary for July NMB  2013 pv 73295,
+104020,54, Payment - GL,18386,31/07/2013,2467529.11,,HGHI-paye Jully 2013 pv 73296,
+104020,54, Payment - GL,18397,31/07/2013,1908219,,HGHI-salary for July cash  2013 pv 73513,
+104020,54, Payment - GL,18403,31/07/2013,652000,,Estomih-safari ya Dsm pv 73522,
+104020, 54, Period Total,,,29149172.08
+104020,55, Receipt,15043,02/08/2013,,88343963.87,HGHI-sal ref for Mat to july and other expences ,
+104020,55, Receipt,15047,02/08/2013,,0.13,Research-salary reimbursement understated ,
+104020,55, Payment - GL,18439,06/08/2013,1120000,,Karoline maney for permit for Erling and Forgen pv,
+104020,55, Payment - GL,18549,22/08/2013,844520,,HGHI-LAPF contribution July 2013,
+104020,55, Payment - GL,18551,22/08/2013,212841.8,,Tughe-Reseach contribution  July 2013,
+104020,55, Payment - GL,18552,22/08/2013,92520,,NHIF- HGHI members contribution July 2013 ,
+104020,55, Payment - GL,18554,22/08/2013,3547152,,HGHI-NSSF contribution July 2013,
+104020,55, Payment - GL,18605,23/08/2013,818924,,Caroline Amour-salary for July 2013 pv 73763,
+104020,55, Journal - GL,2339,23/08/2013,193396,,Paye from Caroline salary for July 2013 ,
+104020,55, Payment - GL,18607,23/08/2013,213605,,Elizabeth Madangi -salary for August 2013 pv 73766,
+104020,55, Journal - GL,2340,23/08/2013,52195,,Elizabeth-LAPF/Rambirambi and Paye August 2013 	,
+104020,55, Payment - GL,18608,23/08/2013,120818,,Elizabeth Madangi -malipo ya offs pv 73767,
+104020,55, Payment - GL,18690,28/08/2013,10871569,,HGHI-salary for August NBC 2013 pv 73596,
+104020,55, Payment - GL,18644,29/08/2013,3158569,,PAYE-August   2013 HLH,4CCP,HSN,HGHI and Health Ce,
+104020,55, Payment - GL,18646,29/08/2013,585000,,Spanish Tiles and sanitary Ware LTD-payment for ti,
+104020,55, Payment - GL,18670,29/08/2013,6514862,,HGHI-salary for August 2013 pv 73591,
+104020,55, Journal - GL,2364,31/08/2013,550000,,Refund loan from Emanueli Akonaay MAL-ED Staff April to August 2013,
+104020,55, Payment - GL,18710,31/08/2013,1955234,,HGHI-salary paid through cash August 2013 pv 73826,
+104020, 55, Period Total,,,,57492758.2
+104020,56, Payment - GL,18724,10/09/2013,92520,,HGHI-HIF contr August 2013 pv 73905,
+104020,56, Payment - GL,18728,10/09/2013,800220,,HGHI-LAPF contribution August  2013,
+104020,56, Payment - GL,18730,10/09/2013,208500.3,,HGHI-Tughe August 2013   pv 73904,
+104020,56, Payment - GL,18734,10/09/2013,3992312,,HGHI-NSSF contribution August  2013 rv 73906,
+104020,56, Receipt,15270,10/09/2013,,29123227,Research-salary reimbursement MAL-ED and HBB Augus,
+104020,56, Payment - GL,18949,28/09/2013,179359,,NBC Bank-staff loan repayment Sept 2013 pv 73949,
+104020,56, Journal - GL,2430,30/09/2013,110000,,Refund loan from Emanueli Akonaay MAL-ED Staff April to Sept. 2013,
+104020, 56, Period Total,,,,23740315.7
+104020,57, Payment - GL,18974,03/10/2013,11916198,,HGHI-salary for  Sept NBC 2013 ,
+104020,57, Payment - GL,18975,03/10/2013,6504450,,HGHI-salary for  Sept NMB  2013,
+104020,57, Payment - GL,18982,03/10/2013,3279169.11,,HGHI-paye Sept  2013 ,
+104020,57, Payment - GL,18993,08/10/2013,72000,,Estomih  Mduma -travelling insurance for Dr Sakwel,
+104020,57, Payment - GL,19022,11/10/2013,217494,,HLH Vibarua - Kufanya kazi ya research pv 74492,None
+104020,57, Payment - GL,19150,22/10/2013,222250.6,,HGHI-Tughe  Sept  2013   pv 74430,
+104020,57, Payment - GL,19153,22/10/2013,106782,,HGHI-NHIF contr Sept  2013 pv 74429,
+104020,57, Payment - GL,19152,23/10/2013,4152694,,HGHI-NSSF contribution Sept  2013 rv 74432,None
+104020,57, Payment - GL,19366,24/10/2013,,193396,Caroline Amour - Basic salary of Oct 13 pv 74592 R,None
+104020,57, Payment - GL,19367,24/10/2013,193396,,Caroline Amour - Basic salary of Oct 13 pv 74592 R,None
+104020,57, Journal - GL,2451,31/10/2013,110000,,Deduction from MAL-ED other staff payments for revolving fund HSN Emanueli Akonaay October 2013,
+104020, 57, Period Total,,,26581037.71
+104020,58, Payment - GL,19211,01/11/2013,2928849.8,,PAYE-October    2013 ,HGHI pv 74443,
+104020,58, Payment - GL,19212,01/11/2013,5502698,,HLH-staff salary paid through  NMB October 2013,
+104020,58, Payment - GL,19215,01/11/2013,10933364,,HGHI-staff salary paid through  NBC October 2013,
+104020,58, Payment - GL,19249,06/11/2013,495940,,Hellen &amp; Katarina - Basic salary for Oct 13 pv 747,None
+104020, 58, Period Total,,,19860851.8
+104020,58, Balance C/Fwd,,,76717102.411065

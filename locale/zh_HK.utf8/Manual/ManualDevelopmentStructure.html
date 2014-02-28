@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=gb2312">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 3.2  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Exson Qu">
+	<META NAME="CREATED" CONTENT="20110210;16401700">
+	<META NAME="CHANGEDBY" CONTENT="Exson Qu">
+	<META NAME="CHANGED" CONTENT="20110211;10233800">
+	<META NAME="CHANGEDBY" CONTENT="Exson Qu">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		A:link { so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="zh-CN" DIR="LTR">
+<P><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=5 STYLE="font-size: 20pt"><B>开发</B></FONT>&mdash;<FONT SIZE=5 STYLE="font-size: 20pt"><B>架构</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>此页主要是为希望掌握系统及各个脚本的功能的研发者而准备的。</FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=5><B>销售订单</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>销售订单的发起是用如下的脚本：</FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">SelectOrderItems.php</SPAN></FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>此脚本包含了为订单选择顾客及订购的商品的功能。</FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>此订单的处理逻辑是围绕一个称作</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">Items</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>的购物车对象，它被声明为一个会话变量。它包含了一个</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">LineItem</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>对象组成的数组，每个订单行的商品包含了订单行的所有信息</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">-</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>我希望是可预测的！</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">Items</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>会话变量也包含订单抬头数据例如：顾客，货币，销售类型等等。整张订单因此暂存到了会话变量中。内存中的销售订单只是在用户明确地提交了更改才会更新数据库。这个是由脚本</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">DeliveryDetails.php</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>完成的。</FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>脚本</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">SelectOrderItems.php</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>允许对于存在的订单修改，只要从数据库中取出数据，填满</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">Items</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4>会话对象和商品</FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN LANG="en-US"><FONT FACE="楷体_GB2312, monospace"><FONT SIZE=4><SPAN LANG="en-US">LineItems</SPAN></FONT></FONT></SPAN></FONT><FONT FACE="楷�

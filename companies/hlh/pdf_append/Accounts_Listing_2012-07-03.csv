@@ -1,0 +1,133 @@
+102101 - 0 for period 36 to 42
+102101, 36, Brought Forward Balance,,,34832866.528608
+102101,36, Payment - GL,10780,02/01/2012,51000,,Amani Gadiye Bayo - Adv. salary Jan. 2012, Pv65308,None
+102101,36, Journal - GL,1144,02/01/2012,,51000,Amani Gadiye Bayo - Adv. salary Jan. 2012, Pv65308 correction for wrong posting,None
+102101,36, Payment - GL,10768,09/01/2012,348000,,Samweli Thomas-safari ya Arusha pv 65351,None
+102101,36, Payment - GL,10772,09/01/2012,118000,,Jacob and Marco-overspent for pv 65248  pv 65355,None
+102101,36, Payment - GL,10773,09/01/2012,1806000,,Venance and Frank-safari ya Tanga  pv 65356,None
+102101,36, Journal - GL,1143,09/01/2012,,337300,Samweli Thomas - Retirement of Arusha safari ref. pv 6535,None
+102101,36, Journal - GL,1146,09/01/2012,,1806000,Venance and Frank - Retirement of Tanga safari pv 65356,None
+102101,36, Journal - GL,1147,09/01/2012,,118000,Jacob and Marco-overspent for pv 65248 pv 65355 correction of wrong posting,None
+102101,36, Payment - GL,11121,18/01/2012,243000,,Petro Axwesso - safari ya Arusha pv65720,None
+102101,36, Journal - GL,1148,18/01/2012,,243000,Petro Axwesso - Retirement of Arusha safari pv65720,None
+102101,36, Receipt,9359,19/01/2012,,10700,Samweli Thomas - Retirement of Arusha safari ref. pv 6535, rv279566,None
+102101,36, Receipt,9566,19/01/2012,10700,,Samwel Thomas-retm cor,None
+102101,36, Journal - GL,1208,19/01/2012,,10700,Samwel Thomas - retirement of Pv65351 rv279566 correction for double posting,None
+102101,36, Payment - GL,11123,20/01/2012,130000,,Gilbert Ngwamkai safari ya Arusha pv 65753,None
+102101,36, Payment - GL,11126,20/01/2012,950000,,Huruma Sangali-safari ya DSM pv 65757,None
+102101,36, Payment - GL,11136,20/01/2012,180000,,Paulina Sinyaw  safari ya Morogoro pv 65762,None
+102101,36, Payment - GL,11139,20/01/2012,180000,,Naligia Kitundu safari ya Morogoro pv 65763,None
+102101,36, Payment - GL,11141,20/01/2012,320000,,William Shauri-safari ya Arusha pv 65764,None
+102101,36, Journal - GL,1145,20/01/2012,,130000,Gilbert Ngwamkai - Retirement of Arusha safari ref. pv 65753,None
+102101,36, Journal - GL,1149,20/01/2012,,100000,Paulina Sinyaw - retirement of Morogoro safari ref.pv 65762,None
+102101,36, Journal - GL,1150,20/01/2012,,320000,William Shauri - Retirement of Arusha safari ref. pv 65764,None
+102101,36, Journal - GL,1156,20/01/2012,,950000,Huruma Sangali - Retirement of DSM safari imprest, Ref pv 65757,None
+102101,36, Journal - GL,1160,20/01/2012,,100000,Naligia Kitundu - Retirement of Morogoro safari ref. pv 65763,None
+102101,36, Payment - GL,11708,25/01/2012,300000,,Emanuel Mighay-ununuzi miti na maua pv 65803,None
+102101,36, Payment - GL,11205,28/01/2012,310000,,William Shauri-safari ya Arusha pv65831,None
+102101,36, Journal - GL,1151,28/01/2012,,310000,William Shauri - retirement of Arusha safari ref. pv65831,None
+102101, 36, Period Total,,,460000
+102101,37, Payment - GL,11395,08/02/2012,268000,,Petro Axwesso - Moshi safari imprest, Pv65959,None
+102101,37, Journal - GL,1169,08/02/2012,,268000,Petro Axwesso - Retirement of Moshi safari imprest, Ref. Pv65959,None
+102101,37, Receipt,9360,09/02/2012,,80000,	Paulina Sinyaw - retirement of Morogoro safari ref.pv 65762, rv281313,None
+102101,37, Payment - GL,11408,10/02/2012,495000,,William Shauri - Arusha safari imprest, Pv65973,None
+102101,37, Journal - GL,1168,10/02/2012,,495000,William Shauri - Retirement of Arusha safari imprest, ref.Pv65973,None
+102101,37, Payment - GL,11427,14/02/2012,318000,,Petro Axwesso &amp; Isaya - Arusha safari imprest rece,None
+102101,37, Journal - GL,1170,14/02/2012,,318000,Petro Axwesso &amp; Isaya - Arusha safari imprest receivables, ref. Pv65993,None
+102101,37, Payment - GL,11483,16/02/2012,1624000,,Huruma Sangali - DSM safari imprest, Pv66083,None
+102101,37, Payment - GL,11484,16/02/2012,726100,,William Shauri - Arusha safari imprest, Pv66084,Guest House 
+102101,37, Journal - GL,1174,16/02/2012,,256100,William Shauri - Retirement of Arusha safari imprest, Pv66084,None
+102101,37, Payment - GL,11717,16/02/2012,,470000,William Shauri - Arusha safari imprest, Pv66084 Re,None
+102101,37, Journal - GL,1182,16/02/2012,,1624000,Huruma Sangali - Retirement of DSM safari imprest, Ref. Pv66083,None
+102101,37, Payment - GL,11679,21/02/2012,1323000,,Yeconia Deles - Arusha safari imprest, Pv66337,None
+102101,37, Payment - GL,11680,21/02/2012,214800,,Petro Axwesso - Arusha safari imprest, Pv66338,None
+102101,37, Journal - GL,1167,21/02/2012,,1323000,Yeconia Deles - Retirement of Arusha safari imprest, ref.Pv6633,None
+102101,37, Journal - GL,1171,21/02/2012,,214800,Petro Axwesso - Retirement of Arusha safari imprest, ref. Pv66338,None
+102101,37, Payment - GL,11752,24/02/2012,2520000,,Venance Moshi - DSM safari imprest, Pv66370,None
+102101,37, Payment - GL,11754,24/02/2012,2940000,,Elihuruma Anania &amp; Frank S. - DSM safari imprest, ,None
+102101,37, Journal - GL,1210,24/02/2012,,2520000,Venance Moshi - Retirement of DSM safari imprest, ref. Pv66370,None
+102101,37, Journal - GL,1211,24/02/2012,,2940000,Elihuruma Anania &amp; Frank S. - Retirement of DSM safari imprest, Pv66371,None
+102101, 37, Period Total,,,,80000
+102101,38, Payment - GL,11803,05/03/2012,239880,,Petro Axwesso - Arusha safari imprest, Pv66453,None
+102101,38, Journal - GL,1185,05/03/2012,,239880,Petro Axwesso - Retirement of Arusha safari imprest, ref Pv66453,None
+102101,38, Payment - GL,11806,05/03/2012,305000,,Dr. N. Naman - Moshi safari imprest (Semina ) Pv66,None
+102101,38, Payment - GL,11815,06/03/2012,326100,,William Shauri - Moshi safari imprest, Pv66468,None
+102101,38, Payment - GL,11816,06/03/2012,23200,,HAPO - PMCTC Febr, 2012 Milk, pv66469,HAPO Department
+102101,38, Journal - GL,1204,06/03/2012,,23200,HAPO - PMCTC Febr, 2012 Milk, pv66469 correction for wrong posting,HAPO Department
+102101,38, Journal - GL,1215,06/03/2012,,324940,Willian Shauri - retirement of of moshi safari ref. pv66468 rv28264,None
+102101,38, Receipt,9999,08/03/2012,,80000,Naligia Kitundu-trmnt pv 65763 rv 282426,None
+102101,38, Payment - GL,11922,12/03/2012,338000,,William Shauri - KIA safari imprest, Pv66562,None
+102101,38, Journal - GL,1216,12/03/2012,,329400,Willian Shauri - retirement of KIA safari ref. pv66562 rv282646,None
+102101,38, Payment - GL,11938,13/03/2012,286100,,Samwel Thomas - Arusha safari imprest, Pv66579,None
+102101,38, Journal - GL,1217,13/03/2012,,286100,Samwel Thomas - Retirement of Arusha safari imprest, Ref. Pv66579,None
+102101,38, Payment - GL,11948,14/03/2012,244880,,Petro Axwesso - Moshi safari Imprest, Pv66590,None
+102101,38, Receipt,9899,14/03/2012,,353000,Samwl Naman-retirement of Pv61822/3 62598 rv282632,None
+102101,38, Journal - GL,1221,14/03/2012,,244880,Petro Axwesso - Retirement of Moshi safari Imprest, ref. Pv66590,None
+102101,38, Payment - GL,11959,15/03/2012,500000,,Venance Moshi - DSM safari imprest, Pv66601,None
+102101,38, Receipt,9900,15/03/2012,,8600,Willian Shauri - retirement of pv66562 rv282646,None
+102101,38, Receipt,9901,15/03/2012,,1160,Willian Shauri - retirement of pv66468 rv282647,None
+102101,38, Journal - GL,1218,15/03/2012,,500000,Venance Moshi / Frank S. - Retirement of DSM safari imprest, Ref. Pv66601,None
+102101,38, Payment - GL,11970,16/03/2012,942000,,Huruma Sangali - DSM safari imprest, Pv66612,None
+102101,38, Payment - GL,11971,16/03/2012,842000,,Jackson Tarmo - DSM safari imprest, Pv66613,None
+102101,38, Payment - GL,11972,16/03/2012,210000,,Emanuel Mighay - Arusha safari Imprest, Pv66614,None
+102101,38, Payment - GL,11973,16/03/2012,296000,,William Shauri - KIA safari imprest, Pv66615,None
+102101,38, Journal - GL,1219,16/03/2012,,942000,Huruma Sangali - Retirement of DSM safari imprest, ref. Pv66612,None
+102101,38, Journal - GL,1222,16/03/2012,,842000,Jackson Tarmo - Retirement of DSM safari imprest, ref. Pv66613,None
+102101,38, Journal - GL,1223,16/03/2012,,296000,William Shauri - Retirement of KIA safari imprest, ref. Pv66615,None
+102101,38, Payment - GL,11974,19/03/2012,1253000,,Elihuruma Anania - Arusha safari Imprest, Pv66616,None
+102101,38, Journal - GL,1220,19/03/2012,,1253000,Elihuruma Anania - Retirement of Arusha safari Imprest, Ref. Pv66616,None
+102101,38, Payment - GL,12023,23/03/2012,137000,,William Shauri - Arusha safari imprest, Pv66675,None
+102101,38, Payment - GL,12024,23/03/2012,261000,,Ayubu Daniel - Arusha safari imprest, Pv66676,None
+102101,38, Journal - GL,1224,23/03/2012,,137000,William Shauri - Retirement of Arusha safari imprest, ref. Pv66675,None
+102101,38, Journal - GL,1225,23/03/2012,,261000,Ayubu Daniel - Retirement of Arusha safari imprest, ref. Pv66676,None
+102101,38, Payment - GL,12035,26/03/2012,337900,,Barikieli H. Sulle - Arusha safari imprest, Pv6668,None
+102101,38, Journal - GL,1234,26/03/2012,,337000,Barikieli H. Sulle - Retirement of Arusha safari imprest, ref. Pv66689,None
+102101,38, Payment - GL,12041,27/03/2012,110000,,pakalina bayo-safari ya Arusha pv 66697,None
+102101,38, Payment - GL,12047,27/03/2012,525000,,Martha E. Massawe - Arusha safari imprest, Pv66703,None
+102101,38, Journal - GL,1226,27/03/2012,,110000,Paskalina Bayo - Retirement of Arusha safari ref. pv 66697,None
+102101,38, Journal - GL,1258,27/03/2012,,525000,Martha E. Massawe - Retirement for Arusha safari imprest, Pv66703,None
+102101, 38, Period Total,,,82900
+102101,39, Payment - GL,12135,03/04/2012,458000,,William Shauri - Moshi safari imprest, Pv66755,None
+102101,39, Journal - GL,1285,03/04/2012,,458000,William Shauri - retirement of Moshi safari imprest, ref. Pv66755,None
+102101,39, Payment - GL,12179,10/04/2012,594000,,Petro and Marco-safari ya Arusha pv 66842,None
+102101,39, Journal - GL,1259,10/04/2012,,517900,Petro and Marco-Retirement of Arusha safari imp. pv 66842,None
+102101,39, Receipt,10242,16/04/2012,,76100,Petro Axwesso-retirement of safar imprest rv286924,None
+102101,39, Receipt,10265,17/04/2012,,900,Barikiel Herson - retiring safari imprest rv286932,None
+102101,39, Payment - GL,12506,20/04/2012,442000,,Hans Valhenburg - DSM safari imprest Pv67183,None
+102101,39, Payment - GL,12557,25/04/2012,745200,,William Shauri - Arusha safari imp. Pv67219,None
+102101,39, Payment - GL,12561,25/04/2012,460200,,Petro Axwesso - Moshi safari imp. Pv67226,None
+102101,39, Journal - GL,1260,25/04/2012,,404500,Petro Axwesso - Retirement of Moshi safari imp. Pv67226,None
+102101,39, Journal - GL,1283,25/04/2012,,745200,William Shauri - Retirement of Arusha safari imp. Ref. Pv67219,None
+102101,39, Payment - GL,12569,28/04/2012,310000,,Daudi Mayega - Tanga safari imp. 2012, Pv67237,None
+102101,39, Payment - GL,12580,30/04/2012,359000,,William Shauri - Arusha safari imp. Pv67250,None
+102101,39, Journal - GL,1284,30/04/2012,,325400,William Shauri - retirement of Arusha safari imp. Ref. Pv67250,None
+102101, 39, Period Total,,,840400
+102101,40, Receipt,10571,03/05/2012,,55700,Petro Axwesso-return of Imprest rv284630/2012,
+102101,40, Payment - GL,13032,09/05/2012,207600,,Ayubu Danieli-safari ya Arusha -pv 67322,None
+102101,40, Payment - GL,13033,09/05/2012,295200,,petro Axwesso-safari ya Arusha pv 67323,None
+102101,40, Journal - GL,1287,09/05/2012,,294240,Petro Axwesso - Arusha safari imprest ref. pv 67323,None
+102101,40, Receipt,10508,14/05/2012,,960,Petro Axwesso-return of amount underspent rv193,
+102101,40, Payment - GL,13008,14/05/2012,1707450,,William Shauri - Arusha safari imprest, Pv67397,None
+102101,40, Payment - GL,13016,14/05/2012,1500000,,Huruma Sangali-safari Imprest pv 67400,None
+102101,40, Journal - GL,1288,14/05/2012,,1707450,William Shauri - Retirement of Arusha safari imprest, RefPv67397,None
+102101,40, Journal - GL,1293,14/05/2012,,1388000,Huruma Sangali - Retirement of DSM, Moshi &amp; Mwanza safari Imprest ref. pv 67400,None
+102101,40, Payment - GL,13070,22/05/2012,335000,,Yekonia Deles -safari ya Moshi-kumsindikiza Mama K,None
+102101,40, Journal - GL,1286,22/05/2012,,335000,Yekonia Deles -Retirement of Moshi safari (kumsindikiza Mama Kari) ref. pv 67739,None
+102101,40, Receipt,10651,25/05/2012,,23500,Paskalina Bayo-hesabu ya pv63894-rv285203/12,
+102101,40, Payment - GL,13117,28/05/2012,1996500,,William Shauri - Arusha safari imprest, Pv67774,None
+102101,40, Payment - GL,13122,28/05/2012,565000,,Petro Axwesso&amp;Isaya Moses-safari ya Arusha pv 6778,None
+102101,40, Journal - GL,1289,28/05/2012,,1996500,William Shauri - retirement of Arusha safari imprest, Ref. Pv67774,None
+102101,40, Payment - GL,13126,29/05/2012,335000,,Barikiel H Sulle-safari ya Arusha pv 67788,None
+102101, 40, Period Total,,,1140400
+102101,41, Payment - GL,13177,01/06/2012,330000,,Yekonia Zakaria-safari allowance morogoro pv67815,None
+102101,41, Receipt,10865,04/06/2012,,105760,Petro Axweso-retirement of safari imprest rv285607,None
+102101,41, Payment - GL,13236,06/06/2012,442500,,William Shauri -safari ya Morogoro pv 67876,None
+102101,41, Payment - GL,13256,08/06/2012,1816000,,Ayubu Danieli-safari ya Arusha -pv 67899,None
+102101,41, Receipt,10805,13/06/2012,,112000,Huruma Sangali - retirement of pv67400 rv286073,None
+102101,41, Receipt,10826,13/06/2012,,442500,William Shauri - retirement of pv67876rv286080,None
+102101,41, Payment - GL,13442,18/06/2012,730000,,Amon Ndeki-adv salary pv 68088,None
+102101,41, Payment - GL,13474,19/06/2012,563200,,Petro Axwesso-adv salary pv 68122,None
+102101,41, Receipt,10985,21/06/2012,,200000,Yekonia Zakaria - retire of safari imprestrv286282,None
+102101,41, Receipt,11003,25/06/2012,,33600,Willian Shauri - retirement of pv67250 rv286300,None
+102101, 41, Period Total,,,2987840
+102101,42, Balance C/Fwd,,,40264406.528608

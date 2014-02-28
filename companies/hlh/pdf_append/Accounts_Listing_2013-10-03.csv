@@ -1,0 +1,73 @@
+201019 - 0 for period 35 to 57
+201019, 35, Brought Forward Balance,,,0
+201019,40, Journal - GL,1369,17/05/2012,788000,, Dr. Olsen Sec. School - Tuition fees for diabled students, transferd to Diabled ledger ( 201019),None
+201019, 40, Period Total,,,788000
+201019,41, Journal - GL,1902,01/06/2012,50000,,Mrs Espegren-pesa kwa ajili ya watoto walemavu (correction for wrong posting),
+201019,41, Journal - GL,1370,13/06/2012,30000,,Joseph Fransis - hlh receivable pv 67941 transferd to disabled ledger (201019),None
+201019,41, Journal - GL,1928,14/06/2012,2851800,,Walemavu / Dr. Olav - Use of HLH Cars Ref. Inv # 17613,None
+201019, 41, Period Total,,,2931800
+201019,43, Payment - GL,14991,21/08/2012,100000,,Paskali and martini-school fee pv 69112,None
+201019, 43, Period Total,,,100000
+201019,44, Journal - GL,1826,06/09/2012,339000,,Paskali and martini - school fee pv 69254 (Received from 102102),None
+201019,44, Receipt,12208,21/09/2012,,769230.76923077,randi espegren for mishoni joseph teacher 4angledi,
+201019,44, Payment - GL,14933,27/09/2012,40000,,Martine Gorwa-travelling expences back to school p,None
+201019, 44, Period Total,,,,390230.76923077
+201019,45, Journal - GL,1827,19/10/2012,300000,,Melkizedeki Tippe - 4 ANGLE DISABED CHILD PV 69824 (Received from GL 102102),None
+201019,45, Payment - GL,15443,25/10/2012,85000,,Paskali Tluway-scool expences (4-angled group) pv ,None
+201019,45, Journal - GL,1900,25/10/2012,284000,,Paskali Tluway - medical expenses incurred at HLH 2012,
+201019, 45, Period Total,,,669000
+201019,46, Payment - GL,15619,13/11/2012,225000,,Joseph Fransis-money for 4-Angle Disable children ,None
+201019, 46, Period Total,,,225000
+201019,47, Payment - GL,16083,10/12/2012,220000,,Paskali,Martini and Sebastiani-school expences pv ,
+201019,47, Payment - GL,16119,12/12/2012,142000,,Joseph Francis-Malipo ya mwalimu wa Mishoni pv 709,
+201019,47, Receipt,12892,31/12/2012,,657894.73684211,Turid Espegren for 4angled disabled children,None
+201019,47, Journal - GL,2015,31/12/2012,300000,,Michael john,
+201019, 47, Period Total,,,4105.2631578899
+201019,48, Payment - GL,16325,04/01/2013,114000,,Martini G. Ammi - expenses for school pv 71274/201,None
+201019,48, Payment - GL,16326,04/01/2013,114000,,Paskali Amma - expenses for school pv 71275/2013,None
+201019,48, Payment - GL,16728,22/01/2013,20000,,Cordinator Four Angle-fedha kwa ajili ya matibabu ,
+201019,48, Receipt,13913,30/01/2013,,6148611.1111111,Sorlandet Sykehus for 4angel disabled chldrn fund,
+201019, 48, Period Total,,,,5900611.1111111
+201019,49, Payment - GL,16914,06/02/2013,135000,,Mwl Herson Elikana-malipo ya kufundisha walemavu p,
+201019, 49, Period Total,,,135000
+201019,50, Payment - GL,17259,06/03/2013,120000,,Mwl Herson Elikana-malipo ya kufundisha walemavu p,
+201019,50, Receipt,13918,08/03/2013,,857142.85714286,Martine Brovig for teacher Mishoni Joseph,
+201019,50, Receipt,13919,11/03/2013,,71428.571428571,Gunner Brovig for food Mishoni Joseph,
+201019,50, Payment - GL,17370,19/03/2013,210000,,Melkizedeki Tippe-tuition fee for student Dec 2012,
+201019, 50, Period Total,,,,598571.42857143
+201019,51, Receipt,13923,02/04/2013,,69444.444444444,Gunnar Brovik,
+201019,51, Payment - GL,17622,16/04/2013,1080000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019,51, Payment - GL,17634,17/04/2013,182000,,Joseph Fransis-payment for teaching students (Mwl ,
+201019,51, Receipt,13927,17/04/2013,,277777.77777778,Gunner Brovig,
+201019,51, Receipt,13928,17/04/2013,277777.77777778,,correction,
+201019,51, Payment - GL,17598,22/04/2013,551000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019,51, Payment - GL,17672,24/04/2013,521000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019,51, Payment - GL,17697,29/04/2013,200000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019, 51, Period Total,,,2464555.5555556
+201019,52, Receipt,13930,02/05/2013,,69444.444444444,Gunnar Brovig,
+201019,52, Receipt,13932,07/05/2013,,14652222.222222,from Turid account,
+201019,52, Payment - GL,17817,16/05/2013,130000,,Elikana  Herson  - Payment for teaching pv 72884,None
+201019,52, Payment - GL,17818,16/05/2013,62000,,Mishoni Joseph  - Payment for meal allowance pv 72,None
+201019,52, Payment - GL,17828,17/05/2013,47000,,Hapiness John - 4angle disable children pv 72900/2,None
+201019, 52, Period Total,,,,14482666.666666
+201019,53, Receipt,14635,03/06/2013,,67567.567567568,Gunner Andre Brovig,
+201019,53, Payment - GL,17976,05/06/2013,560000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019,53, Payment - GL,17993,06/06/2013,197000,,Mwl Herson Elikana-malipo ya kufundisha walemavu p,
+201019,53, Payment - GL,17994,06/06/2013,5500,,Viridiana-ununuzi wa miwani ya Jua pv 73091,
+201019,53, Payment - GL,18060,17/06/2013,360000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019, 53, Period Total,,,1054932.4324324
+201019,54, Receipt,14664,02/07/2013,,67567.567567568,Gunner Andre Brovig,
+201019,54, Payment - GL,18167,04/07/2013,62000,,Joseph Fransis-meals allowance for Mishoni pv 7331,
+201019,54, Payment - GL,18235,11/07/2013,1181000,,Joseph Fransis-school expences  for disabled child,
+201019,54, Payment - GL,18298,17/07/2013,300000,,Melkizedeki Tippe-tuition fee for Dis abled childr,
+201019,54, Payment - GL,18402,31/07/2013,192000,,Mwl Herson and mishoni -allowance pv 73521,
+201019, 54, Period Total,,,1667432.4324324
+201019,55, Payment - GL,18405,01/08/2013,10000,,Melkizedeki Tippe-treatment for Dis abled children,
+201019,55, Payment - GL,18388,02/08/2013,3000000,,Joseph Fransis-copier machine  for disabled childr,
+201019,55, Payment - GL,18580,19/08/2013,450000,,Melkizedeki Tippe- expences for Disabled children ,
+201019, 55, Period Total,,,3460000
+201019,56, Payment - GL,18733,06/09/2013,187000,,Herson Elikana - Meal and Teaching allowance pv 73,None
+201019,56, Payment - GL,18847,20/09/2013,40000,,Joseph Fransis-matibabu ya Natalius Jacob pv 74029,
+201019,56, Payment - GL,18882,24/09/2013,307000,,Emanuel Stephano-school fee pv 74310,
+201019, 56, Period Total,,,534000
+201019,57, Balance C/Fwd,,,,7338254.2920014

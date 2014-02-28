@@ -1,0 +1,60 @@
+401007 - 1 for period 24 to 35
+401007,24, Payment - GL,7529,18/01/2011,22159609.8,,NSSF - Employer Contribution for Dec. 2010,None
+401007,24, Journal - GL,620,31/01/2011,1547299.13,,NSSF Sehemu ya Tajiri HLH Staff January 2011,Haydom School of Nursing
+401007,24, Journal - GL,620,31/01/2011,19972195.27,,NSSF Sehemu ya Tajiri HLH Staff January 2011,
+401007, 24, Period Total,,,43679104.2
+401007,25, Payment - GL,7951,23/02/2011,21519494.4,,NSSF contribution for the month of Jan. 2011,None
+401007,25, Journal - GL,742,23/02/2011,,21519494.4,Reclasification of pension scheme contribution wrongly posted,
+401007, 25, Period Total,,,0
+401007,26, Payment - GL,8186,24/03/2011,21628810.4,,HLH NSSF contribution for feb. 2011,None
+401007, 26, Period Total,,,21628810.4
+401007,27, Journal - GL,735,30/04/2011,21736730.5,,NSSF - Employer contr. April,
+401007, 27, Period Total,,,21736730.5
+401007,28, Payment - GL,8620,10/05/2011,21697870.8,,NSSF Contribution-March 2011 HLH,None
+401007,28, Journal - GL,745,31/05/2011,1545769.83,,Salary for May for HSN &amp; HLH Staff and all deductions &amp; payables net pay,Haydom School of Nursing
+401007,28, Journal - GL,745,31/05/2011,19932889.67,,Salary for May for HSN &amp; HLH Staff and all deductions &amp; payables net pay,
+401007, 28, Period Total,,,43176530.3
+401007,29, Payment - GL,8869,09/06/2011,21736730.5,,NSSF - Employees ,None
+401007,29, Payment - GL,8869,09/06/2011,21736730.5,,NSSF - Employer,None
+401007,29, Journal - GL,753,09/06/2011,,43473461,Reclasification of pension scheme contribution wrongly posted,
+401007,29, Journal - GL,778,30/06/2011,20444094.47,,Salary Analysis for the Month of June 2011and Receivables for other Project,
+401007, 29, Period Total,,,20444094.47
+401007,30, Payment - GL,9517,11/07/2011,21478659.5,,NSSF - Employees ,None
+401007,30, Payment - GL,9517,11/07/2011,21478659.5,,NSSF - Employer,None
+401007,30, Payment - GL,9516,21/07/2011,21989864.3,,NSSF - Employees ,None
+401007,30, Payment - GL,9516,21/07/2011,21989864.3,,NSSF-Employer,None
+401007,30, Journal - GL,787,31/07/2011,21024148.37,,HLH nssf staff for July 2011,
+401007, 30, Period Total,,,107961195.97
+401007,31, Payment - GL,9554,12/08/2011,417835.6,,NSSF.contribution B/lalu pv 63801,Balangdalalu Health Centre
+401007,31, Payment - GL,9555,12/08/2011,818101.8,,NSSF GLHC July  2011pv 63802,Gendabi Health Center
+401007,31, Payment - GL,9565,12/08/2011,,818101.8,NSSF GLHC July 2011 pv63801 correction,Gendabi Health Center
+401007,31, Payment - GL,9570,18/08/2011,21954232.4,,Employer,None
+401007,31, Payment - GL,9570,18/08/2011,21954232.4,,Employees,None
+401007,31, Journal - GL,834,31/08/2011,202013,,Guest House staffs NSSF contribution for August 2011,Guest House 
+401007,31, Journal - GL,834,31/08/2011,164704,,New Canteen staffs NSSF contribution for August 2011,New Canteen
+401007,31, Journal - GL,834,31/08/2011,19076,,Garden staff NSSF for August 2011,Hospital Garden
+401007,31, Journal - GL,834,31/08/2011,20331008.6,,HLH staffs pension scheme contribution/NSSF for August 2011,
+401007,31, Journal - GL,834,31/08/2011,1411892.9,,Garage staffs NSSF contribution for August 2011,Engineering Section ( Garage)
+401007, 31, Period Total,,,66454994.9
+401007,32, Payment - GL,9428,02/09/2011,21714839.9,,NSSF-EMPLOYER,None
+401007,32, Payment - GL,9428,02/09/2011,21714839.9,,NSSF-EMPLOYEES,None
+401007,32, Payment - GL,10402,16/09/2011,21954232.4,,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Payment - GL,10402,16/09/2011,21954232.4,,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Payment - GL,10403,16/09/2011,,21954232.4,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Payment - GL,10403,16/09/2011,,21954232.4,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Payment - GL,9567,18/09/2011,21954232.4,,Employer contribution,None
+401007,32, Payment - GL,9567,18/09/2011,21954232.4,,Employees contribution,None
+401007,32, Payment - GL,10404,18/09/2011,,21954232.4,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Payment - GL,10404,18/09/2011,,21954232.4,NSSF-HLH contribution for July posted twice - corr,None
+401007,32, Journal - GL,844,30/09/2011,2130070.2,,HLH Garage staff NSSF contribution -Sept.2011,Engineering Section ( Garage)
+401007,32, Journal - GL,844,30/09/2011,197791,,HLH New canteen staffs NSSF   Sept.2011,New Canteen
+401007,32, Journal - GL,844,30/09/2011,250368.8,,HLH Guest house staffs NSSF   Sept.2011,Guest House 
+401007,32, Journal - GL,844,30/09/2011,26362.6,,HLH Garden staff NSSF contribution -Sept.2011,Hospital Garden
+401007,32, Journal - GL,844,30/09/2011,20345889.1,,HLH medical departments and Admin staff NSSF Sept.2011,None
+401007, 32, Period Total,,,66380161.5
+401007,33, Journal - GL,894,31/10/2011,,499024.8,Crescent Ombay sehemu ya Tajiri HSN Inalipwa na HLH dai HSN,
+401007, 33, Period Total,,,,499024.8
+401007,34, Payment - GL,10350,21/11/2011,26688844.2,,NSSF-HLH employees contribution for Oct.2011 pv649,None
+401007,34, Payment - GL,10350,21/11/2011,26688844.2,,NSSF-HLH employers contribution for Oct.2011 pv649,None
+401007, 34, Period Total,,,53377688.4
+401007,35, Total Period Movement,,,444340285.84

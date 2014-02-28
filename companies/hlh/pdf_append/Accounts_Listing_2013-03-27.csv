@@ -1,0 +1,15 @@
+203027 - 0 for period 47 to 49
+203027, 47, Brought Forward Balance,,,,8041040
+203027,47, Journal - GL,1726,12/12/2012,,17000,Pension scheme contribution LAPF for Zacharia Panga pv 70953,
+203027,47, Journal - GL,1731,13/12/2012,,17000,LAPF-member contribution for the month of Nov 2012 ,
+203027,47, Payment - GL,16163,18/12/2012,8148040,,LAPF-members contribution for the month of Nov  20,
+203027,47, Journal - GL,1757,21/12/2012,,53500,LAPF-members contribution for Alicia Laurent for Dec 2012 ,
+203027,47, Journal - GL,1757,21/12/2012,,53500,Pension scheme contribution LAPF Employer contribution pv 71082,
+203027,47, Payment - GL,16254,28/12/2012,8299340,,LAPF-members contribution for the month of Dec   2,
+203027,47, Journal - GL,1813,31/12/2012,,8255040,LAPF-Employer contribution,
+203027, 47, Period Total,,,8051340
+203027,48, Journal - GL,1861,31/01/2013,,9331580,LAPF Employee/Employer contribution Jan.2013,
+203027, 48, Period Total,,,,9331580
+203027,49, Payment - GL,17089,18/02/2013,9331580,,LAPF-members contribution Jan 2013 pv 72064,
+203027, 49, Period Total,,,9331580
+203027,49, Balance C/Fwd,,,10300

@@ -1,0 +1,60 @@
+401002 - 1 for period 24 to 35
+401002,24, Payment - GL,7936,04/01/2011,10799991.36,,Sven Hinderaker, Consultancy Work, NOK 45000,Research (except Maled)
+401002,24, Payment - GL,7250,06/01/2011,2898260,,Cees &amp; Ilona - salary Dec.2011,None
+401002,24, Payment - GL,7347,07/01/2011,26607098.5356,,Anna Kari Olsen: remainder of her salary NOK 107,2,None
+401002,24, Payment - GL,7209,10/01/2011,8945905.7072,,Joshua Levens salary Dec10&amp;Jan11 USD 6016 PV61325,MAL- ED. project
+401002,24, Payment - GL,7512,17/01/2011,1406000,,Kositz Christian - Salary Top Up allowance for Dec,None
+401002,24, Payment - GL,7509,27/01/2011,1406000,,Kositz Christian - Salary Top Up allowance for Dec,None
+401002,24, Payment - GL,7510,27/01/2011,,1406000,Kositz Christian - Salary Top Up allowance for Dec,None
+401002, 24, Period Total,,,50657255.6028
+401002,25, Payment - GL,7686,01/02/2011,2898260,,Cees &amp; Ilona - salary Jan.2011,None
+401002,25, Payment - GL,7760,09/02/2011,1406800,,Kostz Christian - salary Jan.2011,None
+401002,25, Payment - GL,7761,09/02/2011,20000,,Lazaro Saulo - safari ya Kansay (posho),Kansay Health Center
+401002, 25, Period Total,,,4325060
+401002,26, Payment - GL,8228,03/03/2011,8286856.13227,,Salary support Wittrup Consult, NOK 33,550,HBB Research Project
+401002,26, Payment - GL,8064,08/03/2011,280000,,Dr. Per - salary for feb. 2011,None
+401002,26, Payment - GL,8080,08/03/2011,2898260,,Cees &amp; Ilona Rustenhoven - salary for feb. 2011,None
+401002,26, Payment - GL,8129,16/03/2011,1406800,,Dr. Christian Kositz - salary for feb. 2011,None
+401002, 26, Period Total,,,12871916.1323
+401002,27, Payment - GL,8287,08/04/2011,29599656.3203,,Brian Savage salary Jan-April 2011, NOK 123,332,None
+401002,27, Payment - GL,8365,08/04/2011,550000,,N Luxumay Services for payrol,None
+401002,27, Payment - GL,8526,15/04/2011,2898260,,Cees &amp; Ilona Rustenhoven - salary March.2011,None
+401002,27, Payment - GL,8498,20/04/2011,3002300,,Samaritan Lab Hause- Maintanance expences ,None
+401002,27, Payment - GL,8569,29/04/2011,1406800,,Salary for Cristian Kositz for March,None
+401002, 27, Period Total,,,37457016.3203
+401002,28, Payment - GL,8750,04/05/2011,24300024.3,,Erling Svensen, co-ordination fees, NOK 90,000,None
+401002,28, Payment - GL,8718,20/05/2011,2898260,,Salary for Ilona and Cees for April,None
+401002,28, Journal - GL,830,20/05/2011,600000,,Dr Olav Espegren part for Salary not receivable seeGL 8716,
+401002,28, Payment - GL,8754,24/05/2011,6026406.02641,,Erlend &amp; Heidi Wittrup, consultancy, NOK 22,320,None
+401002,28, Payment - GL,8755,24/05/2011,6026406.02641,,Erlend &amp; Heidi Wittrup, consultancy, NOK 22,320,None
+401002,28, Payment - GL,8756,24/05/2011,6026406.02641,,Erlend and Heidi Wittrup, consultancy, NOK 22,320,None
+401002,28, Payment - GL,8746,25/05/2011,1406800,,Kositz Cristian-salary for April 2011 pv63266,None
+401002, 28, Period Total,,,47284302.3792
+401002,29, Payment - GL,8814,04/06/2011,150000,,N Lukumay-Payttan services pv63332,None
+401002,29, Payment - GL,8922,30/06/2011,2898260,,Cees &amp; Ilona Rustenhoven - salary May.2011 pv63481,None
+401002,29, Payment - GL,8923,30/06/2011,500000,,Dr Alexader Rodinger project clown and theatre gro,None
+401002, 29, Period Total,,,3548260
+401002,30, Payment - GL,9103,01/07/2011,24974754.9748,,Brian Savage - Salaries for May - July 2011 Nok924,None
+401002,30, Journal - GL,759,08/07/2011,2898260,,Cees &amp; Ilona Rustenhoven - salary June.2011 pv63542 correction ,
+401002,30, Payment - GL,9048,20/07/2011,1406800,,Dr. Kositz Christian - salary for June 2011 pv6363,
+401002,30, Payment - GL,9068,22/07/2011,1500000,,Dr. Olav - part of his salary for june 2011 pv6366,
+401002, 30, Period Total,,,30779814.9748
+401002,31, Payment - GL,9162,06/08/2011,1500000,,Dr. Olav Espegren - part payment of his salary pv ,
+401002,31, Payment - GL,9207,15/08/2011,1406800,,Kositz Cristian-salary for July 2011 pv63821,
+401002,31, Payment - GL,9367,27/08/2011,896000,,Michael Kitabu-services for cobas machine lab-serv,None
+401002, 31, Period Total,,,3802800
+401002,32, Payment - GL,9633,20/09/2011,1000000,,Dr Olav Espegren - part of his salary pv64203,None
+401002,32, Payment - GL,9651,21/09/2011,1200000,,Yekonia Deles - safari ya kwenda kusuka motor ya m,None
+401002,32, Journal - GL,832,21/09/2011,,1200000,0	Yeconia Deles - Reverse transaction of wrong post. Arusha safari pv64220,None
+401002,32, Payment - GL,9738,24/09/2011,1000000,,Dr.Olav part of salary for July2011pv64276,None
+401002,32, Payment - GL,9782,30/09/2011,596000,,Kinyunyi - External expertise traveling allowances,None
+401002,32, Payment - GL,9794,30/09/2011,1000000,,Dr. Olav Espegren - part payment of his salary 643,Guest House 
+401002, 32, Period Total,,,3596000
+401002,33, Payment - GL,9823,04/10/2011,460000,,Dr. Olav Espegren - part payment of his salary pv ,None
+401002, 33, Period Total,,,460000
+401002,34, Payment - GL,10486,24/11/2011,800000,,Hans Valhenburg - Part of Nov. 2011 salary, pv6498,None
+401002,34, Payment - GL,10449,29/11/2011,2400000,,Hans Valhenburg - Part of Nov. 2011 salary, pv6602,None
+401002, 34, Period Total,,,3200000
+401002,35, Payment - GL,7332,17/12/2011,10817307.6923,,Sven Hinderaker Consultancy Work NOK45000 PV61326,MAL- ED. project
+401002,35, Receipt,5542,17/12/2011,,10817307.6923,Wrong booking, NOK 45000,MAL- ED. project
+401002,35, Total Period Movement,,,197982425.409

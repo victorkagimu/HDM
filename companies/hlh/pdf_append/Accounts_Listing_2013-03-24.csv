@@ -1,0 +1,40 @@
+203061 - 0 for period 24 to 35
+203061, 24, Brought Forward Balance,,,,147936303.4801
+203061,26, Receipt,6215,24/03/2011,,89387693,Borrowed money from rehabilitation acc, see PV 61347, NOK 350,000,None
+203061,26, Payment - GL,8627,24/03/2011,89387693,,Reverse the loan of NOK 350,000 ,None
+203061,26, Payment - GL,8628,24/03/2011,50553127.33,,Reverse loan from Gift A/c (Mama Kari) to HLH ,None
+203061,26, Payment - GL,11727,24/03/2011,93094690.3714,,HLH, correction short term loan, NOK 350k, PV66113,None
+203061,26, Receipt,6221,31/03/2011,,50553127.33,Loan from Gift A/c (Mama Kari) to HLH runing A/C Rv260200,
+203061,26, Receipt,6225,31/03/2011,,18934300.8,Loan from Gift A/c (Mama Kari) to HLH runing A/C,
+203061,26, Receipt,6226,31/03/2011,,8816285.99,Loan from Gift A/c (Mama Kari) to HLH runing A/C,
+203061,26, Payment - GL,8629,31/03/2011,18934300.8,,Reverse loan from Gift A/c (Mama Kari) to HLH ,None
+203061,26, Payment - GL,8630,31/03/2011,8816285.99,,Reverse loan from Gift A/c (Mama Kari) to HLH ,None
+203061,26, Receipt,6589,31/03/2011,,51346601.1,Correct amount Loan as per bank statement (mama Kari),
+203061,26, Receipt,6590,31/03/2011,,8954665,Correct amount Loan as per bank statement (mama Kari),
+203061,26, Receipt,6591,31/03/2011,,19231490.55,Correct amount Loan as per bank statement (mama Kari),
+203061,26, Receipt,6592,31/03/2011,,90790708.3,Correct amount of Loan from rehabilitation acc ,
+203061, 26, Period Total,,,,77228774.5786
+203061,27, Receipt,6578,01/04/2011,,199952859,Loan received from Friends of Haydom Rv 268407,
+203061, 27, Period Total,,,,199952859
+203061,33, Payment - GL,10099,07/10/2011,900000,,Daudi Lotto-mkopo wa mshahara pv64411,None
+203061, 33, Period Total,,,900000
+203061,34, Receipt,9353,07/11/2011,,2500000,Pepfar mkopo wa muda mfupi,None
+203061,34, Receipt,9354,07/11/2011,2500000,,Pepfar mkopo Correction,None
+203061,34, Receipt,9355,07/11/2011,,2500000,Pepfar mkopo wa muda mfupi,None
+203061,34, Payment - GL,11330,07/11/2011,2500000,,Pepfar short term Loan - wrongly booked,None
+203061,34, Payment - GL,10309,16/11/2011,900000,,Daudi Lotto - Short period Lorn, 64856pv,None
+203061,34, Payment - GL,10333,18/11/2011,900000,,Joshua Gideon - Oct. 2011 short term loan, 64885pv,None
+203061,34, Payment - GL,11231,18/11/2011,138181818.182,,pay back loan infra acc,None
+203061,34, Payment - GL,11232,18/11/2011,43636363.6364,,pay back loan infra acc,None
+203061,34, Payment - GL,11233,18/11/2011,30303030.303,,pay back loan Mama Kari acc,None
+203061,34, Payment - GL,10436,26/11/2011,300000,,Dr. Joram M. Theobald - Adv. salary Dec. 2011, pv6,None
+203061,34, Payment - GL,10443,29/11/2011,900000,,Dr. Daudi Lotto - Nov. salary 2011, loan. pv66022,None
+203061,34, Journal - GL,914,30/11/2011,,3600000,Daudi Lotto receivable for Salary PV64411/64856/64885/66022/2011,
+203061,34, Journal - GL,1006,30/11/2011,,300000,Wrong posting 2011,
+203061, 34, Period Total,,,211221212.1214
+203061,35, Payment - GL,10726,27/12/2011,2000000,,Haydom shule ya ufundi - short term loan pv65258,None
+203061,35, Journal - GL,1007,31/12/2011,,2000000,Corection pv 65258/2011,
+203061,35, Payment - GL,11721,31/12/2011,752414.778992,,Being adjustment of exchang rate differences now c,None
+203061,35, Payment - GL,11721,31/12/2011,1855261.14379,,Being adjustment of exchang rate differences now c,None
+203061, 35, Period Total,,,2607675.922782
+203061,35, Balance C/Fwd,,,,210389049.01452

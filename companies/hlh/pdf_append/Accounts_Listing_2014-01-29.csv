@@ -1,0 +1,67 @@
+404012 - 1 for period 48 to 59
+404012,48, Journal - GL,1962,01/01/2013,750000,,Visa fees paid 27/11/2012 for Brit and Lena dentists,
+404012,48, Journal - GL,1962,01/01/2013,750000,,Visa fees paid 27/12/2012 for Robbie Julia,
+404012,48, Payment - GL,16830,30/01/2013,2398920.5457274,,Amon Ndeki-work permit for none residence pv 71774,
+404012,48, Journal - GL,1869,31/01/2013,,2446983.66,Reclasification booking for work permits,None
+404012,48, Journal - GL,1871,31/01/2013,2446983.66,,Correction of Reclasification booking for work permits,None
+404012, 48, Period Total,,,3898920.5457274
+404012,49, Payment - GL,17044,15/02/2013,2223999.2559348,,Amon Ndeki-work permit for none residence pv 71998,
+404012,49, Receipt,13879,19/02/2013,,2057454.2857143,Robbie Kerr and julia Webster working permit,
+404012, 49, Period Total,,,166544.9702205
+404012,50, Payment - GL,17286,08/03/2013,1349392.8069717,,Amon Ndeki-work permit for none residence pv 72238,
+404012,50, Receipt,13769,21/03/2013,,285714.28571429,Rieke Schottwer - work permit rv298788,None
+404012,50, Receipt,13770,21/03/2013,,285714.28571429,Carolin Rose - work permit rv298789,None
+404012,50, Receipt,13771,21/03/2013,,285714.28571429,Gudran Hackening - work permit rv298790,None
+404012, 50, Period Total,,,492249.94982883
+404012,51, Receipt,13470,03/04/2013,,428571.42857143,Thea Helene work permit rv299456/2013,
+404012,51, Receipt,13471,03/04/2013,,428571.42857143,Anne Sofie work permit rv299457/2013,
+404012,51, Payment - GL,17522,10/04/2013,1949122.9434035,,Amon Ndeki-work permit for none residence pv 72571,
+404012,51, Payment - GL,17602,22/04/2013,2623819.3468894,,Amon Ndeki-work permit for none residence pv 72695,
+404012, 51, Period Total,,,3715799.43315
+404012,53, Receipt,14181,03/06/2013,,285714.28571429,Margeet Meijering work permit rv301437/2013,
+404012,53, Receipt,14182,03/06/2013,,285714.28571429,Leshe Bleeher work permit payment rv301438/2013,
+404012,53, Payment - GL,17964,04/06/2013,1349190.4182895,,Amon Ndeki-work permit for none residence pv 73060,
+404012, 53, Period Total,,,777761.84686092
+404012,54, Receipt,14631,10/07/2013,,1012859.4594595,accommodation Cairns GBP618,
+404012,54, Journal - GL,2424,10/07/2013,,11441600,Correction for Wrong posting FROM a/c404012 to a/c404014,
+404012,54, Payment - GL,18382,29/07/2013,11441600,,Innovex Audit -audit fee for Finanncial year ended,
+404012, 54, Period Total,,,,1012859.4594595
+404012,55, Receipt,15024,06/08/2013,,956278.94736842,Mayke and Jonas-work permit 600usd,
+404012, 55, Period Total,,,,956278.94736842
+404012,58, Receipt,15569,06/11/2013,,416666.66666667,A.P.S.P Suryapranata work permint d250 308927,
+404012,58, Receipt,15593,08/11/2013,,333333.33333333,Willemyn Roelviuk work permint 309302/2013,
+404012,58, Receipt,15597,08/11/2013,,333333.33333333,Daphne Boom pasport pemint 309306/2013,
+404012,58, Payment - GL,19274,09/11/2013,3200000,,Saulo Nakei-work permit for none residence pv 7473,None
+404012,58, Receipt,15637,09/11/2013,,416666.66666667,Velles Heidi - payment for CTA rv309310,None
+404012,58, Receipt,15638,09/11/2013,,416666.66666667,Marianne Hirdinger - payment for CTA rv309311,None
+404012,58, Receipt,15639,09/11/2013,,416666.66666667,Kristian S. Triegde - payment for CTA rv309312,None
+404012,58, Receipt,15640,09/11/2013,,416666.66666667,Arthur Lieveld - payment for CTA rv309313,None
+404012,58, Receipt,15677,14/11/2013,,1000000,Anita/Olaf Kari - refund of work permit rv309333,None
+404012,58, Receipt,15700,19/11/2013,,416666.66666667,Line margit Omland - payment for CTA rv309565,None
+404012,58, Receipt,15704,19/11/2013,,640000,James Mckinlay - application for permit rv309569,None
+404012,58, Payment - GL,19397,22/11/2013,1760000,,Joseph Ndukusi Work permit an special pass pv 7492,Administration
+404012,58, Payment - GL,19365,25/11/2013,3840000,,Saulo Nakei-work permit for none residence pv 7490,None
+404012,58, Receipt,15735,25/11/2013,,416666.66666667,Hanne Louise - work permit rv310001,None
+404012,58, Receipt,15736,25/11/2013,,416666.66666667,Stine Steinsland - work permit rv310002,None
+404012,58, Receipt,15737,25/11/2013,,583333.33333333,Magne Hansson - work permit rv310003,None
+404012,58, Receipt,15739,25/11/2013,,833333.33333333,Joseph Ndukusi - retirement of pv74926 rv310005,None
+404012,58, Payment - GL,19432,25/11/2013,94000,,Joseph Ndukusi - Exceed for work permit pv 74954,Administration
+404012,58, Payment - GL,19449,28/11/2013,960000,,Saulo Nakei-work permit for none residence pv 7498,None
+404012,58, Receipt,15789,29/11/2013,,333333.33333333,Saulo Nakei - retirement of pv74986 rv310156,None
+404012, 58, Period Total,,,2464000
+404012,59, Receipt,15862,04/12/2013,,480000,Turaf Rgland  - working permit rv310175,None
+404012,59, Payment - GL,19670,20/12/2013,320000,,Saulo Nakei-work permit for none residence pv 7427,None
+404012,59, Payment - GL,19671,23/12/2013,800000,,Saulo Nakei-work permit for none residence pv 7427,None
+404012,59, Receipt,16080,23/12/2013,,400000,Alphonce Munyaw - work permit for Lydia rv311030,None
+404012,59, Payment - GL,19742,23/12/2013,,800000,Saulo Nakei-work permit for none residence pv 7427,None
+404012,59, Payment - GL,19743,23/12/2013,800000,,Saulo Nakei-work permit for none residence pv 7427,
+404012,59, Payment - GL,19691,27/12/2013,1920000,,Jonas &amp; Mykes - Work permit for non residence pv 7,None
+404012,59, Payment - GL,19734,27/12/2013,1920000,,Jonas &amp; Mykes - Work permit for non residence pv 7,None
+404012,59, Payment - GL,19732,30/12/2013,320000,,Saulo Nakei-work permit for for Lydia  pv 74272,None
+404012,59, Payment - GL,19735,30/12/2013,,1920000,Jonas &amp; Mykes - Work permit for non residence pv 7,None
+404012,59, Receipt,16252,30/12/2013,320000,,Saulo Nakei-work permit for for Lydia pv 74272 correction,None
+404012,59, Payment - GL,19740,31/12/2013,400000,,Saulo Nakei  - Work permit for Andrew  pv 75025,None
+404012,59, Payment - GL,19825,31/12/2013,400000,,Saulo Nakei - Work permit for Andrew pv 75025,None
+404012,59, Payment - GL,19826,31/12/2013,,400000,Saulo Nakei - Work permit for Andrew pv 75025,None
+404012, 59, Period Total,,,3200000
+404012,59, Total Period Movement,,,12746138.33896

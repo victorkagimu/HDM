@@ -1,0 +1,83 @@
+404020 - 1 for period 36 to 48
+404020,36, Payment - GL,10853,09/01/2012,124000,,PMTCT-milk bill for Dec. 2011 pv 65361,HAPO Department
+404020,36, Payment - GL,11297,31/01/2012,99200,,HAPO - Milk for Jan. 2012, Pv65865,HAPO Department
+404020,36, Payment - GL,11298,31/01/2012,148000,,HAPO - Milk for Jan. 2012, Pv65866,HAPO Department
+404020, 36, Period Total,,,371200
+404020,37, Payment - GL,11303,01/02/2012,299150,,HAPO - Maziwa, walezi wa watoto(PMTCT), Pv65871,HAPO Department
+404020,37, Payment - GL,11382,02/02/2012,551300,,HAPO - PMCTC Jan, 2012 Milk, pv65890,HAPO Department
+404020,37, Payment - GL,11351,03/02/2012,49600,,PMTCT-milk bill for Jan 2012 pv 65906,HAPO Department
+404020,37, Payment - GL,11367,06/02/2012,24800,,PMTCT-milk bill for Jan 2012 pv 65926,HAPO Department
+404020,37, Payment - GL,11398,08/02/2012,24800,,Maria Daudi - PMCT Milk bill for Jan.2012, Pv65962,HAPO Department
+404020,37, Payment - GL,11787,27/02/2012,48000,,HAPO - PMCTC Febr, 2012 Milk, pv66389,HAPO Department
+404020,37, Payment - GL,11743,28/02/2012,70400,,PMTCT-milk bill for February 2012 pv 66401,HAPO Department
+404020,37, Payment - GL,11761,29/02/2012,185600,,PMTCT-milk bill for February 2012 pv 66414,HAPO Department
+404020, 37, Period Total,,,1253650
+404020,38, Payment - GL,11772,01/03/2012,346400,,PMTCT-milk bill for February 2012 pv 66428,HAPO Department
+404020,38, Payment - GL,11854,02/03/2012,423400,,HAPO - PMCTC Febr, 2012 Milk, pv66442,HAPO Department
+404020,38, Payment - GL,11814,06/03/2012,23200,,HAPO - PMCTC Febr, 2012 Milk, pv66467,HAPO Department
+404020,38, Journal - GL,1204,06/03/2012,23200,,HAPO - PMCTC Febr, 2012 Milk, pv66469 correction for wrong posting,HAPO Department
+404020,38, Payment - GL,12088,30/03/2012,322400,,PMTCT-milk bill for March 2012 pv 66737,HAPO Department
+404020, 38, Period Total,,,1138600
+404020,39, Payment - GL,12126,02/04/2012,719200,,PMTCT-milk bill for March 2012 pv 66746,HAPO Department
+404020,39, Payment - GL,12145,03/04/2012,219200,,HAPO - PMCTC March, 2012 Milk, pv66759,None
+404020,39, Payment - GL,12156,04/04/2012,24800,,HAPO - PMCTC March, 2012 Milk, pv66767,HAPO Department
+404020,39, Payment - GL,12589,30/04/2012,394000,,Maziwa PMTCT pv67257,HAPO Department
+404020, 39, Period Total,,,1357200
+404020,40, Payment - GL,12968,02/05/2012,564000,,HAPO - PMCTC April, 2012 Milk, pv67273,HAPO Department
+404020,40, Payment - GL,12985,03/05/2012,48000,,HAPO - PMCTC April, 2012 Milk, pv67280,HAPO Department
+404020,40, Payment - GL,13009,04/05/2012,100000,,Delvina Mushi - Partient food  support, Pv67286,HAPO Department
+404020,40, Payment - GL,13013,04/05/2012,24000,,HAPO - PMCTC April, 2012 Milk, pv67290,HAPO Department
+404020,40, Payment - GL,13023,04/05/2012,48000,,HAPO - PMCTC April, 2012 Milk, pv67300,None
+404020,40, Payment - GL,13029,08/05/2012,24000,,PMTCT-milk bill for April 2012 pv 67318,HAPO Department
+404020,40, Payment - GL,13129,29/05/2012,197600,,PMTCT-milk bill for May 2012 pv 67791,HAPO Department
+404020,40, Payment - GL,13145,31/05/2012,272800,,PMTCT-milk bill for May 2012 pv 67809,HAPO Department
+404020, 40, Period Total,,,1278400
+404020,41, Payment - GL,13211,04/06/2012,643800,,PMTCT-milk bill for May 2012 pv 67851,HAPO Department
+404020,41, Payment - GL,13556,29/06/2012,216000,,PMTCT-bill ya maziwa kwa mwezi pv 68219,None
+404020, 41, Period Total,,,859800
+404020,42, Payment - GL,13585,03/07/2012,690000,,PMTCT-milk bill for June 2012 pv 68237,HAPO Department
+404020,42, Payment - GL,13628,09/07/2012,78000,,PMTCT-milk bill for June 2012 pv 68295,HAPO Department
+404020,42, Payment - GL,14011,31/07/2012,204600,,PMTCT-bill ya maziwa kwa mwezi July 2012 pv 68697,HAPO Department
+404020,42, Payment - GL,14012,31/07/2012,49600,,PMTCT-bill ya maziwa kwa mwezi July 2012 pv 68698,HAPO Department
+404020, 42, Period Total,,,1022200
+404020,43, Payment - GL,14014,01/08/2012,384400,,PMTCT-bill ya maziwa kwa Mwezi  July 2012 pv 68700,HAPO Department
+404020,43, Payment - GL,14044,03/08/2012,179800,,HAPO - PMCTC July 2012 Milk, pv68734,HAPO Department
+404020,43, Payment - GL,14507,29/08/2012,99200,,PMTCT-bill ya maziwa kwa mwezi August  2012 pv 691,HAPO Department
+404020,43, Payment - GL,14515,30/08/2012,130200,,PMTCT-bill ya maziwa kwa mwezi August  2012 pv 691,HAPO Department
+404020,43, Payment - GL,14452,31/08/2012,80600,,PMTCT-bill ya maziwa kwa Mwezi  August 2012 pv 692,None
+404020, 43, Period Total,,,874200
+404020,44, Payment - GL,14473,04/09/2012,737800,,PMTCT-bill ya maziwa kwa mwezi August 2012 pv 6923,HAPO Department
+404020,44, Payment - GL,14594,13/09/2012,31000,,PMTCT-bill ya maziwa kwa mwezi August  2012 pv 698,HAPO Department
+404020, 44, Period Total,,,768800
+404020,45, Payment - GL,15020,01/10/2012,564000,,PMTCT-bill ya maziwa kwa mwezi Sept 2012 pv 69401,HAPO Department
+404020,45, Payment - GL,15090,03/10/2012,96000,,PMTCT-bill ya maziwa kwa mwezi Sept 2012 pv 69431,None
+404020,45, Payment - GL,15091,03/10/2012,24000,,PMTCT-bill ya maziwa kwa mwezi Sept   2012 pv 6943,HAPO Department
+404020,45, Payment - GL,15131,08/10/2012,50000,,PMTCT-bill ya maziwa kwa mwezi Sept   2012 pv 6946,HAPO Department
+404020,45, Payment - GL,15210,11/10/2012,24000,,PMTCT-bill ya maziwa kwa mwezi Sept   2012 pv 6951,HAPO Department
+404020,45, Payment - GL,15235,11/10/2012,24000,,PMTCT-bill ya maziwa kwa mwezi Sept   2012 pv 6954,HAPO Department
+404020,45, Payment - GL,15473,31/10/2012,198400,,PMTCT-bill ya maziwa kwa mwezi October   2012 pv 7,None
+404020, 45, Period Total,,,980400
+404020,46, Payment - GL,15501,01/11/2012,533200,,PMTCT-bill ya maziwa kwa mwezi October   2012 pv 7,None
+404020,46, Payment - GL,15502,02/11/2012,55800,,PMTCT-bill ya maziwa kwa mwezi October   2012 pv 7,None
+404020,46, Payment - GL,15550,07/11/2012,24800,,PMTCT-bill ya maziwa kwa mwezi October   2012 pv 7,HAPO Department
+404020,46, Payment - GL,15985,30/11/2012,150000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70828,
+404020,46, Payment - GL,15987,30/11/2012,78000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70831,
+404020,46, Payment - GL,15990,30/11/2012,84000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70834,
+404020, 46, Period Total,,,925800
+404020,47, Payment - GL,16036,04/12/2012,606000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70901,None
+404020,47, Payment - GL,16044,05/12/2012,30000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70911,
+404020,47, Payment - GL,16047,05/12/2012,60000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70914,
+404020,47, Payment - GL,16075,10/12/2012,24000,,PMTCT-bill ya maziwa kwa mwezi Nov  2012 pv 70947,
+404020,47, Payment - GL,16275,28/12/2012,74400,,PMTCT-bill ya maziwa kwa mwezi Dec   2012 pv 71138,
+404020,47, Payment - GL,16277,28/12/2012,167400,,PMTCT-bill ya maziwa kwa mwezi Dec   2012 pv 71141,
+404020,47, Payment - GL,16281,31/12/2012,359600,,PMTCT-bill ya maziwa kwa mwezi Dec   2012 pv 71145,
+404020,47, Payment - GL,16290,31/12/2012,210800,,PMTCT-bill ya maziwa kwa mwezi Dec   2012 pv 71204,
+404020, 47, Period Total,,,1532200
+404020,48, Payment - GL,16306,02/01/2013,210800,,PMTC - Milk for the Children Dec 2012 pv 71257/201,None
+404020,48, Payment - GL,16318,03/01/2013,93000,,PMTC -Milk for children pv 71267/2013,None
+404020,48, Payment - GL,16333,04/01/2013,55800,,PMTC -Milk for children pv 71283/2013,None
+404020,48, Payment - GL,16824,29/01/2013,29000,,PMTCT-food support pv 71767,
+404020,48, Payment - GL,16835,30/01/2013,322400,,PMTCT-food support  Jan  pv 71781,
+404020,48, Payment - GL,16844,31/01/2013,86800,,PMTCT-food support  Jan  pv 71791,
+404020, 48, Period Total,,,797800
+404020,48, Total Period Movement,,,13160250

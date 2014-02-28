@@ -1,0 +1,46 @@
+102102 - 0 for period 41 to 45
+102102, 41, Brought Forward Balance,,,185873681.704309
+102102,41, Payment - GL,13178,01/06/2012,330000,,Philipo Marco-safari allowance to Morogoro pv 6781,None
+102102,41, Payment - GL,13189,01/06/2012,520600,,sadikieli Kaay-HLH receivable pv 67828,None
+102102,41, Payment - GL,13191,04/06/2012,925000,,NBC bank-mkopo kwa watu ambao A/C zenye matatizo p,None
+102102,41, Payment - GL,13194,04/06/2012,2685000,,Clemence Mao-mkopo kwa ajili ya HVTEC pv 67834,None
+102102,41, Receipt,11207,04/06/2012,,925000,NBC bank-hlh other receivable rv285415,None
+102102,41, Payment - GL,13285,13/06/2012,30000,,Joseph Fransis-hlh receivable pv 67941,None
+102102,41, Journal - GL,1370,13/06/2012,,30000,Joseph Fransis - hlh receivable pv 67941 transferd to disabled ledger (201019),None
+102102,41, Payment - GL,13315,15/06/2012,5000000,,KKKT-Usharika wa Mbulu-Mkopo pv 67952,None
+102102,41, Receipt,10857,22/06/2012,,3000000,Martha Massawe -amerudisha mkopo wa ICDP rv285248,None
+102102,41, Payment - GL,13540,28/06/2012,520600,,Dr.Sadikieli,loan to be received by HLH pv 68197,None
+102102,41, Receipt,11035,28/06/2012,,230000,Philipo Marco - retirement of Moro Safari rv286726,None
+102102,41, Payment - GL,13549,29/06/2012,11492400,,Intern Doctors -salary for June  2012  pv 68211,None
+102102,41, Payment - GL,13552,29/06/2012,3360000,,HVTEC-mkopo toka hospitali pv 68215,None
+102102,41, Receipt,11206,29/06/2012,,3044348,4CCP-salaryb Jan-May rv 285408,None
+102102,41, Receipt,11222,29/06/2012,,11492400,MoH-slary for Interns Doctors June 2012 rv 0260,None
+102102, 41, Period Total,,,6141852
+102102,42, Receipt,11129,02/07/2012,,1350135.0135014,Rev Lazaro Rohho-loan repayment rv286740,None
+102102,42, Receipt,11104,06/07/2012,,400000,PEPFAR Refund of loan CTC RV287779/2012,
+102102,42, Receipt,11565,10/07/2012,,5250000,Sorlan-Money for ICDP to HLH USD AC rv 285427,None
+102102,42, Payment - GL,13652,11/07/2012,1070000,,Clemence Mmao-loan from HLH pv 68329,None
+102102,42, Payment - GL,13917,23/07/2012,5000000,,Martha Massawe-loan for ICDP to be received by HLH,None
+102102,42, Payment - GL,13918,23/07/2012,250000,,Martha Massawe-loan for ICDP to be received by HLH,None
+102102,42, Payment - GL,13981,26/07/2012,11492400,,Salary and allowance for interns doctor-July 2012 ,None
+102102, 42, Period Total,,,10812264.986499
+102102,43, Payment - GL,14016,01/08/2012,689239,,Mch.Zakaria Dalei-money transfared to our akount p,None
+102102,43, Receipt,11505,01/08/2012,,11492400,MoH-Intern doctor salary  July 2012 rv 0263,None
+102102,43, Journal - GL,1373,01/08/2012,,689239,Mch.Zakaria Dalei - money transfared to our akount pv 68702 (RV posted to 3rd part Ledger),None
+102102,43, Journal - GL,1361,14/08/2012,,14000,KKKT Jimbo la Haydom - Payment for inv.16184 from Acc. for Dr. Upendo, ref. pv 68826,None
+102102,43, Payment - GL,14492,24/08/2012,826000,,Spring City Garage-maintanance of Dr Olav\'s Car p,None
+102102,43, Receipt,11564,29/08/2012,,11492400,MoH-Intern doctor salary August 2012 rv 0268,None
+102102,43, Payment - GL,14509,30/08/2012,11492400,,Salary for Interns Doctor\'s August 2012 pv 69185,None
+102102, 43, Period Total,,,,10680400
+102102,44, Payment - GL,14524,06/09/2012,339000,,Paskali and martini-school fee pv 69254,None
+102102,44, Payment - GL,14547,07/09/2012,520600,,Sadikieli Kaay-part of salary as loan pv 69281,None
+102102,44, Payment - GL,14488,11/09/2012,9000000,,Amon Ndeki-payment for work permit  and receivable,None
+102102,44, Receipt,11654,12/09/2012,,4500450.0450045,Amon Ndeki - dollar drawing rv290648,
+102102,44, Payment - GL,14819,21/09/2012,500000,,Clemence Mmao - Part of loan to HVTEC, Pv70169,None
+102102,44, Payment - GL,14908,26/09/2012,1000000,,Clement Mmao-loan from HLH pv 69315,None
+102102,44, Payment - GL,14962,28/09/2012,150000,,Ayubu Danieli-safari ya Arusha kuchukua gari la ol,None
+102102,44, Payment - GL,14977,28/09/2012,500000,,Antoni Shanguya-loan toHVTEC pv 69385,None
+102102,44, Payment - GL,14982,30/09/2012,1426000,,Estomi Mduma-safari imprest to India pv 69391 ,None
+102102,44, Payment - GL,14984,30/09/2012,5289600,,Salary,None
+102102, 44, Period Total,,,14224749.954995
+102102,45, Balance C/Fwd,,,206372148.6458

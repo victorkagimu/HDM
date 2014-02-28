@@ -1,0 +1,17 @@
+102111 - 0 for period 51 to 52
+102111, 51, Brought Forward Balance,,,11734499
+102111,51, Payment - GL,17661,25/04/2013,167198,,4CCP-salary for April 2013 pv pv 72752,
+102111,51, Payment - GL,17664,25/04/2013,1808095,,4CCP-salary for April 2013 (NBC)pv pv 72752,
+102111,51, Payment - GL,17663,30/04/2013,361718.7,,4CCP-Paye April 2013  pv 72758,
+102111,51, Payment - GL,17846,30/04/2013,597400,,4CCP-salary for April 2013 pv 72739 cash,
+102111, 51, Period Total,,,2934411.7
+102111,52, Journal - GL,2086,09/05/2013,296000,,Fanueli Sappa - Road licence and Insurance pv 7283 (R. Lisence &amp; Insurance for T. 542 ACN),T 542 ACN
+102111,52, Payment - GL,17861,16/05/2013,32040,,4CCP-NHIF contribution April 2013 ,
+102111,52, Payment - GL,17863,16/05/2013,277400,,4CCP-LAPF contribution April 2013 ,
+102111,52, Payment - GL,17869,16/05/2013,17143.7,,4CCP-Tughe contribution April 2013 ,
+102111,52, Payment - GL,17876,23/05/2013,290506,,4CCP-NSSF contribution April 2013 pv 72790,
+102111,52, Payment - GL,17912,29/05/2013,165998,,4CCP-salary for May 2013 pv pv 72794,
+102111,52, Payment - GL,17913,29/05/2013,1900895,,4CCP-salary for May 2013 pv pv 72796 NBC,
+102111,52, Payment - GL,17914,29/05/2013,361718.7,,4CCP-Paye May  2013  pv 72795,
+102111, 52, Period Total,,,3341701.4
+102111,52, Balance C/Fwd,,,18010612.1

@@ -1,0 +1,30 @@
+203053 - 0 for period 23 to 23
+203053, 23, Brought Forward Balance,,,,190428725.805
+203053,23, Journal - GL,573,07/12/2010,,754525,Nazareth Import and Export, invoice 13211, prepaid by Brian Savage,
+203053,23, Journal - GL,575,07/12/2010,112830164,,Payroll Nov.2010 (correction of misposting),
+203053,23, Journal - GL,576,07/12/2010,85147784,,HLH payroll Nov.2010 (corretion of misposting),
+203053,23, Receipt,5348,08/12/2010,,15000000,Millicent Kadioli -NOK.9000 rv.260173,
+203053,23, Receipt,5350,08/12/2010,,452981.24,Millicent K.Ouma - $320 rv.260174,
+203053,23, Payment - GL,7175,08/12/2010,15000000,,Millicent Kadioli -NOK.9000 rv.260173(correction o,None
+203053,23, Payment - GL,7176,08/12/2010,452981.24,,Millicent K.Ouma - $320 rv.260174 correction of mi,None
+203053,23, Journal - GL,574,12/12/2010,,37000,Eye Clinic, prepaid by Brian Savage,
+203053,23, Receipt,5353,16/12/2010,,15000000,HLH 4CCP - project rv.260175,
+203053,23, Journal - GL,571,21/12/2010,,80000,A&amp;A Computers, cartridges, pre-payment Brian Savage,
+203053,23, Payment - GL,7077,22/12/2010,15000000,,Cultural Prj. 4ccp,None
+203053,23, Journal - GL,636,22/12/2010,,21738986.4,Correction for Reclacification,
+203053,23, Journal - GL,638,22/12/2010,21738986.4,,Correction of pension scheme wrongly booked,
+203053,23, Journal - GL,572,23/12/2010,,240000,Medical supplies, prepaid by Brian Savage,
+203053,23, Receipt,5307,31/12/2010,,11639033,HLH 4CCP Project rv.264871,
+203053,23, Journal - GL,578,31/12/2010,,22024328,HLH Doctors &amp; Lab.staff - offs pays 2010,
+203053,23, Journal - GL,586,31/12/2010,,5710311,HLH wages for Dec.2010 payablers PV.61757,None
+203053,23, Receipt,5568,31/12/2010,,229643,Kari G. - for Mama Kadogo (payable),
+203053,23, Receipt,5574,31/12/2010,,2268659,Turid Olsen- Money received into NBC running Rv.0208,
+203053,23, Receipt,5578,31/12/2010,,2229500,UCRT (Ujamaa Community) ,
+203053,23, Receipt,5585,31/12/2010,2268659,,Turid Olsen- Money received into NBC running,
+203053,23, Receipt,5586,31/12/2010,,2268659.74,Turid Olsen- Money received into NBC running,
+203053,23, Receipt,5729,31/12/2010,229643,,Kari G. - for Mama Kadogo (payable) - reverse ,
+203053,23, Receipt,5730,31/12/2010,,229643.9,Kari G. - for Mama Kadogo (payable),
+203053,23, Journal - GL,627,31/12/2010,,3909967,Scania Tanzania Ltd  Arusha &amp; DSM  PAYABLE 2010,
+203053,23, Journal - GL,651,31/12/2010,11639033,,Reclasification of cleared receivables,
+203053, 23, Period Total,,,160494013.36
+203053,23, Balance C/Fwd,,,,29934712.445

@@ -1,0 +1,34 @@
+102103 - 0 for period 35 to 35
+102103, 35, Brought Forward Balance,,,16891465.752707
+102103,35, Payment - GL,10699,01/12/2011,150000,,Neema Atnasio-advance salary  Dec 2011,None
+102103,35, Payment - GL,10507,02/12/2011,100000,,Sadikieli Kaay - Adv. salary Dec. 2011, pv65014,None
+102103,35, Payment - GL,10513,02/12/2011,150000,,Eliwaza Joseph - Adv. salary, Dec. 2011, pv65023,None
+102103,35, Receipt,8837,02/12/2011,,300000,Dr. Thomas Tippe - return of adv. salary rv278319,None
+102103,35, Payment - GL,10521,05/12/2011,250000,,Michael Saqware - Adv. salary, Dec. 2011, pv65032,None
+102103,35, Payment - GL,10522,05/12/2011,80000,,Marco Elias - Adv. salary Dec. 2011, pv65033,None
+102103,35, Payment - GL,10523,05/12/2011,120000,,Yakobo Gidabanja - Adv. salary Dec. 2011, pv65034,None
+102103,35, Payment - GL,10529,05/12/2011,100000,,Herson Hayshi - Adv. salary Nov. 2011, pv65041,None
+102103,35, Payment - GL,10530,05/12/2011,120000,,Saulo Nakei - Adv. salary Dec. 2011, pv65042,None
+102103,35, Payment - GL,10538,06/12/2011,20000,,Ester Simon - Adv. salary Dec. 2011, pv65050,Guest House 
+102103,35, Payment - GL,10543,07/12/2011,100000,,Bernadeta Gisagan - Adv. salary Dec. 2011, pv65107,None
+102103,35, Payment - GL,10544,07/12/2011,100000,,Ester Tarmo - Adv. salary Dec. 2011, pv65109,Guest House 
+102103,35, Payment - GL,10545,07/12/2011,30000,,Saulo Seth - Adv. salary Dec. 2011, pv65110,None
+102103,35, Payment - GL,10547,07/12/2011,400000,,Mary Peter - Adv. salary Dec. 2011, pv65112,None
+102103,35, Payment - GL,10548,07/12/2011,150000,,Elifadhili Noah - Adv, salary, Dec. 2011, pv65113,None
+102103,35, Payment - GL,10554,07/12/2011,300000,,Elisamehe Hombo - Adv. salary Dec. 2011, pv65120,None
+102103,35, Payment - GL,10572,08/12/2011,100000,,Elibariki Gideon - Adv. salary Dec. 2011, pv65141,None
+102103,35, Receipt,8795,08/12/2011,,550000,Philmon Joshua - return adv salary rv278766,None
+102103,35, Payment - GL,10571,09/12/2011,200000,,Upendo G. Qaymo - Adv. salary Nav. 2011, pv65139,None
+102103,35, Payment - GL,10574,09/12/2011,150000,,Daudi Mayega - Adv. salary Dec. 2011, pv65143,None
+102103,35, Payment - GL,10697,27/12/2011,400000,,Philemon Joshua - adv wage for Dec2011 pv65249,None
+102103,35, Receipt,9044,27/12/2011,,400000,Philmon Joshua - return adv salary rv279346,None
+102103,35, Receipt,9084,27/12/2011,,300000,Benson Mwakukwa.adv.rtrm rv279331,None
+102103,35, Receipt,9069,30/12/2011,,30000,Loema Emanuel return of adv.sal rv279560,None
+102103,35, Receipt,9072,30/12/2011,,40000,Loema Emanuel return of adv.sal rv279563,None
+102103,35, Receipt,9073,30/12/2011,,70000,Ester Nade-refund for advance sal. rv279564,None
+102103,35, Journal - GL,949,31/12/2011,,220000,Wazee mid month advances receivables Dec.2011,
+102103,35, Journal - GL,963,31/12/2011,,4906000,HLH staff mid month adv. receivable Dec.2011,
+102103,35, Journal - GL,966,31/12/2011,,100000,Mid Month Advances/scrapers Governmet staff for Dec 2011,
+102103,35, Journal - GL,1175,31/12/2011,,1775822.75,Being unrecognized salary advance before 2009 now expensed ,
+102103, 35, Period Total,,,,5671822.75
+102103,35, Balance C/Fwd,,,11219643.002707

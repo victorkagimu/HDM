@@ -1,0 +1,70 @@
+203058 - 0 for period 24 to 40
+203058, 24, Brought Forward Balance,,,90307380.098867
+203058,24, Payment - GL,7493,24/01/2011,2168841.6,,Mulbadaw Farm - NSSF Dec.2010,None
+203058,24, Receipt,5641,31/01/2011,,44000,Dr. I. Malleyeck-sale of maize rv266077,
+203058,24, Journal - GL,622,31/01/2011,2266388,,NSSF Mulbadaw Farm Staff October 2010,
+203058,24, Journal - GL,623,31/01/2011,2266388,,NSSF Mulbadaw Farm Staff October 2010,
+203058,24, Journal - GL,624,31/01/2011,,4532776,Correction 2010 not 2011,
+203058, 24, Period Total,,,2124841.6
+203058,25, Payment - GL,7674,15/02/2011,396949,,Wages,None
+203058,25, Payment - GL,7960,24/02/2011,2269758.8,,NSSF contribution for Mulbadaw- Jan. 2011,None
+203058,25, Payment - GL,7983,26/02/2011,520748,,PAYE for Feb. 2011,None
+203058,25, Journal - GL,729,28/02/2011,,6979896,HLH cars and tractors using Mulbadaw\'s diesel,
+203058, 25, Period Total,,,,3792440.2
+203058,26, Payment - GL,8191,25/03/2011,2210528.6,,NSSF contribution for Mulbadaw- Feb. 2011,None
+203058,26, Payment - GL,8238,31/03/2011,445913,,PAYE - March 2011,None
+203058, 26, Period Total,,,2656441.6
+203058,27, Payment - GL,8514,27/04/2011,2202688,,NSSF - Mulbadaw Farm march 2011,None
+203058,27, Journal - GL,725,30/04/2011,445913,,Correction of  wrong booking ,
+203058, 27, Period Total,,,2648601
+203058,28, Payment - GL,8771,30/05/2011,2208283,,NSSF - Mulbadaw Farm April 2011 pv63290,Hospital Farms
+203058,28, Payment - GL,8772,30/05/2011,445913,,PAYE Mulbadaw ,None
+203058,28, Journal - GL,743,31/05/2011,,4359862.06,Milk from Mulbadaw/diesel/T603AFQ/T107AFR/T118BEU/T125/AVC/T117AVC/T704ABB/T655AFR/Exavetor,
+203058, 28, Period Total,,,,1705666.06
+203058,29, Journal - GL,752,20/06/2011,23100000,,Mulbadaw Farm use HLH  Tractors  Recevable see Inv 15950/2011,
+203058,29, Journal - GL,1050,28/06/2011,450370,,Mulbadaw Farm PAYE June 2011,
+203058,29, Journal - GL,1054,30/06/2011,2302769.8,,PAYE Staff for June  itis not pay 2011,
+203058, 29, Period Total,,,25853139.8
+203058,30, Payment - GL,8952,05/07/2011,2232272,,NSSF May,2011 - Mulbadaw Farm pv63519,None
+203058,30, Payment - GL,8954,05/07/2011,,2232272,NSSF May,2011 - Mulbadaw Farm pv63519,None
+203058,30, Payment - GL,8955,05/07/2011,2232272,,NSSF May,2011 - Mulbadaw Farm pv63519,None
+203058,30, Journal - GL,760,25/07/2011,,526500,T655AFR use Diesel from Mulbadaw Farm Inv 230/238/2011,
+203058, 30, Period Total,,,1705772
+203058,31, Payment - GL,9558,12/08/2011,2993073,,NSSF - Mulbadaw Farm July  2011 pv 63803,Hospital Farms
+203058, 31, Period Total,,,2993073
+203058,32, Journal - GL,1056,01/09/2011,684168,,PAYE for Mulbadaw Staff August 2011,
+203058,32, Journal - GL,1009,16/09/2011,2561788.8,,NSSF -Mulbadaw Farm August2011/pv64160,
+203058,32, Journal - GL,848,30/09/2011,,1748500,Tractor ABB use diesel from Mulbadaw Farm 2011,
+203058,32, Journal - GL,908,30/09/2011,,112650000,Clearance of Mulbadaw farm outstandings,None
+203058, 32, Period Total,,,,111152543.2
+203058,33, Payment - GL,9893,04/10/2011,684168,,PAYE for HLH,Kansay,B/lalu,Gendabi and Mulbadaw fo,None
+203058,33, Payment - GL,10135,27/10/2011,2583790.6,,Mulbadaw Farm - NSSF Contr. sept. 2011, 64683pv,None
+203058, 33, Period Total,,,3267958.6
+203058,34, Journal - GL,975,04/11/2011,634824,,PAYE Deductions for Mulbadaw Farm October2011 corection GL 10185,
+203058,34, Journal - GL,976,22/11/2011,2605779.6,,NSSF -Mulbadaw Farm October corection GL10395,
+203058,34, Payment - GL,10429,26/11/2011,433524.3,,Mulbadaw farm - PAYE Nov. 2011, Pv66008,Hospital Farms
+203058,34, Journal - GL,910,30/11/2011,,212400,Mulbadaw Farm  kutoa maziwa kwa Canteen/2011,
+203058,34, Journal - GL,911,30/11/2011,212400,,Corection GL 910/2011,
+203058,34, Journal - GL,912,30/11/2011,123799,,Sehemu ya paye February 2011 ilitakiwa 520748 -123799,
+203058, 34, Period Total,,,3797926.9
+203058,35, Payment - GL,10558,08/12/2011,2576281.4,,NSSF - Mulbadaw Farm Nov.  2011 pv 65125,Hospital Farms
+203058,35, Payment - GL,11186,27/12/2011,434572,,PAYE Mulbadaw,None
+203058,35, Journal - GL,1055,30/12/2011,2494389.8,,NSSF Staff for Mulbadaw Farm oustanding to end of Year 2011 will pay Jan.2012,
+203058,35, Journal - GL,977,31/12/2011,15133300,,Mulbadaw Farm use HLH Cars othersInv 15999/15985/161757/2011,
+203058,35, Journal - GL,1042,31/12/2011,,675500,Maziwa &amp; Diesel Tractors Scania to Mulbadaw Farm inv.267/264/266/2011,
+203058, 35, Period Total,,,19963043.2
+203058,36, Payment - GL,12037,09/01/2012,2494389.8,,NSSF-Mulbadaw farm contribution Dec.2011 pv 66691,None
+203058,36, Payment - GL,11265,28/01/2012,434572,,PAYE - HLH,KLHC,GLHC,BLHC Aand Mulbadaw Farm Jan.2,None
+203058, 36, Period Total,,,2928961.8
+203058,37, Payment - GL,11691,18/02/2012,2475722.2,,NSSF - Mulbadaw Farm Jan. 2012, Pv66309,None
+203058, 37, Period Total,,,2475722.2
+203058,39, Payment - GL,12154,04/04/2012,2339463,,NSSF - Mulbadaw Farm Febr. 2012, Pv66766,None
+203058,39, Payment - GL,12187,04/04/2012,619401,,PAYE - HLH staf, Wazee,Gvt., BLHC, GLHC, KLHC &amp; Mu,None
+203058,39, Payment - GL,12593,30/04/2012,2454536.2,,NSSF - Mulbadaw Farm March. 2012, Pv67259,None
+203058,39, Journal - GL,1271,30/04/2012,,6218980,Invoice281/270/274/277/269/2012from Mulbadaw Farm HLH Tractors &amp;Milk for Lena Ward ,
+203058, 39, Period Total,,,,805579.8
+203058,40, Payment - GL,12982,03/05/2012,612218,,PAYE - HLH staf, Wazee,Gvt., BLHC, GLHC, KLHC &amp; Mu,None
+203058,40, Receipt,10650,25/05/2012,,12384000,HLH Farm Mulbadaw receivable rv285202/2012,
+203058,40, Payment - GL,13127,29/05/2012,612218,,TRA-payment for PAYE May 2012 pv 67790,None
+203058, 40, Period Total,,,,11159564
+203058,40, Balance C/Fwd,,,32107068.538867

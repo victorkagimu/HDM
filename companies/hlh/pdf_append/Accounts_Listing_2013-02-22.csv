@@ -1,0 +1,48 @@
+203007 - 0 for period 36 to 47
+203007, 36, Brought Forward Balance,,,,16785406.58
+203007,36, Journal - GL,1164,31/01/2012,,54931579.4,NSSF Employer and Employee contribution Jan 2012,
+203007, 36, Period Total,,,,54931579.4
+203007,37, Journal - GL,1194,29/02/2012,,55180118.8,NSSF - Employer and Employee contribution for Febr.2012,
+203007, 37, Period Total,,,,55180118.8
+203007,38, Journal - GL,1212,31/03/2012,,55410056.6,Employee &amp; Employer contribution March 2012,
+203007, 38, Period Total,,,,55410056.6
+203007,39, Payment - GL,12613,13/04/2012,55529629,,NSSF-contribution HLH January 2012 pv 67315,None
+203007,39, Payment - GL,13079,13/04/2012,400000,,January NSSF understated  correction ,None
+203007,39, Payment - GL,12590,30/04/2012,55180118.8,,NSSF - HLH February. 2012 pv67258,None
+203007,39, Payment - GL,12598,30/04/2012,55644606.6,,NSSF - HLH March. 2012 pv67263,None
+203007,39, Journal - GL,1262,30/04/2012,,55324915,Employee &amp; Employer contribution April 2012,
+203007, 39, Period Total,,,111429439.4
+203007,40, Journal - GL,1290,31/05/2012,,55552801.6,NSSF - Employer and Employee contribution for May.2012,
+203007, 40, Period Total,,,,55552801.6
+203007,41, Payment - GL,13914,01/06/2012,55324915,,NSSF.contribution for May 2012 pv 68599,None
+203007,41, Payment - GL,13217,06/06/2012,55552801.6,,TISS-for NSSF May 2012 pv 67858,None
+203007,41, Payment - GL,13558,27/06/2012,27846929.2,,NSSF-contribution HLH-Employees,None
+203007,41, Journal - GL,1331,27/06/2012,27846929.2,,Pension scheme contribution,
+203007,41, Journal - GL,1308,30/06/2012,,55693858.4,Employee &amp; Employer contribution  for June 2012,
+203007, 41, Period Total,,,110877716.6
+203007,42, Journal - GL,1345,31/07/2012,,55686499.6,Employee &amp; Employer contributions July 2012,
+203007, 42, Period Total,,,,55686499.6
+203007,43, Payment - GL,14032,03/08/2012,55686499.6,,NSSF - HLH staff employer &amp; Employees July 2012 Co,None
+203007,43, Journal - GL,1379,31/08/2012,,54755867.8,NSSF contribution from Admin. and medical depart. Employee for Aug. 2012,
+203007,43, Journal - GL,1379,31/08/2012,,736172,LAPF contribution from Admin. and medical depart. Employee for Aug. 2012,
+203007, 43, Period Total,,,194459.8
+203007,44, Payment - GL,15002,14/09/2012,693162,,LAPF-members contribution for the month of August ,None
+203007,44, Payment - GL,15012,28/09/2012,54755867.8,,NSSF.contribution for September  2012 pv 69592,None
+203007,44, Journal - GL,1399,30/09/2012,,1206460,LAPF Employee Employer contribution Sept.2012,
+203007,44, Journal - GL,1399,30/09/2012,,62419164.6,NSSF - Employer and Employee contribution for sept..2012,
+203007,44, Journal - GL,1399,30/09/2012,,347958,PPF  Employer &amp;  Employee contribution Sept.2012,
+203007, 44, Period Total,,,,8524552.8
+203007,45, Payment - GL,15424,24/10/2012,62419164.6,,NSSF.contribution for September  2012 pv 70223,None
+203007,45, Payment - GL,15434,24/10/2012,1206460,,LAPF-members contribution for the month of sEPT 20,None
+203007,45, Payment - GL,15435,24/10/2012,347958,,PPF-members contribution for the month of October ,None
+203007,45, Journal - GL,1435,31/10/2012,,62020296,NSSF - Employer and Employee contribution for Oct..2012,
+203007, 45, Period Total,,,1953286.6
+203007,46, Payment - GL,15630,14/11/2012,62020296,,NSSF.contribution for HLH October   2012 pv 70473,None
+203007,46, Journal - GL,1683,30/11/2012,,61325029.4,NSSF - Employer and Employee contribution for Nov.2012,
+203007, 46, Period Total,,,695266.6
+203007,47, Journal - GL,1730,13/12/2012,,65150,NSSF-deduction from Beatrice Wanjiku Nov 2012 ,
+203007,47, Journal - GL,1733,13/12/2012,,65150,NSSF-deduction from Beatrice Wanjiku Nov 2012,
+203007,47, Payment - GL,16168,18/12/2012,61201329.4,,NSSF.contribution for HLH Nov   2012 pv 71006,
+203007,47, Journal - GL,1813,31/12/2012,,60996533.4,NSSF-Employer and Employees contribution,
+203007, 47, Period Total,,,74496
+203007,47, Balance C/Fwd,,,,76846350.38
