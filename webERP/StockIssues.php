@@ -16,9 +16,9 @@ include('includes/SQL_CommonFunctions.inc');
 if (isset($_POST['CheckCode'])) {
 
 	if (strlen($_POST['StockText'])>0) {
-		$sql='SELECT stockid, description from stockmaster where description like "%'.$_POST['StockText'].'%"';
+		$sql='SELECT stockid, description from stockmaster where description like "%'.$_POST['StockText'].'%" and discontinued = 0';
 	} else {
-		$sql='SELECT stockid, description from stockmaster where stockid like "%'.$_POST['StockCode'].'%"';
+		$sql='SELECT stockid, description from stockmaster where stockid like "%'.$_POST['StockCode'].'%" and discontinued = 0';
 	}
 	$result = DB_query($sql,$db,$ErrMsg,$DbgMsg);
 	echo '<table><tr><th>'._('Stock Code').'</th><th>'._('Stock Description').'</th></tr>';
