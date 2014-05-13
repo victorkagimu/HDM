@@ -12,7 +12,6 @@ $title = _('Stock Issues');
 include('includes/header.inc');
 include('includes/SQL_CommonFunctions.inc');
 
-
 if (isset($_POST['CheckCode'])) {
 
 	if (strlen($_POST['StockText'])>0) {
@@ -29,14 +28,19 @@ if (isset($_POST['CheckCode'])) {
 }
 
 if (isset($_GET['NewAdjustment'])){
-     unset($_SESSION['Adjustment']);
-     $_SESSION['Adjustment'] = new StockAdjustment;
+	unset($_SESSION['Adjustment']);
+	$_SESSION['Adjustment'] = new StockAdjustment;
 }
 
 if (!isset($_SESSION['Adjustment'])){
-     $_SESSION['Adjustment'] = new StockAdjustment;
+	$_SESSION['Adjustment'] = new StockAdjustment;
 }
 
+if(isset($_POST['EnterAdjustment']) && $_POST['EnterAdjustment']=='Cancel Issue')
+{
+	unset($_SESSION['Adjustment']);
+	unset($_POST);
+}
 $NewAdjustment = false;
 
 if (isset($_GET['StockID'])){
@@ -47,14 +51,17 @@ if (isset($_GET['StockID'])){
 		$NewAdjustment = true;
 		$_SESSION['Adjustment']->StockID = trim(strtoupper($_POST['StockID']));
 	}
-	
+
 	$_SESSION['Adjustment']->Narrative = $_POST['Narrative'];
 	$_SESSION['Adjustment']->StockLocation = $_POST['StockLocation'];
+	$_SESSION['tag']->tag=$_POST['tag'];
 	if ($_POST['Quantity']=='' or !is_numeric($_POST['Quantity'])){
 		$_POST['Quantity']=0;
 	}
 	$_SESSION['Adjustment']->Quantity = $_POST['Quantity'];
 }
+
+
 
 if ($NewAdjustment){
 
@@ -72,8 +79,8 @@ if ($NewAdjustment){
 	$myrow = DB_fetch_row($result);
 
 	if (DB_num_rows($result)==0){
-                prnMsg( _('Unable to locate Stock Code').' '.$_SESSION['Adjustment']->StockID, 'error' );
-				unset($_SESSION['Adjustment']);
+		prnMsg( _('Unable to locate Stock Code').' '.$_SESSION['Adjustment']->StockID, 'error' );
+		unset($_SESSION['Adjustment']);
 	} elseif (DB_num_rows($result)>0){
 
 		$_SESSION['Adjustment']->ItemDescription = $myrow[0];
@@ -94,6 +101,62 @@ if ($NewAdjustment){
 		}
 	}
 }
+
+
+if (isset($_POST['EnterAdjustment']) && $_POST['EnterAdjustment']=="Enter Stock Issue"){
+	echo '<FORM ACTION="'. $_SERVER['PHP_SELF'] . '?' . SID . '" METHOD=POST>';
+	echo '<input type="hidden" name="FormID" value="' . $_SESSION['FormID'] . '" />';
+
+	//repeating thr system, now a great thing to do
+	if (!isset($_SESSION['Adjustment'])) {
+		$StockID='';
+		$Controlled= 0;
+		$Quantity = 0;
+	} else {
+		$StockID = $_POST['StockID'];
+		$Controlled = $_POST['Controlled'];
+		$Quantity = $_POST['Quantity'];
+		$StockLocation=$_POST['StockLocation'];
+		$Narrative=$_POST['Narrative'];
+		//$tagdescription=$_SESSION['Adjustment']->$tagdescription;
+	}
+
+	
+	/*if (isset($_SESSION['Adjustment']) and strlen($_SESSION['Adjustment']->ItemDescription)>1){
+		echo '<TR><TD COLSPAN=3><FONT COLOR=BLUE SIZE=3>' . $_SESSION['Adjustment']->ItemDescription . ' ('._('In Units of').' ' . $_SESSION['Adjustment']->PartUnit . ' ) - ' . _('Unit Cost').' = ' . $_SESSION['Adjustment']->StandardCost . '</FONT></TD></TR>';
+	}
+
+
+	if (!isset($_SESSION['Adjustment']->Narrative)) {
+		$_SESSION['Adjustment']->Narrative = '';
+	}
+	*/
+	
+	/*
+	 *THIS COMMENTED SECTION OF CODE WAS BUILT TO IMPLEMENT A CONFIRM DIALOGUE
+	 * REMOVED ON REQUEST 
+	 * TO ACTIVATE IT, UNCOMMENT AND
+	 * 
+	 * YOU CHANGE THE TEXT AT LINE 244 (	if(!$InputError && $_POST['EnterAdjustment']=="Enter Stock Issue"){)
+	 * TO THIS (	if(!$InputError && $_POST['EnterAdjustment']=="Confirm Stock Issue"){
+	
+
+	echo '<CENTER><tr><th> You are going to make a stock issue, are you sure you want to issue this stock</th></tr>';
+	echo '<TABLE>';
+	echo '<TR><TD>'. _('Stocks Code'). ':</TD><TD><input type=text name="StockID" size=21 value="' . $StockID .'" maxlength=20></td></tr>';
+	echo '<TR><TD>'. _('Issued From Stock At Location').':</TD><TD><input type=text name="StockLocation" size=21 value="' . $StockLocation . '" maxlength=20></td></tr>';
+	echo '<tr><td>' . _('Select Tag') . ':</td><TD><input type=text name="tag" size=21 value="' . $_POST['tag']. '" maxlength=20></td></tr>';
+	echo '<TR><TD>'. _('Comments On Why').':</TD><TD><input type=text name="Narrative" size=32 maxlength=30 value="' . $Narrative. '"></TD></TR>';
+	echo '<tr><td>'._('Issued Date').'</td><td><input type=text name=issueddate size=10 value="'.Date($_SESSION['DefaultDateFormat']).'"></td></tr>';
+	echo '<TR><TD>'._('Issued Quantity').':</TD><TD><input type=text name="Quantity" size=32 maxlength=30 value="' . $Quantity . '"></TD></TR>';
+	echo '</TABLE><BR><INPUT TYPE=SUBMIT NAME="EnterAdjustment" VALUE="'. _('Confirm Stock Issue'). '"><br><br><INPUT TYPE=SUBMIT NAME="EnterAdjustment" VALUE="'. _('Cancel Issue'). '">';
+	echo '<HR>';
+	echo '</form>';
+	include 'includes/footer.inc';
+	exit;*/
+
+}
+
 
 if (isset($_POST['EnterAdjustment']) && $_POST['EnterAdjustment']!= ''){
 //israel started here
@@ -121,7 +184,51 @@ if (isset($_POST['EnterAdjustment']) && $_POST['EnterAdjustment']!= ''){
 	}
 
 	if ($_SESSION['ProhibitNegativeStock']==1){
-		$SQL = "SELECT quantity FROM locstock
+		//rplce with input error
+		// remove this for loop foreach ($_SESSION['Items']->LineItems as $OrderLine) {
+			$SQL = "SELECT stockmaster.description,
+					   		locstock.quantity,
+					   		stockmaster.mbflag
+		 			FROM locstock
+		 			INNER JOIN stockmaster
+					ON stockmaster.stockid=locstock.stockid
+					WHERE stockmaster.stockid='" . $_SESSION['Adjustment']->StockID . "'
+					AND locstock.loccode='" . $_SESSION['Adjustment']->StockLocation .  "'";
+
+			$ErrMsg = _('Could not retrieve the quantity left at the location once this order is invoiced (for the purposes of checking that stock will not go negative because)');
+			$Result = DB_query($SQL,$db,$ErrMsg);
+			$CheckNegRow = DB_fetch_array($Result);
+			if (($CheckNegRow['mbflag']=='B' OR $CheckNegRow['mbflag']=='M') AND mb_substr($_SESSION['Adjustment']->StockID,0,4)!='ASSET'){
+				if ($CheckNegRow['quantity'] < $_SESSION['Adjustment']->Quantity){
+					prnMsg( _('Invoicing the selected order would result in negative stock. The system parameters are set to prohibit negative stocks from occurring. This invoice cannot be created until the stock on hand is corrected.'),'error',$OrderLine->StockID . ' ' . $CheckNegRow['description'] . ' - ' . _('Negative Stock Prohibited'));
+					$InputError = true;
+				}
+			} elseif ($CheckNegRow['mbflag']=='A') {
+
+				/*Now look for assembly components that would go negative */
+				$SQL = "SELECT bom.component,
+							   stockmaster.description,
+							   locstock.quantity-(" . $_SESSION['Adjustment']->Quantity  . "*bom.quantity) AS qtyleft
+						FROM bom
+						INNER JOIN locstock
+						ON bom.component=locstock.stockid
+						INNER JOIN stockmaster
+						ON stockmaster.stockid=bom.component
+						WHERE bom.parent='" . $_SESSION['Adjustment']->StockID . "'
+						AND locstock.loccode='" . $_SESSION['Adjustment']->StockLocatio . "'
+						AND effectiveafter <'" . Date('Y-m-d') . "'
+						AND effectiveto >='" . Date('Y-m-d') . "'";
+
+				$ErrMsg = _('Could not retrieve the component quantity left at the location once the assembly item on this order is invoiced (for the purposes of checking that stock will not go negative because)');
+				$Result = DB_query($SQL,$db,$ErrMsg);
+				while ($NegRow = DB_fetch_array($Result)){
+					if ($NegRow['qtyleft']<0){
+						prnMsg(_('Invoicing the selected order would result in negative stock for a component of an assembly item on the order. The system parameters are set to prohibit negative stocks from occurring. This invoice cannot be created until the stock on hand is corrected.'),'error',$NegRow['component'] . ' ' . $NegRow['description'] . ' - ' . _('Negative Stock Prohibited'));
+						$InputError= true;
+					} // end if negative would result
+				} //loop around the components of an assembly item
+			}//end if its an assembly item - check component stock*/
+		/*$SQL = "SELECT quantity FROM locstock
 				WHERE stockid='" . $_SESSION['Adjustment']->StockID . "'
 				AND loccode='" . $_SESSION['Adjustment']->StockLocation . "'";
 		$CheckNegResult=DB_query($SQL,$db);
@@ -129,15 +236,22 @@ if (isset($_POST['EnterAdjustment']) && $_POST['EnterAdjustment']!= ''){
 		if ($CheckNegRow['quantity']+$_SESSION['Adjustment']->Quantity <0){
 			$InputError=true;
 			prnMsg(_('The system parameters are set to prohibit negative stocks. Processing this stock adjustment would result in negative stock at this location. This adjustment will not be processed.'),'error');
-		}
+		}*/
 	}
+	
+	//changes here to confirm dialogue.php
+	
+	
+		
+	
+		
+	if(!$InputError && $_POST['EnterAdjustment']=="Enter Stock Issue"){
 
-	if (!$InputError) {
-
-/*All inputs must be sensible so make the stock movement records and update the locations stocks */
+		/*All inputs must be sensible so make the stock movement records and update the locations stocks */
 
 		$AdjustmentNumber = GetNextTransNo(14,$db);
 		$PeriodNo = GetPeriod ($_POST['issueddate'], $db);
+	
 		//$SQLAdjustmentDate = FormatDateForSQL(Date($_SESSION['DefaultDateFormat']));
 		//$SQLAdjustmentDate=$siku[2].'-'.'0'.$m.'-'.$siku[0];
 		$SQL = 'BEGIN';
@@ -341,7 +455,7 @@ echo '<CENTER><TABLE><TR><TD>'. _('Stocks Code'). ':</TD><TD><input type=text na
   '" maxlength=20> <INPUT TYPE=SUBMIT NAME="CheckCode" VALUE="'._('Check Part').'"></TD></TR>';
 
 if (isset($_SESSION['Adjustment']) and strlen($_SESSION['Adjustment']->ItemDescription)>1){
-	echo '<TR><TD COLSPAN=3><FONT COLOR=BLUE SIZE=3>' . $_SESSION['Adjustment']->ItemDescription . ' ('._('In Units of').' ' . $_SESSION['Adjustment']->PartUnit . ' ) - ' . _('Unit Cost').' = ' . $_SESSION['Adjustment']->StandardCost . '</FONT></TD></TR>';
+	echo '<TR><TD COLSPAN=3><FONT COLOR=BLUE SIZE=3>' ./* $_SESSION['Adjustment']->ItemDescription . ' ('._('In Units of').' ' . $_SESSION['Adjustment']->PartUnit . ' ) - ' . _('Unit Cost').' = ' . $_SESSION['Adjustment']->StandardCost . */'</FONT></TD></TR>';
 }
 
 echo '<TR><TD>'. _('Issued From Stock At Location').':</TD><TD><SELECT name="StockLocation"> ';
